@@ -1,0 +1,2 @@
+# Jediná závislost za běhu. Ověřeno na verzi 1.8.0 (licence GPL-3.0-or-later).
+piper-tts==1.8.0
