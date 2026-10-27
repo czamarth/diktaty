@@ -25,7 +25,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Callable, Optional
 
-MODEL_ID = "cs_CZ-jirka-medium"
+MODEL_ID = "cs_CZ-kasandra-medium"
 SOUND_CHECK_TEXT = "Zvuk funguje. Můžeme začít."
 CACHE_SCHEMA = 1
 MIN_LENGTH_SCALE = 0.5

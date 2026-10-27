@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Jednorázové stažení českého hlasu pro Piper (cs_CZ-jirka-medium).
+"""Jednorázové stažení českého hlasu pro Piper (cs_CZ-kasandra-medium).
 
 Toto je JEDINÝ krok aplikace, který potřebuje internet, a spouští se jen výslovně tímto příkazem.
 Aplikace sama nikdy nic nestahuje a při chybějícím modelu nepřechází na jiný hlas ani na vzdálenou službu.
@@ -31,7 +31,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from tts_service import MODEL_ID, TtsService  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_BASE = "https://huggingface.co/rhasspy/piper-voices/resolve/main/cs/cs_CZ/jirka/medium"
+DEFAULT_BASE = "https://huggingface.co/rhasspy/piper-voices/resolve/main/cs/cs_CZ/kasandra/medium"
 FILES = [(f"{MODEL_ID}.onnx", True), (f"{MODEL_ID}.onnx.json", True), ("MODEL_CARD", False)]
 HEX64 = re.compile(r"^[0-9a-f]{64}$")
 
@@ -47,8 +47,9 @@ Diktáty potřebují jednorázově stáhnout český hlas pro lokální předč�
   Velikost:  řádově desítky MB
 
 Po stažení aplikace funguje bez internetu a nic dalšího nestahuje.
-Licence: engine Piper je GPL-3.0-or-later; dataset hlasu je podle karty modelu CC0
-(kartu si po stažení přečtěte v models/MODEL_CARD; licenci celého balíčku z licence datasetu neodvozujte).
+Licence: engine Piper je GPL-3.0-or-later; hlas Kasandra (autor Ondřej Šimek) je podle karty modelu CC BY 4.0,
+tj. vyžaduje uvedení autora. Kartu si po stažení přečtěte v models/MODEL_CARD; licenci celého balíčku z licence
+hlasu neodvozujte. Původ základního modelu, ze kterého byl hlas trénován, karta neuvádí.
 """
 
 

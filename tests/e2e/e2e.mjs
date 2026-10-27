@@ -76,7 +76,7 @@ async function newPage({ fakeVoice = true, ttsDelay = 0, viewport = { width: 110
   });
   if (fakeVoice) {
     await page.route('**/api/health', (route) => route.fulfill({ json: {
-      status: 'ready', ready: true, model: { id: 'cs_CZ-jirka-medium', file: 'cs_CZ-jirka-medium.onnx', sha256: 'a'.repeat(64), lock: 'ok', sample_rate: 22050 },
+      status: 'ready', ready: true, model: { id: 'cs_CZ-kasandra-medium', file: 'cs_CZ-kasandra-medium.onnx', sha256: 'a'.repeat(64), lock: 'ok', sample_rate: 22050 },
       engine: { name: 'TEST-HARNESS (ne řeč)', version: '0', license: 'n/a' }, cache: { entries: 0, bytes: 0 }, sound_check_text: 'Zvuk funguje. Můžeme začít.', error: null } }));
     await page.route('**/api/tts', async (route) => {
       calls.push(JSON.parse(route.request().postData()));
@@ -102,7 +102,7 @@ console.log('\nA) Výběr, příprava, dětský přehrávač, řešení (hlas = 
     const text = await page.textContent('main');
     assert.ok(!/\bnull\b|\[object/.test(text), 'nezpracované hodnoty v textu');
     assert.equal(await page.locator('select').first().inputValue(), '3');
-    assert.match(await page.textContent('#voice-badge'), /cs_CZ-jirka-medium \(lokálně\)/);
+    assert.match(await page.textContent('#voice-badge'), /cs_CZ-kasandra-medium \(lokálně\)/);
   });
 
   await step('podporovaná varianta nabídne D03 a oznámí předvyplnění „slabý“', async () => {

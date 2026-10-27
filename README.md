@@ -1,6 +1,6 @@
 # Diktáty
 
-Lokální webová aplikace pro **české diktáty**. Rodič nebo učitel vybere text podle ročníku nebo pravopisného okruhu, upraví, co dítě skutečně probralo, a aplikace diktát **předčítá po větách** lokálním hlasem (Piper, `cs_CZ-jirka-medium`). Dítě píše na papír; správné znění se ukáže až po dokončení. Po jednorázovém stažení hlasu běží bez internetu.
+Lokální webová aplikace pro **české diktáty**. Rodič nebo učitel vybere text podle ročníku nebo pravopisného okruhu, upraví, co dítě skutečně probralo, a aplikace diktát **předčítá po větách** lokálním hlasem (Piper, `cs_CZ-kasandra-medium`). Dítě píše na papír; správné znění se ukáže až po dokončení. Po jednorázovém stažení hlasu běží bez internetu.
 
 > **Stav: první verze, demonstrační knihovna.** Deset textů je *kontrolovaný návrh*, ne schválená položka. Kvalita hlasu pro diktáty a pedagogická vhodnost textů **nebyly ověřeny** (viz [Co je a není ověřeno](#co-je-a-není-ověřeno)).
 

@@ -43,7 +43,7 @@ class FakeEngine:
         return buf.getvalue()
 
 
-def write_model(models_dir, model_id="cs_CZ-jirka-medium", language="cs_CZ", payload=b"x" * 4096, sample_rate=22050):
+def write_model(models_dir, model_id="cs_CZ-kasandra-medium", language="cs_CZ", payload=b"x" * 4096, sample_rate=22050):
     models_dir.mkdir(parents=True, exist_ok=True)
     (models_dir / f"{model_id}.onnx").write_bytes(payload)
     (models_dir / f"{model_id}.onnx.json").write_text(

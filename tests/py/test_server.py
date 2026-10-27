@@ -120,7 +120,7 @@ class Tts(ServerCase):
         r, b = self.req("GET", "/api/health")
         h = json.loads(b)
         self.assertEqual((r.status, h["status"], h["ready"]), (200, "ready", True))
-        self.assertEqual(h["model"]["id"], "cs_CZ-jirka-medium")
+        self.assertEqual(h["model"]["id"], "cs_CZ-kasandra-medium")
         self.assertIn("sound_check_text", h)
 
     def test_tts_returns_wav_and_cache_headers(self):
@@ -130,7 +130,7 @@ class Tts(ServerCase):
             self.assertGreater(w.getnframes(), 0)
         r, _ = self.req("POST", "/api/tts", make_body())
         self.assertEqual(r.getheader("X-Diktaty-Cache"), "hit")
-        self.assertEqual(r.getheader("X-Diktaty-Model"), "cs_CZ-jirka-medium")
+        self.assertEqual(r.getheader("X-Diktaty-Model"), "cs_CZ-kasandra-medium")
 
     def test_version_mismatch_is_409(self):
         body = make_body()

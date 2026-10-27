@@ -57,7 +57,7 @@ export function renderStatus(main) {
         h('p', { class: 'hint' }, 'Důkaz provozu bez sítě: viz README, část „Ověření bez sítě“ (příkaz scripts/generate_audio.py --require-offline).')),
       h('section', { class: 'panel' },
         h('h2', {}, 'Licence'),
-        h('p', {}, 'Engine Piper (OHF-Voice/piper1-gpl): GPL-3.0-or-later. Český hlas cs_CZ-jirka-medium: dataset je podle karty hlasu CC0, licenci celého balíčku z toho nelze odvozovat. Podrobnosti a stav ověření jsou v docs/LICENSES.md.')),
+        h('p', {}, 'Engine Piper (OHF-Voice/piper1-gpl): GPL-3.0-or-later. Český hlas cs_CZ-kasandra-medium (autor Ondřej Šimek): podle karty hlasu CC BY 4.0, vyžaduje uvedení autora; licenci celého balíčku z toho nelze odvozovat. Podrobnosti a stav ověření jsou v docs/LICENSES.md.')),
       store.storageOk ? null : h('p', { class: 'warn-text' }, 'Prohlížeč neumožňuje ukládání nastavení; profil se po zavření stránky ztratí.'));
   }
 

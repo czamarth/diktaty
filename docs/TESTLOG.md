@@ -97,3 +97,18 @@ Závěr měření: po zahřátí je syntéza ~3,5× rychlejší než reálný č
 **Provoz skutečného hlasu bez sítě (`--require-offline`) — NEPROVEDENO.** Pokus o síťový jmenný prostor (`unshare -rn`) na tomto stroji selhal („Operation not permitted“); odpojení sítě musí provést uživatel.
 
 **Pedagogické schválení — NEPROVEDENO** (beze změny, viz část 4).
+
+## 7. Licence hlasu a přechod na `cs_CZ-kasandra-medium` (2026-10-27)
+
+**Na žádost uživatele („ověř licenci, případně použij jiný model“) byl výchozí hlas změněn z `cs_CZ-jirka-medium` na `cs_CZ-kasandra-medium`. Důvodem je licence, ne kvalita — kvalita žádného z hlasů nebyla poslechnuta.**
+
+Zjištěno (primární zdroje, přečteno 2026-10-27; není to právní posouzení):
+- jirka: karta uvádí CC0 a „Finetuned from U.S. English lessac voice“. Lessac (`MODEL_CARD`) = trénováno od nuly na datech Blizzard 2013, jejichž licence (cstr.ed.ac.uk) povoluje jen *Research Purposes*; ty výslovně vylučují jakýkoli komerční účel včetně vývoje produktů syntézy řeči, licence je osobní pro registrovaného držitele. Zda se vztahuje na dotrénovaný model, jsem nerozhodl. Dataset z karty (`OHF-Voice/voice-datasets`) neobsahuje žádný český záznam, CC0 se tam nepodařilo doložit.
+- kasandra: karta uvádí CC BY 4.0, autor Ondřej Šimek, vlastní nahrávky. Základní checkpoint karta neuvádí; autorova stránka licenci nemá v metadatech a prodává balíček s „licenčními podmínkami“ → **otevřená otázka na autora**.
+
+Změna v kódu: `MODEL_ID`, stahovací adresa, texty o licenci (`fetch_model.py`, stránka Stav), testy a dokumentace. Po změně: `npm test` 68/68, `npm run test:py` 51/51, `npm run validate` v pořádku. E2E v prohlížeči nespuštěno. Starý zvuk jirky (72 záznamů) byl z mezipaměti smazán, soubory jirky přesunuty mimo repozitář.
+
+Stažení: otisk `.onnx` ověřen proti serveru (`ano`), SHA-256 `09d08aa2…76df7`. Autorův výchozí `length_scale` v konfiguraci je 1,2 (jirka 1,0).
+
+Generování (`generate_audio.py`, síť DOSTUPNÁ, `offline_confirmed: false`): 72 nahrávek za 69,3 s, 0 problémů. RTF: průměr skriptu 0,323; první syntéza po startu (D01 celý text, vč. načtení modelu) **2,294**; bez první medián 0,290, max 0,386. Zvuk celkem 217 s (jirka 319 s). Při `length_scale` 1.0 mluví kasandra výrazně rychleji než jirka (délka věty medián 0,68×, rozsah 0,60–0,82×). Zda je „normální“ tempo vhodné pro diktát, je otázka poslechu; možná bude potřeba jiná výchozí hodnota (např. blíž autorovu 1,2) — **nerozhodnuto**.
+Technická kontrola souborů: žádný není tichý (RMS 6 300–8 300 z 32 767); špička je u všech souborů obou hlasů 32 767, protože Piper normalizuje, takže nic o ořezu neříká. **Poslech: NEPROVEDEN** (ani pro kasandru). **Offline běh: NEPROVEDEN** (dřívější příprava platila pro jirku). **Pedagogické schválení: NEPROVEDENO.**

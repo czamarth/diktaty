@@ -40,7 +40,7 @@ class FetchModel(unittest.TestCase):
         self.assertEqual(code, 0)
         self.assertIn("jednorázově stáhnout", out)
         self.assertIn("funguje bez internetu", out)
-        for n in ("cs_CZ-jirka-medium.onnx", "cs_CZ-jirka-medium.onnx.json", "MODEL_CARD", "MODEL_LOCK.json"):
+        for n in ("cs_CZ-kasandra-medium.onnx", "cs_CZ-kasandra-medium.onnx.json", "MODEL_CARD", "MODEL_LOCK.json"):
             self.assertTrue((self.models / n).is_file(), n)
         lock = json.loads((self.models / "MODEL_LOCK.json").read_text(encoding="utf-8"))
         self.assertEqual(len(lock["onnx_sha256"]), 64)
@@ -58,7 +58,7 @@ class FetchModel(unittest.TestCase):
         code, _, err = self.run_main("--yes")
         self.assertEqual(code, 1)
         self.assertIn("ručně", err)
-        self.assertIn("cs_CZ-jirka-medium.onnx", err)
+        self.assertIn("cs_CZ-kasandra-medium.onnx", err)
         self.assertIn("--accept-current", err)
 
     def test_wrong_language_is_deleted_and_reported(self):
@@ -66,7 +66,7 @@ class FetchModel(unittest.TestCase):
         code, _, err = self.run_main("--yes")
         self.assertEqual(code, 1)
         self.assertIn("není český", err)
-        self.assertFalse((self.models / "cs_CZ-jirka-medium.onnx").exists())
+        self.assertFalse((self.models / "cs_CZ-kasandra-medium.onnx").exists())
         self.assertFalse((self.models / "MODEL_LOCK.json").exists())
 
     def test_hash_mismatch_from_server_is_detected(self):
@@ -79,7 +79,7 @@ class FetchModel(unittest.TestCase):
         code, _, err = self.run_main("--yes")
         self.assertEqual(code, 1)
         self.assertIn("neshoduje", err)
-        self.assertFalse((self.models / "cs_CZ-jirka-medium.onnx").exists())
+        self.assertFalse((self.models / "cs_CZ-kasandra-medium.onnx").exists())
 
     def _serve_like_huggingface(self, linked_etag_for_onnx=None):
         """Lokální HTTP server po vzoru HuggingFace/Xet: 302 s X-Linked-ETag (skutečný SHA-256),
@@ -132,7 +132,7 @@ class FetchModel(unittest.TestCase):
         code, _, err = self.run_main("--yes")
         self.assertEqual(code, 1)
         self.assertIn("neshoduje", err)
-        self.assertFalse((self.models / "cs_CZ-jirka-medium.onnx").exists())
+        self.assertFalse((self.models / "cs_CZ-kasandra-medium.onnx").exists())
 
     def test_accept_current_records_manually_placed_voice(self):
         write_model(self.models)
@@ -140,7 +140,7 @@ class FetchModel(unittest.TestCase):
         self.assertEqual(code, 0)
         self.assertEqual(TtsService(self.models, Path(self.tmp.name) / "c", FakeEngine()).status()["model"]["lock"], "ok")
         # výměna souboru → změna se hlásí, dokud ji dospělý znovu nepotvrdí
-        (self.models / "cs_CZ-jirka-medium.onnx").write_bytes(b"q" * 4096)
+        (self.models / "cs_CZ-kasandra-medium.onnx").write_bytes(b"q" * 4096)
         self.assertEqual(TtsService(self.models, Path(self.tmp.name) / "c", FakeEngine()).status()["status"], "model_changed")
         self.assertEqual(self.run_main("--accept-current")[0], 0)
         self.assertEqual(TtsService(self.models, Path(self.tmp.name) / "c", FakeEngine()).status()["status"], "ready")

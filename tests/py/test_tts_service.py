@@ -120,7 +120,7 @@ class ModelStates(Base):
         write_model(self.models, payload=b"x" * 10)
         self.assertEqual(TtsService(self.models, self.cache, FakeEngine()).status()["status"], "model_invalid")
         write_model(self.models)
-        (self.models / "cs_CZ-jirka-medium.onnx.json").write_text("{not json", encoding="utf-8")
+        (self.models / "cs_CZ-kasandra-medium.onnx.json").write_text("{not json", encoding="utf-8")
         self.assertEqual(TtsService(self.models, self.cache, FakeEngine()).status()["status"], "model_invalid")
 
     def test_load_failure_is_reported_not_hidden(self):
@@ -133,7 +133,7 @@ class ModelStates(Base):
         svc = self.service()
         svc.synthesize(make_body())
         self.assertEqual(svc.status()["model"]["lock"], "ok")
-        (self.models / "cs_CZ-jirka-medium.onnx").write_bytes(b"y" * 4096)  # jiný model pod stejným jménem
+        (self.models / "cs_CZ-kasandra-medium.onnx").write_bytes(b"y" * 4096)  # jiný model pod stejným jménem
         svc2 = TtsService(self.models, self.cache, FakeEngine())
         st = svc2.status()
         self.assertEqual(st["status"], "model_changed")
@@ -147,7 +147,7 @@ class ModelStates(Base):
         self.assertEqual(svc.status()["model"]["lock"], "unlocked")
         svc.synthesize(make_body())
         lock = json.loads((self.models / "MODEL_LOCK.json").read_text(encoding="utf-8"))
-        self.assertEqual(lock["model_id"], "cs_CZ-jirka-medium")
+        self.assertEqual(lock["model_id"], "cs_CZ-kasandra-medium")
         self.assertEqual(len(lock["onnx_sha256"]), 64)
 
 
