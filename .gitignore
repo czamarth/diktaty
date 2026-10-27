@@ -1,0 +1,11 @@
+# Lokální data uživatele a stažený hlas (nikdy se necommitují)
+/models/*
+!/models/README.md
+/cache/
+/user_data/
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store

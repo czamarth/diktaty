@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "provenance": "PROVISIONAL: typical_grade a default_policy sestavil asistent z poznámek v seed datech (learner_profile_note, teacher_note). NEJSOU převzaty z NotebookLM poznámky 'Podklad pro aplikaci' ani ověřeny proti školním plánům. Nahraďte je po redakční kontrole.",
+  "levels": {
+    "not_taught": "Zatím neprobráno",
+    "taught": "Probráno",
+    "mastered": "Zvládnuto"
+  },
+  "default_policies": {
+    "by_grade": "Výchozí profil označí jev jako probraný, pokud je ročník vyšší než typický ročník jevu.",
+    "adult_confirm": "Výchozí profil jev nikdy nepředpokládá; musí jej potvrdit dospělý."
+  },
+  "groups": [
+    { "id": "zaklady", "label": "Základy zápisu" },
+    { "id": "u_ou", "label": "Ú / ů" },
+    { "id": "souhlasky", "label": "Souhlásky, slabiky a znělost" },
+    { "id": "vyjmenovana", "label": "Vyjmenovaná slova a lexikální i/y" },
+    { "id": "koncovky", "label": "Koncovky a tvary slov" },
+    { "id": "predpony", "label": "Předpony a předložky" },
+    { "id": "vlastni", "label": "Velká písmena a vlastní jména" },
+    { "id": "shoda", "label": "Shoda přísudku s podmětem" },
+    { "id": "interpunkce", "label": "Interpunkce" }
+  ],
+  "features": [
+    { "id": "orth.sentence_boundaries", "group": "zaklady", "label": "Hranice vět: velké písmeno na začátku a tečka na konci", "typical_grade": 1, "default_policy": "by_grade" },
+    { "id": "orth.vowel_quantity", "group": "zaklady", "label": "Délka samohlásek", "typical_grade": 1, "default_policy": "by_grade" },
+
+    { "id": "orth.u_long_basic", "group": "u_ou", "label": "Psaní ú na začátku a ů uvnitř či na konci slova", "typical_grade": 2, "default_policy": "by_grade" },
+
+    { "id": "orth.palatal_groups_basic", "group": "souhlasky", "label": "Slabiky dě, tě, ně, bě, pě, vě, mě; di, ti, ni", "typical_grade": 2, "default_policy": "by_grade" },
+    { "id": "orth.soft_consonants_basic", "group": "souhlasky", "label": "Měkké souhlásky a i/í po nich (ř, ž, š, č, j …)", "typical_grade": 2, "default_policy": "by_grade" },
+    { "id": "orth.hard_consonants_basic", "group": "souhlasky", "label": "Tvrdé souhlásky a y/ý po nich (h, ch, k, r, d, t, n)", "typical_grade": 2, "default_policy": "by_grade" },
+    { "id": "orth.voicing_final", "group": "souhlasky", "label": "Párová souhláska na konci slova", "typical_grade": 2, "default_policy": "by_grade" },
+    { "id": "orth.voicing_internal", "group": "souhlasky", "label": "Párová souhláska uvnitř slova", "typical_grade": 2, "default_policy": "by_grade" },
+
+    { "id": "orth.listed_words_b", "group": "vyjmenovana", "label": "Vyjmenovaná slova po B a slova příbuzná", "typical_grade": 3, "default_policy": "adult_confirm" },
+    { "id": "orth.listed_words_l", "group": "vyjmenovana", "label": "Vyjmenovaná slova po L a slova příbuzná", "typical_grade": 3, "default_policy": "adult_confirm" },
+    { "id": "orth.listed_words_m", "group": "vyjmenovana", "label": "Vyjmenovaná slova po M a slova příbuzná", "typical_grade": 3, "default_policy": "adult_confirm" },
+    { "id": "orth.listed_words_p", "group": "vyjmenovana", "label": "Vyjmenovaná slova po P a slova příbuzná", "typical_grade": 4, "default_policy": "adult_confirm" },
+    { "id": "orth.listed_words_s", "group": "vyjmenovana", "label": "Vyjmenovaná slova po S a slova příbuzná", "typical_grade": 4, "default_policy": "adult_confirm" },
+    { "id": "orth.listed_words_v", "group": "vyjmenovana", "label": "Vyjmenovaná slova po V a slova příbuzná", "typical_grade": 4, "default_policy": "adult_confirm" },
+    { "id": "orth.listed_words_z", "group": "vyjmenovana", "label": "Vyjmenovaná slova po Z a slova příbuzná", "typical_grade": 4, "default_policy": "adult_confirm" },
+    { "id": "orth.listed_words_review", "group": "vyjmenovana", "label": "Dříve probrané lexikální i/y (opakování)", "typical_grade": 4, "default_policy": "adult_confirm" },
+
+    { "id": "orth.noun_endings_pan", "group": "koncovky", "label": "Koncovky podstatných jmen podle vzoru pán", "typical_grade": 4, "default_policy": "adult_confirm" },
+    { "id": "orth.noun_endings_hrad", "group": "koncovky", "label": "Koncovky podstatných jmen podle vzoru hrad", "typical_grade": 4, "default_policy": "adult_confirm" },
+    { "id": "orth.noun_endings_zena", "group": "koncovky", "label": "Koncovky podstatných jmen podle vzoru žena", "typical_grade": 4, "default_policy": "adult_confirm" },
+    { "id": "orth.noun_endings_review", "group": "koncovky", "label": "Probrané koncovky podstatných jmen (opakování)", "typical_grade": 5, "default_policy": "adult_confirm" },
+    { "id": "orth.adjective_hard_endings", "group": "koncovky", "label": "Koncovka -ý/-y u tvrdých přídavných jmen", "typical_grade": 4, "default_policy": "adult_confirm" },
+    { "id": "orth.adjective_endings_review", "group": "koncovky", "label": "Probrané tvary přídavných jmen a zájmen (opakování)", "typical_grade": 5, "default_policy": "adult_confirm" },
+    { "id": "orth.pronoun_me_mne", "group": "koncovky", "label": "Tvary zájmena já: mě / mně", "typical_grade": 5, "default_policy": "adult_confirm" },
+
+    { "id": "orth.prefixes_s_z_vz", "group": "predpony", "label": "Předpony s-, z-, vz- podle významu a konkrétních slov", "typical_grade": 6, "default_policy": "adult_confirm" },
+    { "id": "orth.prefixes_review", "group": "predpony", "label": "Probrané předpony a lexikální pravopis (opakování)", "typical_grade": 6, "default_policy": "adult_confirm" },
+
+    { "id": "orth.proper_names_geographic", "group": "vlastni", "label": "Vlastní zeměpisná jména a víceslovné názvy", "typical_grade": 7, "default_policy": "adult_confirm" },
+
+    { "id": "syntax.agreement_simple_plural", "group": "shoda", "label": "Shoda s jednoduchým podmětem v množném čísle", "typical_grade": 5, "default_policy": "adult_confirm" },
+    { "id": "syntax.past_singular", "group": "shoda", "label": "Minulý čas v jednotném čísle a souvislost podmětu s přísudkem", "typical_grade": 5, "default_policy": "adult_confirm" },
+    { "id": "syntax.agreement_unexpressed", "group": "shoda", "label": "Shoda s vyjádřeným a kontextově nevyjádřeným podmětem", "typical_grade": 7, "default_policy": "adult_confirm" },
+    { "id": "syntax.agreement_review", "group": "shoda", "label": "Probrané případy shody a slovesných tvarů (opakování)", "typical_grade": 7, "default_policy": "adult_confirm" },
+
+    { "id": "punct.enumeration", "group": "interpunkce", "label": "Čárka ve výčtu", "typical_grade": 3, "default_policy": "adult_confirm" },
+    { "id": "punct.vocative", "group": "interpunkce", "label": "Čárka při oslovení", "typical_grade": 4, "default_policy": "adult_confirm" },
+    { "id": "punct.direct_speech", "group": "interpunkce", "label": "Přímá řeč", "typical_grade": 5, "default_policy": "adult_confirm" },
+    { "id": "punct.adversative_clause", "group": "interpunkce", "label": "Čárka před odporovacím spojením (ale, však)", "typical_grade": 5, "default_policy": "adult_confirm" },
+    { "id": "punct.subordinate_clause_boundary", "group": "interpunkce", "label": "Čárka mezi hlavní a vedlejší větou", "typical_grade": 7, "default_policy": "adult_confirm" },
+    { "id": "punct.parenthesis", "group": "interpunkce", "label": "Vsuvka", "typical_grade": 8, "default_policy": "adult_confirm" },
+    { "id": "punct.embedded_subordinate_clause", "group": "interpunkce", "label": "Oboustranné oddělení vložené vedlejší věty", "typical_grade": 9, "default_policy": "adult_confirm" },
+    { "id": "punct.multiple_subordinate_clauses", "group": "interpunkce", "label": "Hranice vět ve složitějším souvětí", "typical_grade": 9, "default_policy": "adult_confirm" }
+  ]
+}

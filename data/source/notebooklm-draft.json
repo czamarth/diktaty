@@ -1,0 +1,665 @@
+{
+  "dictations": [
+    {
+      "id": "D01",
+      "title": "Máma a Ema",
+      "recommended_grade": 1,
+      "sentences": [
+        "Máma má mák.",
+        "Ema solí maso.",
+        "Ota má kosí nos."
+      ],
+      "target_features": [
+        {
+          "id": "TF01_01",
+          "label": "Délka samohlásek (á, í) a hranice slov v jednoduchých větách",
+          "examples": [
+            "Máma má mák",
+            "solí",
+            "kosí"
+          ]
+        },
+        {
+          "id": "TF01_02",
+          "label": "Velké písmeno na začátku věty a tečka na konci",
+          "examples": [
+            "Máma",
+            "Ema",
+            "Ota"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "IF01_01",
+          "label": "Měkká slabika lí/sí bez nároku na odůvodnění i/y",
+          "examples": [
+            "solí",
+            "kosí"
+          ]
+        }
+      ],
+      "required_known_forms": [
+        "Máma",
+        "Ema",
+        "Ota"
+      ],
+      "known_graphemes_required": [
+        "a",
+        "e",
+        "i",
+        "o",
+        "u",
+        "á",
+        "í",
+        "m",
+        "l",
+        "s",
+        "p",
+        "t",
+        "j",
+        "n",
+        "k"
+      ],
+      "support": [
+        {
+          "sentence_index": 1,
+          "span": "solí",
+          "action": "prefill",
+          "reason": "Slabika lí s měkkým i – pravopis i/y po l ještě nebylo probráno."
+        }
+      ],
+      "teacher_note": "Diktát ověřuje sluchovou analýzu, délku samohlásek, hranice slov a psaní velkých písmen na začátku vět. Není určen k hodnocení pravopisu i/y. Anotace je automatickým kandidátním návrhem vygenerovaným AI a nepředstavuje pedagogicky schválenou normu.",
+      "review_status": "candidate",
+      "origin": "notebooklm_generated",
+      "curriculum_source_ids": [
+        "https://edu.gov.cz/wp-content/uploads/2023/07/RVP_ZV_2023_cista_verze.pdf",
+        "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf"
+      ]
+    },
+    {
+      "id": "D02",
+      "title": "Nový stůl a úly",
+      "recommended_grade": 2,
+      "sentences": [
+        "Úplně nový stůl stojí v koutu.",
+        "Uprostřed louky máme staré úly.",
+        "Táta nese domů velkou kůru."
+      ],
+      "target_features": [
+        {
+          "id": "TF02_01",
+          "label": "Psaní ú na začátku slova",
+          "examples": [
+            "Úplně",
+            "úly"
+          ]
+        },
+        {
+          "id": "TF02_02",
+          "label": "Psaní ů uvnitř a na konci slova",
+          "examples": [
+            "stůl",
+            "domů",
+            "kůru"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "IF02_01",
+          "label": "Pravopis y po tvrdé souhlásce k",
+          "examples": [
+            "louky"
+          ]
+        },
+        {
+          "id": "IF02_02",
+          "label": "Měkká koncovka sloves a podstatných jmen po j",
+          "examples": [
+            "stojí"
+          ]
+        }
+      ],
+      "required_known_forms": [
+        "nový",
+        "úly"
+      ],
+      "known_graphemes_required": [
+        "a",
+        "e",
+        "i",
+        "o",
+        "u",
+        "á",
+        "é",
+        "í",
+        "ó",
+        "ú",
+        "ů",
+        "b",
+        "d",
+        "h",
+        "k",
+        "l",
+        "m",
+        "n",
+        "p",
+        "r",
+        "s",
+        "t",
+        "v",
+        "z"
+      ],
+      "support": [
+        {
+          "sentence_index": 0,
+          "span": "nový",
+          "action": "prefill",
+          "reason": "Slovo obsahuje y po obojetné souhlásce v (vyjmenovaná slova nebyla probrána)."
+        },
+        {
+          "sentence_index": 1,
+          "span": "úly",
+          "action": "prefill",
+          "reason": "Slovo obsahuje y po obojetné souhlásce l; cílem testu je pouze počáteční ú."
+        }
+      ],
+      "teacher_note": "Diktát se zaměřuje na rozlišení ú/ů. Slova vyžadující znalost obojetných souhlásek jsou předvyplněna a vyjmuta z hodnocení. Anotace AI je orientační návrh, nikoli garantovaná norma.",
+      "review_status": "candidate",
+      "origin": "notebooklm_generated",
+      "curriculum_source_ids": [
+        "https://edu.gov.cz/wp-content/uploads/2023/07/RVP_ZV_2023_cista_verze.pdf",
+        "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf"
+      ]
+    },
+    {
+      "id": "D03",
+      "title": "Dědeček a štěně",
+      "recommended_grade": 2,
+      "sentences": [
+        "Dědeček chová pěkné štěně.",
+        "Během dne věje slabý větřík.",
+        "V městě stojí starý dub a hrad."
+      ],
+      "target_features": [
+        {
+          "id": "TF03_01",
+          "label": "Slabiky dě, tě, ně, bě, pě, vě, mě mimo morfologický šev",
+          "examples": [
+            "Dědeček",
+            "pěkné",
+            "štěně",
+            "Během",
+            "věje",
+            "větřík",
+            "městě"
+          ]
+        },
+        {
+          "id": "TF03_02",
+          "label": "Párové souhlásky a spodoba znělosti na konci slov",
+          "examples": [
+            "Dědeček",
+            "větřík",
+            "dub",
+            "hrad"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "IF03_01",
+          "label": "Pravopis y/ý po tvrdých souhláskách (r)",
+          "examples": [
+            "starý"
+          ]
+        },
+        {
+          "id": "IF03_02",
+          "label": "Pravopis i/í po měkkých souhláskách (ř, j)",
+          "examples": [
+            "větřík",
+            "stojí"
+          ]
+        }
+      ],
+      "required_known_forms": [
+        "slabý"
+      ],
+      "known_graphemes_required": [
+        "a",
+        "e",
+        "ě",
+        "i",
+        "o",
+        "u",
+        "á",
+        "é",
+        "í",
+        "ý",
+        "b",
+        "c",
+        "č",
+        "d",
+        "ď",
+        "h",
+        "ch",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "ň",
+        "p",
+        "r",
+        "ř",
+        "s",
+        "š",
+        "t",
+        "ť",
+        "v",
+        "z"
+      ],
+      "support": [
+        {
+          "sentence_index": 1,
+          "span": "slabý",
+          "action": "prefill",
+          "reason": "Slovo obsahuje y po obojetné souhlásce b; předvyplněno pro vyloučení z neprobraného učiva."
+        }
+      ],
+      "teacher_note": "Text ověřuje psaní slabek s dě, tě, ně, bě, pě, vě, mě a ozvučení párových souhlásek na konci slov. Pravopis po obojetných souhláskách je ošetřen předvyplněním. AI generovaný kandidátní štítek.",
+      "review_status": "candidate",
+      "origin": "notebooklm_generated",
+      "curriculum_source_ids": [
+        "https://edu.gov.cz/wp-content/uploads/2023/07/RVP_ZV_2023_cista_verze.pdf",
+        "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf"
+      ]
+    },
+    {
+      "id": "D04",
+      "title": "Bystrý žák a byliny",
+      "recommended_grade": 3,
+      "sentences": [
+        "Bystrý žák si zařídil nový byt.",
+        "Náš přítel plánuje letní pobyt u řeky.",
+        "Bylinářka sbírá vzácné byliny pro nemocné."
+      ],
+      "target_features": [
+        {
+          "id": "TF04_01",
+          "label": "Vyjmenovaná slova a slova příbuzná po B",
+          "examples": [
+            "Bystrý",
+            "byt",
+            "pobyt",
+            "Bylinářka",
+            "byliny"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "IF04_01",
+          "label": "Pravopis i/y v koncovkách tvrdých a měkkých přídavných jmen",
+          "examples": [
+            "nový",
+            "letní"
+          ]
+        },
+        {
+          "id": "IF04_02",
+          "label": "Pravopis y v koncovce podstatného jména rod ženský (vzor žena)",
+          "examples": [
+            "řeky"
+          ]
+        }
+      ],
+      "required_known_forms": [
+        "nový",
+        "letní"
+      ],
+      "known_graphemes_required": [],
+      "support": [
+        {
+          "sentence_index": 0,
+          "span": "nový",
+          "action": "prefill",
+          "reason": "Koncovka tvrdého přídavného jména – učivo skloňování přídavných jmen se běžně zavádí až ve 4.–5. ročníku."
+        }
+      ],
+      "teacher_note": "Cílovým jevem je výhradně skupina vyjmenovaných slov po B. Ostatní mluvnické jevy (deklinace přídavných jmen) jsou v support předvyplněny. Anotace nepředstavuje pedagogickou garanci.",
+      "review_status": "candidate",
+      "origin": "notebooklm_generated",
+      "curriculum_source_ids": [
+        "Internetová jazyková příručka: Vyjmenovaná slova",
+        "Český jazyk 3 – učebnice | Fraus Klett"
+      ]
+    },
+    {
+      "id": "D05",
+      "title": "Návštěva věže a kostela",
+      "recommended_grade": 4,
+      "sentences": [
+        "Holubi a kosi létali nad vysokými duby.",
+        "Na věži starého kostela odbíjely hodiny.",
+        "Sousedé se sešli se svými psy na návsi."
+      ],
+      "target_features": [
+        {
+          "id": "TF05_01",
+          "label": "Koncovky podstatných jmen rodu mužského (vzor pán, hrad)",
+          "examples": [
+            "holubi",
+            "kosi",
+            "duby",
+            "psy"
+          ]
+        },
+        {
+          "id": "TF05_02",
+          "label": "Koncovky podstatných jmen rodu ženského (vzor růže, žena, kost)",
+          "examples": [
+            "věži",
+            "hodiny",
+            "návsi"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "IF05_01",
+          "label": "Shoda přísudku s podmětem v minulém čase",
+          "examples": [
+            "létali",
+            "odbíjely",
+            "sešli"
+          ]
+        },
+        {
+          "id": "IF05_02",
+          "label": "Předložka s se 7. pádem",
+          "examples": [
+            "se svými psy"
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "known_graphemes_required": [],
+      "support": [
+        {
+          "sentence_index": 0,
+          "span": "létali",
+          "action": "prefill",
+          "reason": "Syntaktická shoda přísudku s podmětem je hlavním cílovým jevem 5. ročníku."
+        }
+      ],
+      "teacher_note": "Diktát je zaměřen na procvičování koncovek podstatných jmen rodu mužského a ženského. Slovesné koncovky minulého času jsou vyjmuty z hodnocení předvyplněním.",
+      "review_status": "candidate",
+      "origin": "notebooklm_generated",
+      "curriculum_source_ids": [
+        "metodický průvodce k učebnici s pracovním sešitem český jazyk 4",
+        "Internetová jazyková příručka: Psaní i, í – y, ý"
+      ]
+    },
+    {
+      "id": "D06",
+      "title": "Školní výlet a písně",
+      "recommended_grade": 5,
+      "sentences": [
+        "Žáci a učitelé odcestovali na školní výlet.",
+        "Dívky z naší třídy zpívaly krásné písně.",
+        "Stěhovavá ptáčata hlasitě pípla v hnízdě.",
+        "Auta a kola rychle projela otevřenou branou."
+      ],
+      "target_features": [
+        {
+          "id": "TF06_01",
+          "label": "Shoda přísudku s podmětem rodu mužského životného (-i)",
+          "examples": [
+            "odcestovali"
+          ]
+        },
+        {
+          "id": "TF06_02",
+          "label": "Shoda přísudku s podmětem rodu ženského (-y)",
+          "examples": [
+            "zpívaly"
+          ]
+        },
+        {
+          "id": "TF06_03",
+          "label": "Shoda přísudku s podmětem rodu středního v mn. č. (-a)",
+          "examples": [
+            "pípla",
+            "projela"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "IF06_01",
+          "label": "Koncovky podstatných a přídavných jmen",
+          "examples": [
+            "třídy",
+            "písně",
+            "branou",
+            "krásné"
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "known_graphemes_required": [],
+      "support": [],
+      "teacher_note": "Procvičování shody přísudku s podmětem jednoduchým u všech tří rodů v množném čísle. Všechny podstatné jména i přídavná jména podléhají běžné kontrole pro 5. ročník. Kandidátní návrh AI.",
+      "review_status": "candidate",
+      "origin": "notebooklm_generated",
+      "curriculum_source_ids": [
+        "Internetová jazyková příručka: Shoda přísudku s podmětem jednoduchým",
+        "metodický průvodce k učebnici a pracovnímu sešitu (55-60) český jazyk"
+      ]
+    },
+    {
+      "id": "D07",
+      "title": "Práce v hodině a film",
+      "recommended_grade": 6,
+      "sentences": [
+        "Chlapec smazal tabuli a sklonil se k sešitu.",
+        "Zkazil se celý oběd, ale babička zjednala nápravu.",
+        "S kamarádem jsme vzhlédli k obloze a zhlédli film."
+      ],
+      "target_features": [
+        {
+          "id": "TF07_01",
+          "label": "Pravopis předpon s-, z-, vz- podle významu a smyslu",
+          "examples": [
+            "smazal",
+            "sklonil",
+            "Zkazil",
+            "zjednala",
+            "vzhlédli",
+            "zhlédli"
+          ]
+        },
+        {
+          "id": "TF07_02",
+          "label": "Pravopis předložky s se 7. pádem",
+          "examples": [
+            "S kamarádem"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "IF07_01",
+          "label": "Shoda přísudku s podmětem v příčestí činném",
+          "examples": [
+            "vzhlédli",
+            "zhlédli"
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "known_graphemes_required": [],
+      "support": [],
+      "teacher_note": "Cílovým pravopisným okruhem je rozlišení předpon s-, z-, vz- a předložek s/z. Diktát navazuje na učivo 6. ročníku. Kandidátní anotace vygenerovaná systémem.",
+      "review_status": "candidate",
+      "origin": "notebooklm_generated",
+      "curriculum_source_ids": [
+        "https://www.zsslusovice.cz/wcd/docs/skola-dokumenty/svp/svp-340-2019/5.2.1.eskjazykaliteratura.pdf",
+        "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf"
+      ]
+    },
+    {
+      "id": "D08",
+      "title": "Cestování po mořích a horách",
+      "recommended_grade": 7,
+      "sentences": [
+        "Naše rodina navštívila Severní moře a Severní Ameriku.",
+        "V Čechách jsme procházeli Polabí a vystoupili na Sněžku.",
+        "Všichni Poláci a Češi obdivovali Krkonošský národní park."
+      ],
+      "target_features": [
+        {
+          "id": "TF08_01",
+          "label": "Velká písmena u víceslovných geografických názvů a vlastních jmen",
+          "examples": [
+            "Severní moře",
+            "Severní Ameriku",
+            "Polabí",
+            "Sněžku",
+            "Krkonošský národní park"
+          ]
+        },
+        {
+          "id": "TF08_02",
+          "label": "Velká písmena u jmen příslušníků národů",
+          "examples": [
+            "Poláci",
+            "Češi"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "IF08_01",
+          "label": "Shoda přísudku s podmětem v minulém čase",
+          "examples": [
+            "navštívila",
+            "procházeli",
+            "obdivovali"
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "known_graphemes_required": [],
+      "support": [],
+      "teacher_note": "Cílem je prověrka psaní velkých písmen ve složitějších geografických a národnostních názvech. Anotace nepředstavuje oficiálně schválenou normu.",
+      "review_status": "candidate",
+      "origin": "notebooklm_generated",
+      "curriculum_source_ids": [
+        "https://www.zsslusovice.cz/wcd/docs/skola-dokumenty/svp/svp-340-2019/5.2.1.eskjazykaliteratura.pdf",
+        "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf"
+      ]
+    },
+    {
+      "id": "D09",
+      "title": "Školní povinnosti a výlet",
+      "recommended_grade": 8,
+      "sentences": [
+        "Slibuji ti, že všechny úkoly odevzdám ještě dnes.",
+        "Když náhle začalo silně pršet, všichni se schovali do chaty.",
+        "Knihu vrátím do knihovny, jakmile ji dočtu do konce."
+      ],
+      "target_features": [
+        {
+          "id": "TF09_01",
+          "label": "Interpunkce v podřadném souvětí (čárka před podřadicí spojkou že, jakmile)",
+          "examples": [
+            ", že",
+            ", jakmile"
+          ]
+        },
+        {
+          "id": "TF09_02",
+          "label": "Čárka za vedlejší větou stojící na začátku souvětí",
+          "examples": [
+            "Když náhle začalo silně pršet,"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "IF09_01",
+          "label": "Pravopis i/y a shoda přísudku s podmětem",
+          "examples": [
+            "odevzdám",
+            "schovali",
+            "dočtu"
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "known_graphemes_required": [],
+      "support": [],
+      "teacher_note": "Diktát je zaměřen na oddělování větných celků v podřadném souvětí čárkou. Vhodné pro procvičování syntaxe 8. ročníku.",
+      "review_status": "candidate",
+      "origin": "notebooklm_generated",
+      "curriculum_source_ids": [
+        "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+        "https://www.zsslusovice.cz/wcd/docs/skola-dokumenty/svp/svp-340-2019/5.2.1.eskjazykaliteratura.pdf"
+      ]
+    },
+    {
+      "id": "D10",
+      "title": "Příprava na zkoušky a doporučená četba",
+      "recommended_grade": 9,
+      "sentences": [
+        "Studenti, kteří se pečlivě připravovali na zkoušku, dosáhli výborných výsledků.",
+        "Kniha, kterou mi babička doporučila k četbě, mě zaujala od první stránky.",
+        "I když bylo nepříznivé počasí, pokračovali jsme v cestě, abychom dorazili včas."
+      ],
+      "target_features": [
+        {
+          "id": "TF10_01",
+          "label": "Interpunkce u vložené vedlejší věty (oddělení čárkami z obou stran)",
+          "examples": [
+            ", kteří se pečlivě připravovali na zkoušku,",
+            ", kterou mi babička doporučila k četbě,"
+          ]
+        },
+        {
+          "id": "TF10_02",
+          "label": "Interpunkce ve složitém souvětí s více vedlejšími větami",
+          "examples": [
+            "I když bylo nepříznivé počasí,",
+            ", abychom dorazili včas."
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "IF10_01",
+          "label": "Shoda přísudku s podmětem v minulém čase a pravopis předpon/předložek",
+          "examples": [
+            "připravovali",
+            "dosáhli",
+            "zaujala",
+            "pokračovali"
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "known_graphemes_required": [],
+      "support": [],
+      "teacher_note": "Diktát ověřuje syntaktický jev mluvnicky začleněné vložené vedlejší věty (která je odlišným jevem od vsuvky) a složitějšího souvětí v 9. ročníku. Vygenerováno AI jako kandidátní návrh.",
+      "review_status": "candidate",
+      "origin": "notebooklm_generated",
+      "curriculum_source_ids": [
+        "https://www.zsslusovice.cz/wcd/docs/skola-dokumenty/svp/svp-340-2019/5.2.1.eskjazykaliteratura.pdf",
+        "https://edu.gov.cz/wp-content/uploads/2023/07/RVP_ZV_2023_cista_verze.pdf"
+      ]
+    }
+  ]
+}

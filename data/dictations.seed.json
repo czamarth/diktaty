@@ -1,0 +1,2148 @@
+{
+  "schema_version": 1,
+  "created_on": "2026-10-27",
+  "language": "cs-CZ",
+  "purpose": "demonstration_seed_not_teacher_approved_production_catalog",
+  "notebook_id": "e9da603e-7016-4374-b853-875abba57d05",
+  "notebook_conversation_id": "69835c22-6706-4c14-a2f5-a3023c45196d",
+  "offset_unit": "unicode_code_points",
+  "text_origin": "NotebookLM proposals revised by assistant; curriculum sources establish rules and proposed profiles, not authorship of the new sentences.",
+  "publication_policy": "Candidates require adult profile confirmation for demo use and teacher review plus complete annotations before admission to an automatically approved catalog.",
+  "dictations": [
+    {
+      "id": "D01",
+      "title": "Oběd pro rodinu",
+      "recommended_grade": 1,
+      "sentences": [
+        "Máma má maso.",
+        "Ema má mák.",
+        "Ota má salát."
+      ],
+      "target_features": [
+        {
+          "id": "orth.vowel_quantity",
+          "label": "Dlouhé á a hranice slov",
+          "examples": [
+            "Máma",
+            "má",
+            "mák",
+            "salát"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "orth.sentence_boundaries",
+          "label": "Velké písmeno na začátku a tečka na konci věty",
+          "examples": [
+            "Máma",
+            "Ema",
+            "Ota",
+            "."
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "support": [],
+      "learner_profile_note": "Až po probrání všech vypsaných grafémů, včetně velkých písmen M, E, O a dlouhého á. Slova musí dítě významově znát. Nejde o profil automaticky vhodný od začátku první třídy.",
+      "teacher_note": "Velmi krátké věty procvičují délku á a oddělení slov. Text neobsahuje rozhodování o i/y. Název se dítěti nediktuje.",
+      "version": 1,
+      "text": "Máma má maso. Ema má mák. Ota má salát.",
+      "sentence_count": 3,
+      "word_count": 9,
+      "content_sha256": "fd5e78d5d250e6d3e80c657a1223a9d706db84b477af7b9f45d10e4309202b28",
+      "origin": "notebooklm_generated_editorially_revised",
+      "review_status": "editorially_checked_candidate",
+      "teacher_approved": false,
+      "annotation_completeness": "partial",
+      "audio_review_status": "not_generated",
+      "recommended_mode": "strict_after_profile_confirmation",
+      "grade_is_advisory": true,
+      "known_graphemes_required": [
+        "E",
+        "M",
+        "O",
+        "a",
+        "k",
+        "l",
+        "m",
+        "o",
+        "s",
+        "t",
+        "á"
+      ],
+      "curriculum_sources": [
+        {
+          "notebook_source_id": "0d52b1d5-d96c-40ad-b68f-aadeda74d613",
+          "url": "https://edu.gov.cz/wp-content/uploads/2023/07/RVP_ZV_2023_cista_verze.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "9ecfc5d0-9452-462c-8343-121bcc0fffaf",
+          "url": "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        }
+      ],
+      "annotations": [
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 4,
+          "span": "Máma",
+          "feature_id": "orth.vowel_quantity",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 5,
+          "end": 7,
+          "span": "má",
+          "feature_id": "orth.vowel_quantity",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 4,
+          "end": 6,
+          "span": "má",
+          "feature_id": "orth.vowel_quantity",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 7,
+          "end": 9,
+          "span": "má",
+          "feature_id": "orth.vowel_quantity",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 4,
+          "end": 6,
+          "span": "má",
+          "feature_id": "orth.vowel_quantity",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 7,
+          "end": 10,
+          "span": "mák",
+          "feature_id": "orth.vowel_quantity",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 7,
+          "end": 12,
+          "span": "salát",
+          "feature_id": "orth.vowel_quantity",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 4,
+          "span": "Máma",
+          "feature_id": "orth.sentence_boundaries",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0,
+          "end": 3,
+          "span": "Ema",
+          "feature_id": "orth.sentence_boundaries",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0,
+          "end": 3,
+          "span": "Ota",
+          "feature_id": "orth.sentence_boundaries",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 12,
+          "end": 13,
+          "span": ".",
+          "feature_id": "orth.sentence_boundaries",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 10,
+          "end": 11,
+          "span": ".",
+          "feature_id": "orth.sentence_boundaries",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 12,
+          "end": 13,
+          "span": ".",
+          "feature_id": "orth.sentence_boundaries",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        }
+      ],
+      "tts_segments": [
+        {
+          "id": "D01-S01",
+          "sentence_index": 0,
+          "text": "Máma má maso."
+        },
+        {
+          "id": "D01-S02",
+          "sentence_index": 1,
+          "text": "Ema má mák."
+        },
+        {
+          "id": "D01-S03",
+          "sentence_index": 2,
+          "text": "Ota má salát."
+        }
+      ]
+    },
+    {
+      "id": "D02",
+      "title": "Úl u domu",
+      "recommended_grade": 2,
+      "sentences": [
+        "U domu je úl.",
+        "Vedle úlu roste růže.",
+        "Táta nese domů sůl."
+      ],
+      "target_features": [
+        {
+          "id": "orth.u_long_basic",
+          "label": "Běžné psaní ú na začátku a ů uvnitř či na konci slova",
+          "examples": [
+            "úl",
+            "úlu",
+            "růže",
+            "domů",
+            "sůl"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "orth.vowel_quantity",
+          "label": "Délka samohlásek",
+          "examples": [
+            "Táta"
+          ]
+        },
+        {
+          "id": "orth.sentence_boundaries",
+          "label": "Hranice slov a vět",
+          "examples": [
+            "."
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "support": [],
+      "learner_profile_note": "Potvrzené základní psaní, délky, hranice slov a vět a právě probrané ú/ů. Znalost vzorů, vyjmenovaných slov ani shody tento text nevyžaduje.",
+      "teacher_note": "Záměrně bez i/y po obojetných souhláskách, minulého času i čárek. Není to důkaz vhodnosti pro každého druháka.",
+      "version": 1,
+      "text": "U domu je úl. Vedle úlu roste růže. Táta nese domů sůl.",
+      "sentence_count": 3,
+      "word_count": 12,
+      "content_sha256": "7a1e7e55eee4501ff730b9ce416ebb8e0b3e022f6ca4d342acb4bc89846ad5e1",
+      "origin": "notebooklm_generated_editorially_revised",
+      "review_status": "editorially_checked_candidate",
+      "teacher_approved": false,
+      "annotation_completeness": "partial",
+      "audio_review_status": "not_generated",
+      "recommended_mode": "strict_after_profile_confirmation",
+      "grade_is_advisory": true,
+      "known_graphemes_required": null,
+      "curriculum_sources": [
+        {
+          "notebook_source_id": "0d52b1d5-d96c-40ad-b68f-aadeda74d613",
+          "url": "https://edu.gov.cz/wp-content/uploads/2023/07/RVP_ZV_2023_cista_verze.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "9ecfc5d0-9452-462c-8343-121bcc0fffaf",
+          "url": "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        }
+      ],
+      "annotations": [
+        {
+          "sentence_index": 0,
+          "start": 10,
+          "end": 12,
+          "span": "úl",
+          "feature_id": "orth.u_long_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 6,
+          "end": 8,
+          "span": "úl",
+          "feature_id": "orth.u_long_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 6,
+          "end": 9,
+          "span": "úlu",
+          "feature_id": "orth.u_long_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 16,
+          "end": 20,
+          "span": "růže",
+          "feature_id": "orth.u_long_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 10,
+          "end": 14,
+          "span": "domů",
+          "feature_id": "orth.u_long_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 15,
+          "end": 18,
+          "span": "sůl",
+          "feature_id": "orth.u_long_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0,
+          "end": 4,
+          "span": "Táta",
+          "feature_id": "orth.vowel_quantity",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 12,
+          "end": 13,
+          "span": ".",
+          "feature_id": "orth.sentence_boundaries",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 20,
+          "end": 21,
+          "span": ".",
+          "feature_id": "orth.sentence_boundaries",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 18,
+          "end": 19,
+          "span": ".",
+          "feature_id": "orth.sentence_boundaries",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        }
+      ],
+      "tts_segments": [
+        {
+          "id": "D02-S01",
+          "sentence_index": 0,
+          "text": "U domu je úl."
+        },
+        {
+          "id": "D02-S02",
+          "sentence_index": 1,
+          "text": "Vedle úlu roste růže."
+        },
+        {
+          "id": "D02-S03",
+          "sentence_index": 2,
+          "text": "Táta nese domů sůl."
+        }
+      ]
+    },
+    {
+      "id": "D03",
+      "title": "Štěně a větřík",
+      "recommended_grade": 2,
+      "sentences": [
+        "Dědeček chová pěkné štěně.",
+        "Během dne věje slabý větřík.",
+        "Ve městě stojí dub."
+      ],
+      "target_features": [
+        {
+          "id": "orth.palatal_groups_basic",
+          "label": "Dě, tě, ně, bě, pě, vě, mě mimo morfologický šev",
+          "examples": [
+            "Dědeček",
+            "pěkné",
+            "štěně",
+            "Během",
+            "věje",
+            "větřík",
+            "městě"
+          ]
+        },
+        {
+          "id": "orth.voicing_final",
+          "label": "Párová souhláska na konci slova",
+          "examples": [
+            "dub"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "orth.soft_consonants_basic",
+          "label": "Í po ř a j",
+          "examples": [
+            "větřík",
+            "stojí"
+          ]
+        },
+        {
+          "id": "orth.adjective_hard_endings",
+          "label": "Ý v koncovce přídavného jména",
+          "examples": [
+            "slabý"
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "support": [
+        {
+          "sentence_index": 1,
+          "span": "slabý",
+          "action": "prefill",
+          "reason": "Koncovka -ý přídavného jména nebyla v tomto ukázkovém profilu potvrzena. Nejde o vyjmenované slovo po B.",
+          "exclude_from_independent_writing": true,
+          "start": 15,
+          "end": 20
+        }
+      ],
+      "learner_profile_note": "Potvrzené slabiky s ě, délky, í po ř/j a párové souhlásky. Slovo slabý je v podporované variantě celé předvyplněné.",
+      "teacher_note": "Demonstruje podporovanou variantu. Pro přísnou variantu s tímto profilem není vhodný, dokud se problémové místo neošetří nebo neupraví text a znovu nezkontroluje.",
+      "version": 1,
+      "text": "Dědeček chová pěkné štěně. Během dne věje slabý větřík. Ve městě stojí dub.",
+      "sentence_count": 3,
+      "word_count": 13,
+      "content_sha256": "2681ab696449e0d6748d952bf765971b8ee8aba3a31131f4566276a5f80fac7a",
+      "origin": "notebooklm_generated_editorially_revised",
+      "review_status": "editorially_checked_candidate",
+      "teacher_approved": false,
+      "annotation_completeness": "partial",
+      "audio_review_status": "not_generated",
+      "recommended_mode": "supported",
+      "grade_is_advisory": true,
+      "known_graphemes_required": null,
+      "curriculum_sources": [
+        {
+          "notebook_source_id": "0d52b1d5-d96c-40ad-b68f-aadeda74d613",
+          "url": "https://edu.gov.cz/wp-content/uploads/2023/07/RVP_ZV_2023_cista_verze.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "9ecfc5d0-9452-462c-8343-121bcc0fffaf",
+          "url": "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "a3438cba-898e-4a51-bf5e-faf29e0f5377",
+          "url": "https://prirucka.ujc.cas.cz/?id=103",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        }
+      ],
+      "annotations": [
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 7,
+          "span": "Dědeček",
+          "feature_id": "orth.palatal_groups_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 14,
+          "end": 19,
+          "span": "pěkné",
+          "feature_id": "orth.palatal_groups_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 20,
+          "end": 25,
+          "span": "štěně",
+          "feature_id": "orth.palatal_groups_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0,
+          "end": 5,
+          "span": "Během",
+          "feature_id": "orth.palatal_groups_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 10,
+          "end": 14,
+          "span": "věje",
+          "feature_id": "orth.palatal_groups_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 21,
+          "end": 27,
+          "span": "větřík",
+          "feature_id": "orth.palatal_groups_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 3,
+          "end": 8,
+          "span": "městě",
+          "feature_id": "orth.palatal_groups_basic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 15,
+          "end": 18,
+          "span": "dub",
+          "feature_id": "orth.voicing_final",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 21,
+          "end": 27,
+          "span": "větřík",
+          "feature_id": "orth.soft_consonants_basic",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 9,
+          "end": 14,
+          "span": "stojí",
+          "feature_id": "orth.soft_consonants_basic",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 15,
+          "end": 20,
+          "span": "slabý",
+          "feature_id": "orth.adjective_hard_endings",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        }
+      ],
+      "tts_segments": [
+        {
+          "id": "D03-S01",
+          "sentence_index": 0,
+          "text": "Dědeček chová pěkné štěně."
+        },
+        {
+          "id": "D03-S02",
+          "sentence_index": 1,
+          "text": "Během dne věje slabý větřík."
+        },
+        {
+          "id": "D03-S03",
+          "sentence_index": 2,
+          "text": "Ve městě stojí dub."
+        }
+      ]
+    },
+    {
+      "id": "D04",
+      "title": "Nábytek v bytě",
+      "recommended_grade": 3,
+      "sentences": [
+        "Táta nese do bytu nábytek.",
+        "U okna je stůl.",
+        "Na stole leží obyčejná tužka."
+      ],
+      "target_features": [
+        {
+          "id": "orth.listed_words_b",
+          "label": "Skupina vyjmenovaných a příbuzných slov po B",
+          "examples": [
+            "bytu",
+            "nábytek",
+            "obyčejná"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "orth.u_long_basic",
+          "label": "Ů uvnitř slova",
+          "examples": [
+            "stůl"
+          ]
+        },
+        {
+          "id": "orth.soft_consonants_basic",
+          "label": "Í po ž",
+          "examples": [
+            "leží"
+          ]
+        },
+        {
+          "id": "orth.voicing_internal",
+          "label": "Párová souhláska uvnitř slova",
+          "examples": [
+            "tužka"
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "support": [],
+      "learner_profile_note": "Potvrzená skupina B včetně byt, nábytek, obyčej a běžných tvarů; dále ú/ů, délky a párové souhlásky. Z čísla třídy se znalost skupiny B neodvozuje.",
+      "teacher_note": "Oproti původnímu návrhu odstraněny další skupiny lexikálního i/y, nevymezené koncovky přídavných jmen a nadbytečný minulý čas.",
+      "version": 1,
+      "text": "Táta nese do bytu nábytek. U okna je stůl. Na stole leží obyčejná tužka.",
+      "sentence_count": 3,
+      "word_count": 14,
+      "content_sha256": "379853759697ed1bb273631df9a8178664d2e817c03523f3a4dac42cfe2512fb",
+      "origin": "notebooklm_generated_editorially_revised",
+      "review_status": "editorially_checked_candidate",
+      "teacher_approved": false,
+      "annotation_completeness": "partial",
+      "audio_review_status": "not_generated",
+      "recommended_mode": "strict_after_profile_confirmation",
+      "grade_is_advisory": true,
+      "known_graphemes_required": null,
+      "curriculum_sources": [
+        {
+          "notebook_source_id": "9ecfc5d0-9452-462c-8343-121bcc0fffaf",
+          "url": "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "5a44ed29-1a64-4086-be66-57aaf43a19b3",
+          "url": "https://prirucka.ujc.cas.cz/?id=100",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "6295b4cf-5c43-4b93-b6d8-c673f4414315",
+          "url": "https://www.fraus-klett.cz/cesky-jazyk-3-ucebnice",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        }
+      ],
+      "annotations": [
+        {
+          "sentence_index": 0,
+          "start": 13,
+          "end": 17,
+          "span": "bytu",
+          "feature_id": "orth.listed_words_b",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 18,
+          "end": 25,
+          "span": "nábytek",
+          "feature_id": "orth.listed_words_b",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 14,
+          "end": 22,
+          "span": "obyčejná",
+          "feature_id": "orth.listed_words_b",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 10,
+          "end": 14,
+          "span": "stůl",
+          "feature_id": "orth.u_long_basic",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 9,
+          "end": 13,
+          "span": "leží",
+          "feature_id": "orth.soft_consonants_basic",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 23,
+          "end": 28,
+          "span": "tužka",
+          "feature_id": "orth.voicing_internal",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        }
+      ],
+      "tts_segments": [
+        {
+          "id": "D04-S01",
+          "sentence_index": 0,
+          "text": "Táta nese do bytu nábytek."
+        },
+        {
+          "id": "D04-S02",
+          "sentence_index": 1,
+          "text": "U okna je stůl."
+        },
+        {
+          "id": "D04-S03",
+          "sentence_index": 2,
+          "text": "Na stole leží obyčejná tužka."
+        }
+      ]
+    },
+    {
+      "id": "D05",
+      "title": "Procházka kolem zahrady",
+      "recommended_grade": 4,
+      "sentences": [
+        "Holubi létají nad duby.",
+        "Kolem zahrady vede cesta k lesu.",
+        "Děda chodí na procházku se psy."
+      ],
+      "target_features": [
+        {
+          "id": "orth.noun_endings_pan",
+          "label": "Tvary podstatných jmen podle vzoru pán",
+          "examples": [
+            "Holubi",
+            "psy"
+          ]
+        },
+        {
+          "id": "orth.noun_endings_hrad",
+          "label": "Tvary podstatných jmen podle vzoru hrad",
+          "examples": [
+            "duby",
+            "lesu"
+          ]
+        },
+        {
+          "id": "orth.noun_endings_zena",
+          "label": "Tvary podstatných jmen podle vzoru žena",
+          "examples": [
+            "zahrady"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "orth.palatal_groups_basic",
+          "label": "Dě a di podle výslovnosti",
+          "examples": [
+            "Děda",
+            "chodí"
+          ]
+        },
+        {
+          "id": "orth.soft_consonants_basic",
+          "label": "Í po j",
+          "examples": [
+            "létají"
+          ]
+        },
+        {
+          "id": "orth.voicing_internal",
+          "label": "Párové souhlásky uvnitř slova",
+          "examples": [
+            "procházku"
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "support": [],
+      "learner_profile_note": "Potvrzené konkrétní vzory pán, hrad a žena, včetně tvaru psy. Starší základní pravopis a slovesné tvary přítomného času jsou v profilu výslovně potvrzeny.",
+      "teacher_note": "Bez přídavných jmen a bez shody v minulém čase. Nejde o požadavek znát všechny vzory na začátku čtvrté třídy.",
+      "version": 1,
+      "text": "Holubi létají nad duby. Kolem zahrady vede cesta k lesu. Děda chodí na procházku se psy.",
+      "sentence_count": 3,
+      "word_count": 16,
+      "content_sha256": "70965a363ae0cd363e66036bb4b4f70a70e977a699637c58c0b7796829a35a4c",
+      "origin": "notebooklm_generated_editorially_revised",
+      "review_status": "editorially_checked_candidate",
+      "teacher_approved": false,
+      "annotation_completeness": "partial",
+      "audio_review_status": "not_generated",
+      "recommended_mode": "strict_after_profile_confirmation",
+      "grade_is_advisory": true,
+      "known_graphemes_required": null,
+      "curriculum_sources": [
+        {
+          "notebook_source_id": "9ecfc5d0-9452-462c-8343-121bcc0fffaf",
+          "url": "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "747fcf78-ae29-45b4-8176-61ade5e0339a",
+          "url": "https://novaskoladuha.cz/downloads/metodiky/44-58-Metodika-cesky-jazyk-4.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "a3438cba-898e-4a51-bf5e-faf29e0f5377",
+          "url": "https://prirucka.ujc.cas.cz/?id=103",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        }
+      ],
+      "annotations": [
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 6,
+          "span": "Holubi",
+          "feature_id": "orth.noun_endings_pan",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 27,
+          "end": 30,
+          "span": "psy",
+          "feature_id": "orth.noun_endings_pan",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 18,
+          "end": 22,
+          "span": "duby",
+          "feature_id": "orth.noun_endings_hrad",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 27,
+          "end": 31,
+          "span": "lesu",
+          "feature_id": "orth.noun_endings_hrad",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 6,
+          "end": 13,
+          "span": "zahrady",
+          "feature_id": "orth.noun_endings_zena",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0,
+          "end": 4,
+          "span": "Děda",
+          "feature_id": "orth.palatal_groups_basic",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 5,
+          "end": 10,
+          "span": "chodí",
+          "feature_id": "orth.palatal_groups_basic",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 7,
+          "end": 13,
+          "span": "létají",
+          "feature_id": "orth.soft_consonants_basic",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 14,
+          "end": 23,
+          "span": "procházku",
+          "feature_id": "orth.voicing_internal",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        }
+      ],
+      "tts_segments": [
+        {
+          "id": "D05-S01",
+          "sentence_index": 0,
+          "text": "Holubi létají nad duby."
+        },
+        {
+          "id": "D05-S02",
+          "sentence_index": 1,
+          "text": "Kolem zahrady vede cesta k lesu."
+        },
+        {
+          "id": "D05-S03",
+          "sentence_index": 2,
+          "text": "Děda chodí na procházku se psy."
+        }
+      ]
+    },
+    {
+      "id": "D06",
+      "title": "Školní výlet",
+      "recommended_grade": 5,
+      "sentences": [
+        "Žáci odcestovali na školní výlet.",
+        "Dívky z naší třídy zpívaly veselé písně.",
+        "Ptáčata hlasitě pípla v hnízdě.",
+        "Auta projela otevřenou branou."
+      ],
+      "target_features": [
+        {
+          "id": "syntax.agreement_simple_plural",
+          "label": "Shoda s jednoduchým podmětem v množném čísle",
+          "examples": [
+            "Žáci odcestovali",
+            "Dívky z naší třídy zpívaly",
+            "Ptáčata hlasitě pípla",
+            "Auta projela"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "orth.noun_endings_review",
+          "label": "Probrané koncovky podstatných jmen",
+          "examples": [
+            "Žáci",
+            "Dívky",
+            "třídy",
+            "písně",
+            "branou"
+          ]
+        },
+        {
+          "id": "orth.adjective_endings_review",
+          "label": "Probrané tvary přídavných jmen a zájmen",
+          "examples": [
+            "školní",
+            "naší",
+            "veselé",
+            "otevřenou"
+          ]
+        },
+        {
+          "id": "orth.listed_words_review",
+          "label": "Dříve probrané lexikální i/y",
+          "examples": [
+            "výlet",
+            "zpívaly"
+          ]
+        }
+      ],
+      "required_known_forms": [],
+      "support": [],
+      "learner_profile_note": "Potvrzená základní shoda s jednoduchým podmětem a přesný rozsah probraných tvarů jmen. Předpoklady z dřívějších tříd je nutné potvrdit, ne automaticky převzít.",
+      "teacher_note": "Několikanásobné podměty původního návrhu nahrazeny jednoduchými. Přítomnost rozvíjejícího přívlastku u podmětu Dívky nemění počet jeho jader.",
+      "version": 1,
+      "text": "Žáci odcestovali na školní výlet. Dívky z naší třídy zpívaly veselé písně. Ptáčata hlasitě pípla v hnízdě. Auta projela otevřenou branou.",
+      "sentence_count": 4,
+      "word_count": 21,
+      "content_sha256": "9c1d76e62b316d7f9d4ba6828b4181d67dc5d4c54b7bf751ded2cf8becd62c2c",
+      "origin": "notebooklm_generated_editorially_revised",
+      "review_status": "editorially_checked_candidate",
+      "teacher_approved": false,
+      "annotation_completeness": "partial",
+      "audio_review_status": "not_generated",
+      "recommended_mode": "strict_after_profile_confirmation",
+      "grade_is_advisory": true,
+      "known_graphemes_required": null,
+      "curriculum_sources": [
+        {
+          "notebook_source_id": "9ecfc5d0-9452-462c-8343-121bcc0fffaf",
+          "url": "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "399dd659-7c01-47bf-9466-5daad9c70265",
+          "url": "https://novaskoladuha.cz/downloads/metodiky/55-55-Metodika-cesky-jazyk-5.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "808907ca-a87c-468a-96fd-a49bb6e48602",
+          "url": "https://m.prirucka.ujc.cas.cz/l/?id=600",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "a3438cba-898e-4a51-bf5e-faf29e0f5377",
+          "url": "https://prirucka.ujc.cas.cz/?id=103",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        }
+      ],
+      "annotations": [
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 16,
+          "span": "Žáci odcestovali",
+          "feature_id": "syntax.agreement_simple_plural",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0,
+          "end": 26,
+          "span": "Dívky z naší třídy zpívaly",
+          "feature_id": "syntax.agreement_simple_plural",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0,
+          "end": 21,
+          "span": "Ptáčata hlasitě pípla",
+          "feature_id": "syntax.agreement_simple_plural",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 3,
+          "start": 0,
+          "end": 12,
+          "span": "Auta projela",
+          "feature_id": "syntax.agreement_simple_plural",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 4,
+          "span": "Žáci",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0,
+          "end": 5,
+          "span": "Dívky",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 13,
+          "end": 18,
+          "span": "třídy",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 34,
+          "end": 39,
+          "span": "písně",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 3,
+          "start": 23,
+          "end": 29,
+          "span": "branou",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 20,
+          "end": 26,
+          "span": "školní",
+          "feature_id": "orth.adjective_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 8,
+          "end": 12,
+          "span": "naší",
+          "feature_id": "orth.adjective_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 27,
+          "end": 33,
+          "span": "veselé",
+          "feature_id": "orth.adjective_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 3,
+          "start": 13,
+          "end": 22,
+          "span": "otevřenou",
+          "feature_id": "orth.adjective_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 27,
+          "end": 32,
+          "span": "výlet",
+          "feature_id": "orth.listed_words_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 19,
+          "end": 26,
+          "span": "zpívaly",
+          "feature_id": "orth.listed_words_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        }
+      ],
+      "tts_segments": [
+        {
+          "id": "D06-S01",
+          "sentence_index": 0,
+          "text": "Žáci odcestovali na školní výlet."
+        },
+        {
+          "id": "D06-S02",
+          "sentence_index": 1,
+          "text": "Dívky z naší třídy zpívaly veselé písně."
+        },
+        {
+          "id": "D06-S03",
+          "sentence_index": 2,
+          "text": "Ptáčata hlasitě pípla v hnízdě."
+        },
+        {
+          "id": "D06-S04",
+          "sentence_index": 3,
+          "text": "Auta projela otevřenou branou."
+        }
+      ]
+    },
+    {
+      "id": "D07",
+      "title": "Práce a odpočinek",
+      "recommended_grade": 6,
+      "sentences": [
+        "Adam smazal tabuli a sklonil se k sešitu.",
+        "Oběd se zkazil, ale babička zjednala nápravu.",
+        "Petr vzhlédl k obloze a potom zhlédl film."
+      ],
+      "target_features": [
+        {
+          "id": "orth.prefixes_s_z_vz",
+          "label": "Předpony s, z a vz podle významu a konkrétních slov",
+          "examples": [
+            "smazal",
+            "sklonil",
+            "zkazil",
+            "zjednala",
+            "vzhlédl",
+            "zhlédl"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "punct.adversative_clause",
+          "label": "Čárka před ale na hranici vět",
+          "examples": [
+            ", ale"
+          ]
+        },
+        {
+          "id": "orth.noun_endings_review",
+          "label": "Probrané koncovky podstatných jmen",
+          "examples": [
+            "tabuli",
+            "sešitu",
+            "obloze"
+          ]
+        },
+        {
+          "id": "orth.palatal_groups_basic",
+          "label": "Bě uvnitř běžného slova",
+          "examples": [
+            "Oběd"
+          ]
+        },
+        {
+          "id": "syntax.past_singular",
+          "label": "Minulý čas v jednotném čísle a souvislost podmětu s přísudkem",
+          "examples": [
+            "Adam smazal",
+            "babička zjednala",
+            "Petr vzhlédl"
+          ]
+        }
+      ],
+      "required_known_forms": [
+        "film"
+      ],
+      "support": [],
+      "learner_profile_note": "Potvrzené předpony a čárka před ale, dříve probrané koncovky a vlastní jména. Převzaté slovo film musí být známé včetně zápisu.",
+      "teacher_note": "Není nutná znalost nevyjádřeného podmětu neurčitého rodu: osoby Adam a Petr jsou uvedeny. Volba ročníku automaticky nepotvrzuje pravidlo pro čárku.",
+      "version": 1,
+      "text": "Adam smazal tabuli a sklonil se k sešitu. Oběd se zkazil, ale babička zjednala nápravu. Petr vzhlédl k obloze a potom zhlédl film.",
+      "sentence_count": 3,
+      "word_count": 23,
+      "content_sha256": "854086aa2752dd51ea0a362ae24326e727b55653bc230a760ae0f22fec99ffc0",
+      "origin": "notebooklm_generated_editorially_revised",
+      "review_status": "editorially_checked_candidate",
+      "teacher_approved": false,
+      "annotation_completeness": "partial",
+      "audio_review_status": "not_generated",
+      "recommended_mode": "strict_after_profile_confirmation",
+      "grade_is_advisory": true,
+      "known_graphemes_required": null,
+      "curriculum_sources": [
+        {
+          "notebook_source_id": "9ecfc5d0-9452-462c-8343-121bcc0fffaf",
+          "url": "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "74954062-69c7-4e7a-9398-de5671417193",
+          "url": "https://www.zsslusovice.cz/wcd/docs/skola-dokumenty/svp/svp-340-2019/5.2.1.eskjazykaliteratura.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        }
+      ],
+      "annotations": [
+        {
+          "sentence_index": 0,
+          "start": 5,
+          "end": 11,
+          "span": "smazal",
+          "feature_id": "orth.prefixes_s_z_vz",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 21,
+          "end": 28,
+          "span": "sklonil",
+          "feature_id": "orth.prefixes_s_z_vz",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 8,
+          "end": 14,
+          "span": "zkazil",
+          "feature_id": "orth.prefixes_s_z_vz",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 28,
+          "end": 36,
+          "span": "zjednala",
+          "feature_id": "orth.prefixes_s_z_vz",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 5,
+          "end": 12,
+          "span": "vzhlédl",
+          "feature_id": "orth.prefixes_s_z_vz",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 6,
+          "end": 12,
+          "span": "zhlédl",
+          "feature_id": "orth.prefixes_s_z_vz",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 30,
+          "end": 36,
+          "span": "zhlédl",
+          "feature_id": "orth.prefixes_s_z_vz",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 14,
+          "end": 19,
+          "span": ", ale",
+          "feature_id": "punct.adversative_clause",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 12,
+          "end": 18,
+          "span": "tabuli",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 34,
+          "end": 40,
+          "span": "sešitu",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 15,
+          "end": 21,
+          "span": "obloze",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 0,
+          "end": 4,
+          "span": "Oběd",
+          "feature_id": "orth.palatal_groups_basic",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 11,
+          "span": "Adam smazal",
+          "feature_id": "syntax.past_singular",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 20,
+          "end": 36,
+          "span": "babička zjednala",
+          "feature_id": "syntax.past_singular",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 0,
+          "end": 12,
+          "span": "Petr vzhlédl",
+          "feature_id": "syntax.past_singular",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        }
+      ],
+      "tts_segments": [
+        {
+          "id": "D07-S01",
+          "sentence_index": 0,
+          "text": "Adam smazal tabuli a sklonil se k sešitu."
+        },
+        {
+          "id": "D07-S02",
+          "sentence_index": 1,
+          "text": "Oběd se zkazil, ale babička zjednala nápravu."
+        },
+        {
+          "id": "D07-S03",
+          "sentence_index": 2,
+          "text": "Petr vzhlédl k obloze a potom zhlédl film."
+        }
+      ]
+    },
+    {
+      "id": "D08",
+      "title": "Cesty turistů",
+      "recommended_grade": 7,
+      "sentences": [
+        "Turisté z Polska navštívili Severní moře.",
+        "V Čechách obdivovali Polabí a Sněžku.",
+        "Potom prošli Krkonošský národní park."
+      ],
+      "target_features": [
+        {
+          "id": "orth.proper_names_geographic",
+          "label": "Vlastní zeměpisná jména a víceslovné názvy",
+          "examples": [
+            "Polska",
+            "Severní moře",
+            "Čechách",
+            "Polabí",
+            "Sněžku",
+            "Krkonošský národní park"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "syntax.agreement_unexpressed",
+          "label": "Shoda s vyjádřeným a kontextově nevyjádřeným podmětem",
+          "examples": [
+            "navštívili",
+            "obdivovali",
+            "prošli"
+          ]
+        },
+        {
+          "id": "orth.adjective_endings_review",
+          "label": "Probrané tvary přídavných jmen",
+          "examples": [
+            "Severní",
+            "Krkonošský",
+            "národní"
+          ]
+        },
+        {
+          "id": "orth.noun_endings_review",
+          "label": "Skloňování vlastních a obecných jmen",
+          "examples": [
+            "Turisté",
+            "Polska",
+            "Čechách"
+          ]
+        }
+      ],
+      "required_known_forms": [
+        "Turisté"
+      ],
+      "support": [],
+      "learner_profile_note": "Potvrzené příslušné typy vlastních jmen, tvarosloví a shoda s nevyjádřeným podmětem. Výslovnost a význam zeměpisných názvů vysvětlit před diktátem, bez prozrazení cílového zápisu.",
+      "teacher_note": "Třídní zařazení je orientační. Fiktivní turistická cesta neslouží jako zeměpisná informační pasáž.",
+      "version": 1,
+      "text": "Turisté z Polska navštívili Severní moře. V Čechách obdivovali Polabí a Sněžku. Potom prošli Krkonošský národní park.",
+      "sentence_count": 3,
+      "word_count": 17,
+      "content_sha256": "bd7932827337c7a35aa9ef2064dcbf5ebda2d3fe22831de66065c79ee44c171a",
+      "origin": "notebooklm_generated_editorially_revised",
+      "review_status": "editorially_checked_candidate",
+      "teacher_approved": false,
+      "annotation_completeness": "partial",
+      "audio_review_status": "not_generated",
+      "recommended_mode": "strict_after_profile_confirmation",
+      "grade_is_advisory": true,
+      "known_graphemes_required": null,
+      "curriculum_sources": [
+        {
+          "notebook_source_id": "9ecfc5d0-9452-462c-8343-121bcc0fffaf",
+          "url": "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "74954062-69c7-4e7a-9398-de5671417193",
+          "url": "https://www.zsslusovice.cz/wcd/docs/skola-dokumenty/svp/svp-340-2019/5.2.1.eskjazykaliteratura.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        }
+      ],
+      "annotations": [
+        {
+          "sentence_index": 0,
+          "start": 10,
+          "end": 16,
+          "span": "Polska",
+          "feature_id": "orth.proper_names_geographic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 28,
+          "end": 40,
+          "span": "Severní moře",
+          "feature_id": "orth.proper_names_geographic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 2,
+          "end": 9,
+          "span": "Čechách",
+          "feature_id": "orth.proper_names_geographic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 21,
+          "end": 27,
+          "span": "Polabí",
+          "feature_id": "orth.proper_names_geographic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 30,
+          "end": 36,
+          "span": "Sněžku",
+          "feature_id": "orth.proper_names_geographic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 13,
+          "end": 36,
+          "span": "Krkonošský národní park",
+          "feature_id": "orth.proper_names_geographic",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 17,
+          "end": 27,
+          "span": "navštívili",
+          "feature_id": "syntax.agreement_unexpressed",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 10,
+          "end": 20,
+          "span": "obdivovali",
+          "feature_id": "syntax.agreement_unexpressed",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 6,
+          "end": 12,
+          "span": "prošli",
+          "feature_id": "syntax.agreement_unexpressed",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 28,
+          "end": 35,
+          "span": "Severní",
+          "feature_id": "orth.adjective_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 13,
+          "end": 23,
+          "span": "Krkonošský",
+          "feature_id": "orth.adjective_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 24,
+          "end": 31,
+          "span": "národní",
+          "feature_id": "orth.adjective_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 7,
+          "span": "Turisté",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 10,
+          "end": 16,
+          "span": "Polska",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 2,
+          "end": 9,
+          "span": "Čechách",
+          "feature_id": "orth.noun_endings_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        }
+      ],
+      "tts_segments": [
+        {
+          "id": "D08-S01",
+          "sentence_index": 0,
+          "text": "Turisté z Polska navštívili Severní moře."
+        },
+        {
+          "id": "D08-S02",
+          "sentence_index": 1,
+          "text": "V Čechách obdivovali Polabí a Sněžku."
+        },
+        {
+          "id": "D08-S03",
+          "sentence_index": 2,
+          "text": "Potom prošli Krkonošský národní park."
+        }
+      ]
+    },
+    {
+      "id": "D09",
+      "title": "Kniha v dešti",
+      "recommended_grade": 8,
+      "sentences": [
+        "Slíbil jsem, že knihu vrátím ještě dnes.",
+        "Když začalo silně pršet, schoval jsem se do chaty.",
+        "Do knihovny vyrazím, jakmile déšť ustane."
+      ],
+      "target_features": [
+        {
+          "id": "punct.subordinate_clause_boundary",
+          "label": "Čárka mezi hlavní a vedlejší větou v různém pořadí",
+          "examples": [
+            ", že",
+            "pršet,",
+            ", jakmile"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "orth.listed_words_review",
+          "label": "Dříve probrané lexikální i/y a předpona vy",
+          "examples": [
+            "Slíbil",
+            "vrátím",
+            "knihovny",
+            "vyrazím",
+            "jakmile"
+          ]
+        },
+        {
+          "id": "orth.prefixes_s_z_vz",
+          "label": "Předpona s",
+          "examples": [
+            "schoval"
+          ]
+        },
+        {
+          "id": "orth.voicing_final",
+          "label": "Párová souhláska na konci slova",
+          "examples": [
+            "déšť"
+          ]
+        },
+        {
+          "id": "syntax.past_singular",
+          "label": "Tvary minulého času a kontext vypravěče",
+          "examples": [
+            "Slíbil",
+            "schoval"
+          ]
+        }
+      ],
+      "required_known_forms": [
+        "jsem"
+      ],
+      "support": [],
+      "learner_profile_note": "Potvrzené jednoduché podřadné souvětí, starší pravopis, slovesné tvary a slovní zásoba. Ročník sám není důvodem požadovat všechny syntaktické jevy.",
+      "teacher_note": "Tři související věty se stejným vypravěčem. Slíbil určuje kontext pro schoval; čtenář nemá přepisovat vypravěče podle vlastního rodu.",
+      "version": 1,
+      "text": "Slíbil jsem, že knihu vrátím ještě dnes. Když začalo silně pršet, schoval jsem se do chaty. Do knihovny vyrazím, jakmile déšť ustane.",
+      "sentence_count": 3,
+      "word_count": 22,
+      "content_sha256": "2aa9573a7835a233ce13be90c11c6c3d37e4ac210901b70f7c5e49c7ff911f61",
+      "origin": "notebooklm_generated_editorially_revised",
+      "review_status": "editorially_checked_candidate",
+      "teacher_approved": false,
+      "annotation_completeness": "partial",
+      "audio_review_status": "not_generated",
+      "recommended_mode": "strict_after_profile_confirmation",
+      "grade_is_advisory": true,
+      "known_graphemes_required": null,
+      "curriculum_sources": [
+        {
+          "notebook_source_id": "9ecfc5d0-9452-462c-8343-121bcc0fffaf",
+          "url": "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "74954062-69c7-4e7a-9398-de5671417193",
+          "url": "https://www.zsslusovice.cz/wcd/docs/skola-dokumenty/svp/svp-340-2019/5.2.1.eskjazykaliteratura.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "a3438cba-898e-4a51-bf5e-faf29e0f5377",
+          "url": "https://prirucka.ujc.cas.cz/?id=103",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        }
+      ],
+      "annotations": [
+        {
+          "sentence_index": 0,
+          "start": 11,
+          "end": 15,
+          "span": ", že",
+          "feature_id": "punct.subordinate_clause_boundary",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 18,
+          "end": 24,
+          "span": "pršet,",
+          "feature_id": "punct.subordinate_clause_boundary",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 19,
+          "end": 28,
+          "span": ", jakmile",
+          "feature_id": "punct.subordinate_clause_boundary",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 6,
+          "span": "Slíbil",
+          "feature_id": "orth.listed_words_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 22,
+          "end": 28,
+          "span": "vrátím",
+          "feature_id": "orth.listed_words_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 3,
+          "end": 11,
+          "span": "knihovny",
+          "feature_id": "orth.listed_words_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 12,
+          "end": 19,
+          "span": "vyrazím",
+          "feature_id": "orth.listed_words_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 21,
+          "end": 28,
+          "span": "jakmile",
+          "feature_id": "orth.listed_words_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 25,
+          "end": 32,
+          "span": "schoval",
+          "feature_id": "orth.prefixes_s_z_vz",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 29,
+          "end": 33,
+          "span": "déšť",
+          "feature_id": "orth.voicing_final",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 6,
+          "span": "Slíbil",
+          "feature_id": "syntax.past_singular",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 25,
+          "end": 32,
+          "span": "schoval",
+          "feature_id": "syntax.past_singular",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        }
+      ],
+      "tts_segments": [
+        {
+          "id": "D09-S01",
+          "sentence_index": 0,
+          "text": "Slíbil jsem, že knihu vrátím ještě dnes."
+        },
+        {
+          "id": "D09-S02",
+          "sentence_index": 1,
+          "text": "Když začalo silně pršet, schoval jsem se do chaty."
+        },
+        {
+          "id": "D09-S03",
+          "sentence_index": 2,
+          "text": "Do knihovny vyrazím, jakmile déšť ustane."
+        }
+      ]
+    },
+    {
+      "id": "D10",
+      "title": "Zkouška a kniha",
+      "recommended_grade": 9,
+      "sentences": [
+        "Studenti, kteří se pečlivě připravovali na zkoušku, dosáhli výborných výsledků.",
+        "Kniha, kterou mi babička doporučila k četbě, mě zaujala od první stránky.",
+        "I když bylo nepříznivé počasí, turisté pokračovali v cestě, aby dorazili včas."
+      ],
+      "target_features": [
+        {
+          "id": "punct.embedded_subordinate_clause",
+          "label": "Oboustranné oddělení vložené vedlejší věty",
+          "examples": [
+            ", kteří se pečlivě připravovali na zkoušku,",
+            ", kterou mi babička doporučila k četbě,"
+          ]
+        },
+        {
+          "id": "punct.multiple_subordinate_clauses",
+          "label": "Hranice vět ve složitějším souvětí",
+          "examples": [
+            "počasí,",
+            ", aby"
+          ]
+        }
+      ],
+      "incidental_features": [
+        {
+          "id": "syntax.agreement_review",
+          "label": "Probrané případy shody a slovesných tvarů",
+          "examples": [
+            "Studenti",
+            "připravovali",
+            "dosáhli",
+            "pokračovali",
+            "dorazili"
+          ]
+        },
+        {
+          "id": "orth.pronoun_me_mne",
+          "label": "Tvar zájmena já",
+          "examples": [
+            "mě"
+          ]
+        },
+        {
+          "id": "orth.prefixes_review",
+          "label": "Probrané předpony a lexikální pravopis",
+          "examples": [
+            "zkoušku",
+            "výborných",
+            "výsledků",
+            "včas"
+          ]
+        }
+      ],
+      "required_known_forms": [
+        "Studenti",
+        "turisté"
+      ],
+      "support": [],
+      "learner_profile_note": "Potvrzené vložené vedlejší věty, souvětí s více vedlejšími větami, tvary zájmen, shoda a slovní zásoba.",
+      "teacher_note": "Vložená vedlejší věta je gramaticky začleněná, není vsuvkou. Ve třetí větě turisté výslovně vymezují podmět a rodovou shodu; jde o redakční opravu původního návrhu.",
+      "version": 1,
+      "text": "Studenti, kteří se pečlivě připravovali na zkoušku, dosáhli výborných výsledků. Kniha, kterou mi babička doporučila k četbě, mě zaujala od první stránky. I když bylo nepříznivé počasí, turisté pokračovali v cestě, aby dorazili včas.",
+      "sentence_count": 3,
+      "word_count": 34,
+      "content_sha256": "9189e0ec4d28430744057b4f6935cbea8e00f1c0fb58fa05dbe92d178e4f3a52",
+      "origin": "notebooklm_generated_editorially_revised",
+      "review_status": "editorially_checked_candidate",
+      "teacher_approved": false,
+      "annotation_completeness": "partial",
+      "audio_review_status": "not_generated",
+      "recommended_mode": "strict_after_profile_confirmation",
+      "grade_is_advisory": true,
+      "known_graphemes_required": null,
+      "curriculum_sources": [
+        {
+          "notebook_source_id": "9ecfc5d0-9452-462c-8343-121bcc0fffaf",
+          "url": "https://www.zspocatky.cz/userfiles/file/skolni-vzdelavaci-program-pro-zakladni-vzdelavani-skola-zaklad-pro-zivot-2025_20251008164013.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "74954062-69c7-4e7a-9398-de5671417193",
+          "url": "https://www.zsslusovice.cz/wcd/docs/skola-dokumenty/svp/svp-340-2019/5.2.1.eskjazykaliteratura.pdf",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        },
+        {
+          "notebook_source_id": "808907ca-a87c-468a-96fd-a49bb6e48602",
+          "url": "https://m.prirucka.ujc.cas.cz/l/?id=600",
+          "scope": "rules_or_advisory_curriculum_profile_not_text_origin"
+        }
+      ],
+      "annotations": [
+        {
+          "sentence_index": 0,
+          "start": 8,
+          "end": 51,
+          "span": ", kteří se pečlivě připravovali na zkoušku,",
+          "feature_id": "punct.embedded_subordinate_clause",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 5,
+          "end": 44,
+          "span": ", kterou mi babička doporučila k četbě,",
+          "feature_id": "punct.embedded_subordinate_clause",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 23,
+          "end": 30,
+          "span": "počasí,",
+          "feature_id": "punct.multiple_subordinate_clauses",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 58,
+          "end": 63,
+          "span": ", aby",
+          "feature_id": "punct.multiple_subordinate_clauses",
+          "role": "target",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 0,
+          "end": 8,
+          "span": "Studenti",
+          "feature_id": "syntax.agreement_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 27,
+          "end": 39,
+          "span": "připravovali",
+          "feature_id": "syntax.agreement_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 52,
+          "end": 59,
+          "span": "dosáhli",
+          "feature_id": "syntax.agreement_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 39,
+          "end": 50,
+          "span": "pokračovali",
+          "feature_id": "syntax.agreement_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 64,
+          "end": 72,
+          "span": "dorazili",
+          "feature_id": "syntax.agreement_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 1,
+          "start": 45,
+          "end": 47,
+          "span": "mě",
+          "feature_id": "orth.pronoun_me_mne",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 43,
+          "end": 50,
+          "span": "zkoušku",
+          "feature_id": "orth.prefixes_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 60,
+          "end": 69,
+          "span": "výborných",
+          "feature_id": "orth.prefixes_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 0,
+          "start": 70,
+          "end": 78,
+          "span": "výsledků",
+          "feature_id": "orth.prefixes_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        },
+        {
+          "sentence_index": 2,
+          "start": 73,
+          "end": 77,
+          "span": "včas",
+          "feature_id": "orth.prefixes_review",
+          "role": "incidental",
+          "review_status": "editorial_proposal"
+        }
+      ],
+      "tts_segments": [
+        {
+          "id": "D10-S01",
+          "sentence_index": 0,
+          "text": "Studenti, kteří se pečlivě připravovali na zkoušku, dosáhli výborných výsledků."
+        },
+        {
+          "id": "D10-S02",
+          "sentence_index": 1,
+          "text": "Kniha, kterou mi babička doporučila k četbě, mě zaujala od první stránky."
+        },
+        {
+          "id": "D10-S03",
+          "sentence_index": 2,
+          "text": "I když bylo nepříznivé počasí, turisté pokračovali v cestě, aby dorazili včas."
+        }
+      ]
+    }
+  ]
+}
