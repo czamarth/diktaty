@@ -65,3 +65,35 @@ Provedl pouze asistent (AI); výsledky a nejistoty: [`EDITORIAL_NOTES.md`](EDITO
 - Prohlížeče kromě Chromia; čtečky obrazovky (jen sémantika a `aria-*`, žádný test se skutečnou čtečkou); automatický postup po větách v Safari (omezení autoplay).
 - Výchozí profily ročníků jsou provizorní (nepocházejí z NotebookLM ani ze školních plánů).
 - NotebookLM přes MCP: v relaci nebyl dostupný žádný nástroj; použita byla dodaná data.
+
+## 6. Lokální běh se skutečným hlasem (2026-10-27)
+
+Prostředí: Linux 7.0.0-38-generic x86-64 (Ubuntu), systémový Python 3.14.4 bez `python3-venv` → venv vytvořen přes `uv` (CPython **3.12.13**), Node v22.22.1, `piper-tts` 1.8.0, `onnxruntime` 1.31.1. Stroj: Intel Pentium 2127U 1,9 GHz, 2 jádra, 3,7 GB RAM (slabý stroj; jen CPU).
+
+**Automatické kontroly na tomto stroji — PROŠLO:** `npm test` 68/68, `npm run test:py` 49/49 (bez přeskočených, tj. včetně 2 testů proti skutečnému Piperu), `npm run validate` 10/10 diktátů bez chyb, stejných 5 varování jako v části 1. E2E v prohlížeči (`node tests/e2e/e2e.mjs`) na tomto stroji **nebylo spuštěno**.
+
+**Stažení modelu (`fetch_model.py --yes`) — nejprve SELHALO kvůli chybě ve skriptu, poté opraveno a PROŠLO.**
+- 1. pokus: „otisk souboru cs_CZ-jirka-medium.onnx (cbd5c900…) se neshoduje s otiskem od serveru (514b7ff6…)“, soubory skript smazal.
+- Příčina (ověřeno `curl -I`): HuggingFace posílá skutečný SHA-256 v `X-Linked-ETag` jen na první odpovědi 302. Koncová odpověď z Xet CDN nese jiný `ETag` (= `X-Xet-Hash`, interní hash úložiště `514b7ff6…`). `urllib` přesměrování následoval potichu a skript porovnal data se špatnou hlavičkou. Stažená data měla SHA-256 `cbd5c900…`, což je přesně `X-Linked-ETag`; data tedy byla v pořádku, chybná byla kontrola.
+- Oprava: `server/fetch_model.py` zachycuje `X-Linked-ETag` z kroku přesměrování; `ETag` z koncové odpovědi se použije jen bez přesměrování a bez `X-Xet-Hash`. Kontrola se neoslabila (špatný `X-Linked-ETag` dál soubory smaže). Přidány 2 testy proti lokálnímu HTTP serveru napodobujícímu HuggingFace/Xet (`test_redirect_with_linked_etag_is_verified_against_it_not_cdn_etag`, `test_redirect_with_wrong_linked_etag_is_still_rejected`); první **selže na původním kódu a prochází po opravě**.
+- 2. pokus: „Otisk ověřen proti serveru: ano“. `.onnx` 63 201 294 B, SHA-256 `cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8`, commit repozitáře voices `5041a7a49ae5b3a0f30e6837769eb03fdbb231bd`. Otisk ověřen jen pro `.onnx` (ostatní soubory server otisk SHA-256 neposkytl).
+- `MODEL_CARD`: dataset CC0 (<https://github.com/OHF-Voice/voice-datasets>), 1 mluvčí, 22 050 Hz, medium, „Finetuned from U.S. English lessac voice“. Licence výchozího hlasu lessac není v kartě uvedena a **nebyla ověřena** (viz `LICENSES.md`).
+
+**Generování zvuku a rychlost (`generate_audio.py`, síť DOSTUPNÁ, `offline_confirmed: false`) — PROŠLO technicky:** 72 nahrávek (10 celých textů při tempu 1.0 + 31 vět × tempa 1.0 a 1.3), 0 problémů, celkem 94,6 s syntézy na 319,3 s zvuku. Všechna syntéza čerstvá (cache miss).
+
+| Měření | RTF (čas syntézy / délka zvuku) |
+|---|---|
+| celkový průměr skriptu (72) | 0,298 |
+| první syntéza po startu (D01 celý text, včetně načtení modelu) | **1,422** (6,19 s pro 4,35 s zvuku) |
+| bez první (71) | min 0,265 · medián 0,280 · max 0,349 |
+| věty, tempo 1.0 (31) | medián 0,284 · max 0,349 (nejdelší 2,30 s) |
+| věty, tempo 1.3 (31) | medián 0,277 · max 0,299 (nejdelší 2,60 s) |
+| celé texty bez prvního (9) | medián 0,279 · nejdelší D10: 5,75 s pro 20,85 s zvuku |
+
+Závěr měření: po zahřátí je syntéza ~3,5× rychlejší než reálný čas i na tomto slabém stroji; první syntéza po startu serveru je pomalejší než reálný čas (RTF > 1) kvůli načtení modelu. Mezipaměť je předgenerovaná, takže to dítě při diktování nepocítí, ale **po změně textu nebo modelu** se první větě čeká na načtení/syntézu. Měřeno jen s `length_scale` 1.0 a 1.3, jen na tomto stroji. Zpráva: `user_data/audio-generation-report.json` (necommituje se).
+
+**Poslech hlasu — NEPROVEDENO.** Nikdo zatím žádný text neposlechl; `GET /api/reviews` vrací prázdný seznam. Asistent zvuk neslyší a nic neposuzuje.
+
+**Provoz skutečného hlasu bez sítě (`--require-offline`) — NEPROVEDENO.** Pokus o síťový jmenný prostor (`unshare -rn`) na tomto stroji selhal („Operation not permitted“); odpojení sítě musí provést uživatel.
+
+**Pedagogické schválení — NEPROVEDENO** (beze změny, viz část 4).

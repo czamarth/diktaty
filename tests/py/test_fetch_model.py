@@ -81,6 +81,59 @@ class FetchModel(unittest.TestCase):
         self.assertIn("neshoduje", err)
         self.assertFalse((self.models / "cs_CZ-jirka-medium.onnx").exists())
 
+    def _serve_like_huggingface(self, linked_etag_for_onnx=None):
+        """Lokální HTTP server po vzoru HuggingFace/Xet: 302 s X-Linked-ETag (skutečný SHA-256),
+        koncová odpověď nese jiný ETag (interní hash úložiště) a X-Xet-Hash."""
+        import hashlib
+        import http.server
+        import threading
+
+        remote = self.remote
+
+        class Handler(http.server.BaseHTTPRequestHandler):
+            def log_message(self, *a):
+                pass
+
+            def do_GET(self):
+                if self.path.startswith("/cdn/"):
+                    data = (remote / self.path[len("/cdn/"):]).read_bytes()
+                    self.send_response(200)
+                    self.send_header("ETag", '"' + "e" * 64 + '"')
+                    self.send_header("X-Xet-Hash", "e" * 64)
+                    self.send_header("Content-Length", str(len(data)))
+                    self.end_headers()
+                    self.wfile.write(data)
+                    return
+                name = self.path.lstrip("/")
+                data = (remote / name).read_bytes()
+                self.send_response(302)
+                self.send_header("Location", "/cdn/" + name)
+                if name.endswith(".onnx"):
+                    self.send_header("X-Linked-ETag", '"' + (linked_etag_for_onnx or hashlib.sha256(data).hexdigest()) + '"')
+                self.send_header("Content-Length", "0")
+                self.end_headers()
+
+        srv = http.server.ThreadingHTTPServer(("127.0.0.1", 0), Handler)
+        threading.Thread(target=srv.serve_forever, daemon=True).start()
+        self.addCleanup(srv.server_close)
+        self.addCleanup(srv.shutdown)
+        self.base = f"http://127.0.0.1:{srv.server_address[1]}"
+
+    def test_redirect_with_linked_etag_is_verified_against_it_not_cdn_etag(self):
+        self._serve_like_huggingface()
+        code, out, err = self.run_main("--yes")
+        self.assertEqual(code, 0, err)
+        self.assertIn("Otisk ověřen proti serveru: ano", out)
+        lock = json.loads((self.models / "MODEL_LOCK.json").read_text(encoding="utf-8"))
+        self.assertTrue(lock["integrity_verified_against_server_hash"])
+
+    def test_redirect_with_wrong_linked_etag_is_still_rejected(self):
+        self._serve_like_huggingface(linked_etag_for_onnx="0" * 64)
+        code, _, err = self.run_main("--yes")
+        self.assertEqual(code, 1)
+        self.assertIn("neshoduje", err)
+        self.assertFalse((self.models / "cs_CZ-jirka-medium.onnx").exists())
+
     def test_accept_current_records_manually_placed_voice(self):
         write_model(self.models)
         code, out, _ = self.run_main("--accept-current")

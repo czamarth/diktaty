@@ -63,15 +63,33 @@ Potom spusťte znovu: python3 server/fetch_model.py --accept-current   (zapíše
 """
 
 
+class _RecordLinkedEtag(urllib.request.HTTPRedirectHandler):
+    """HuggingFace uvádí skutečný SHA-256 souboru v X-Linked-ETag jen na první odpovědi (302);
+    koncová odpověď z CDN nese jiný ETag (interní hash úložiště), proto se hlavička zachytí cestou."""
+
+    def __init__(self):
+        self.linked_etag: str | None = None
+        self.redirected = False
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        self.redirected = True
+        self.linked_etag = headers.get("X-Linked-ETag") or self.linked_etag
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
 def download(url: str, dest: Path) -> tuple[str, str | None]:
     """Stáhne soubor do dest (atomicky). Vrací (sha256, otisk uvedený serverem nebo None)."""
     req = urllib.request.Request(url, headers={"User-Agent": "diktaty-fetch-model/0.1"})
     h = hashlib.sha256()
     tmp = dest.with_name(dest.name + ".part")
-    with urllib.request.urlopen(req, timeout=60) as res, open(tmp, "wb") as out:
+    redirects = _RecordLinkedEtag()
+    opener = urllib.request.build_opener(redirects)
+    with opener.open(req, timeout=60) as res, open(tmp, "wb") as out:
         total = int(res.headers.get("Content-Length") or 0)
         done = 0
-        etag = res.headers.get("X-Linked-ETag") or res.headers.get("ETag")
+        etag = res.headers.get("X-Linked-ETag") or redirects.linked_etag
+        if etag is None and not redirects.redirected and res.headers.get("X-Xet-Hash") is None:
+            etag = res.headers.get("ETag")
         while True:
             chunk = res.read(1024 * 256)
             if not chunk:
