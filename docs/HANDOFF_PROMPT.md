@@ -1,3 +1,5 @@
+> **Zastaralé:** předpokládá hlas jirka, který byl vyřazen z licenčních důvodů. Aktuální zadání: [`HANDOFF_PROMPT_2.md`](HANDOFF_PROMPT_2.md).
+
 # Prompt pro předání vývoje na lokální stroj
 
 Zkopírujte do nové relace Claude Code spuštěné **na vašem počítači** (s internetem pro krok 3 a s reproduktory pro krok 6), v prázdné složce, kam se naklonuje repozitář.
