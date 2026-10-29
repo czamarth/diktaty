@@ -1,0 +1,158 @@
+feature: orth.vowel_quantity
+code: vq
+---
+# Máma a táta
+Máma má koláč.
+Táta má mléko.
+Ema má salát.
+Ota má plán.
+
+# Ráno
+Ráno je mlha.
+Máma peče koláč.
+Táta má kávu.
+
+# Léto
+Je léto.
+Tráva je krásná.
+Kráva má mléko.
+Ema má ráda léto.
+
+# V sále
+V sále je pán.
+Pán má plán.
+Karel hraje v sále.
+
+# Šála
+Máma má šálu.
+Šála je teplá.
+Táta má šátek.
+Ota má šálek.
+
+# Sláma
+Kráva bere slámu.
+Tele bere mléko.
+Táta nese slámu.
+Ema nese sáček.
+
+# Tábor
+Ota jede na tábor.
+Tábor je v lese.
+Dana má dobrou kávu.
+
+# Pátek
+V pátek jede máma do lesa.
+V sobotu jede táta na zámek.
+V čtvrtek čte Ema.
+
+# Koláč
+Hana peče koláč.
+Koláč má dobrou náplň.
+Máma má koláč ráda.
+
+# Kráva a vrána
+Kráva je na louce.
+Vrána je na plotu.
+Kráva má dobré mléko.
+
+# Sáňka
+Dana má sáňku.
+Sáňka je nová.
+Dana čeká na Annu.
+
+# Hráč
+Hráč hraje na louce.
+Hráč má plán.
+Hráč zná hru.
+Pán čeká.
+
+# Bláto
+Je bláto.
+Louka je mokrá.
+Cesta je suchá.
+
+# Skála
+Skála je tvrdá.
+Pod skálou je tma.
+Karel hledá kámen.
+
+# Pára
+Z kotle jde pára.
+Pára je teplá.
+Máma hřeje vodu.
+
+# Káča
+Káča nese sáček s čajem.
+Máma čeká v sále.
+Ota hledá Káču.
+
+# Vrána
+Vrána sedne na plot.
+Vrána krade vejce.
+Pán pozná vránu.
+Máma čeká.
+
+# Čtvrtek
+Ve čtvrtek jede táta do lesa.
+Máma čeká doma.
+Ráno je chladno.
+
+# Chodba
+Chodba je tmavá.
+V sále je tma.
+Pán hledá lampu.
+
+# Zámek
+Zámek je u lesa.
+Pán jede na zámek.
+Ráno je tam hlas.
+
+# Na stole
+Na stole je máslo.
+Na stole je káva.
+Na stole je mléko.
+
+# Sobota
+V sobotu hraje Ema hru.
+Táta čte plán.
+Máma pere šálu.
+
+# Kráva na louce
+Kráva pase na louce.
+Tráva je dobrá.
+Pán nese slámu.
+
+# Teplé léto
+Léto je teplé.
+Tráva je suchá.
+Eva má ráda léto.
+
+# Dlouhá cesta
+Cesta je dlouhá.
+Kráva čeká u plotu.
+Pán hledá tábor.
+
+# Šťastná Dana
+Dana je šťastná.
+Dana má šálek.
+Dana pozná pána.
+
+# Smutná vrána
+Vrána je smutná.
+Vrána čeká na slámu.
+Ema má dobré mléko.
+
+# Čerstvá káva
+Káva je čerstvá.
+Mléko je čerstvé.
+Máslo je čerstvé.
+
+# Studená voda
+Voda je studená.
+Máma má šálek.
+Ráno je tma.
+
+# Pomalá kráva
+Kráva je pomalá.
+Ráno čeká na louce.
+Tráva je mokrá.

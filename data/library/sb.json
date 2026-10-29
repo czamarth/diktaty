@@ -1,0 +1,1341 @@
+{
+  "schema_version": 1,
+  "pack_id": "lib-sb",
+  "pack_version": 1,
+  "language": "cs-CZ",
+  "offset_unit": "unicode_code_points",
+  "purpose": "generated_library_not_teacher_approved",
+  "text_origin": "Nové věty sestavené asistentem pro knihovnu; nejde o převzaté texty. Kurikulární zdroje nejsou uvedeny, protože nejsou původem vět.",
+  "publication_policy": "Kandidáti (review_status sample): bez lidské redakční kontroly, poslechu i pedagogického schválení.",
+  "dictations": [
+  {
+    "id": "L-sb-01",
+    "title": "Ema a Ota",
+    "recommended_grade": 1,
+    "sentences": ["Ema nese kolo.","Ota hrabe seno.","Petr vede psa.","Eva čte."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Ema",".","Ota","Petr"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Ema nese kolo. Ota hrabe seno. Petr vede psa. Eva čte.",
+    "sentence_count": 4,
+    "word_count": 11,
+    "content_sha256": "80f00021d7c23005a414945941d048716d22313ee938d93144cbaab0884b3344",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["E","O","P","a","b","d","e","h","k","l","m","n","o","p","r","s","t","v","č"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Ema","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":13,"end":14,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Ota","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":4,"span":"Petr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":13,"end":14,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":3,"span":"Eva","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":7,"end":8,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-01-S01","sentence_index":0,"text":"Ema nese kolo."},
+      {"id":"L-sb-01-S02","sentence_index":1,"text":"Ota hrabe seno."},
+      {"id":"L-sb-01-S03","sentence_index":2,"text":"Petr vede psa."},
+      {"id":"L-sb-01-S04","sentence_index":3,"text":"Eva čte."}
+    ]
+  },
+  {
+    "id": "L-sb-02",
+    "title": "Na louce",
+    "recommended_grade": 1,
+    "sentences": ["Na louce pase koza.","Pes sedne na seno.","Ema hřeje čaj."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Na",".","Pes","Ema"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Na louce pase koza. Pes sedne na seno. Ema hřeje čaj.",
+    "sentence_count": 3,
+    "word_count": 11,
+    "content_sha256": "bec6b46a57fe27b913312a0ccaf5bcc340da3b2e69729aba1c59fb0ad1738e1e",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["E","N","P","a","c","d","e","h","j","k","l","m","n","o","p","s","u","z","č","ř"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":2,"span":"Na","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Ema","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":13,"end":14,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-02-S01","sentence_index":0,"text":"Na louce pase koza."},
+      {"id":"L-sb-02-S02","sentence_index":1,"text":"Pes sedne na seno."},
+      {"id":"L-sb-02-S03","sentence_index":2,"text":"Ema hřeje čaj."}
+    ]
+  },
+  {
+    "id": "L-sb-03",
+    "title": "U lesa",
+    "recommended_grade": 1,
+    "sentences": ["U lesa jede traktor.","Petr nese lano.","Karel kope pole."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["U",".","Petr","Karel"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "U lesa jede traktor. Petr nese lano. Karel kope pole.",
+    "sentence_count": 3,
+    "word_count": 10,
+    "content_sha256": "273c8cd47681c848d711ff180cef0497a12cfa1e764af43f45ff0cbb212cc383",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["K","P","U","a","d","e","j","k","l","n","o","p","r","s","t"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":1,"span":"U","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":19,"end":20,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Petr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":5,"span":"Karel","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":15,"end":16,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-03-S01","sentence_index":0,"text":"U lesa jede traktor."},
+      {"id":"L-sb-03-S02","sentence_index":1,"text":"Petr nese lano."},
+      {"id":"L-sb-03-S03","sentence_index":2,"text":"Karel kope pole."}
+    ]
+  },
+  {
+    "id": "L-sb-04",
+    "title": "Pes Alan",
+    "recommended_grade": 1,
+    "sentences": ["Pes Alan leze pod plot.","Alan bere kost.","Pes sedne u okna.","Anna mele ječmen."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Pes",".","Alan","Anna"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Pes Alan leze pod plot. Alan bere kost. Pes sedne u okna. Anna mele ječmen.",
+    "sentence_count": 4,
+    "word_count": 15,
+    "content_sha256": "aa893362b89475d7adcdc503c636c24ac946dcc3298a8b8ec0f846f5bfc6c25b",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["A","P","a","b","d","e","j","k","l","m","n","o","p","r","s","t","u","z","č"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":22,"end":23,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Alan","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":4,"span":"Anna","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-04-S01","sentence_index":0,"text":"Pes Alan leze pod plot."},
+      {"id":"L-sb-04-S02","sentence_index":1,"text":"Alan bere kost."},
+      {"id":"L-sb-04-S03","sentence_index":2,"text":"Pes sedne u okna."},
+      {"id":"L-sb-04-S04","sentence_index":3,"text":"Anna mele ječmen."}
+    ]
+  },
+  {
+    "id": "L-sb-05",
+    "title": "Kos a sova",
+    "recommended_grade": 1,
+    "sentences": ["Kos sedne na strom.","Sova je v lese.","Straka krade kost."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Kos",".","Sova","Straka"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Kos sedne na strom. Sova je v lese. Straka krade kost.",
+    "sentence_count": 3,
+    "word_count": 11,
+    "content_sha256": "070584147553879ea3cd303a551b4284293da4d93ddde36edd08f0e6fd3c0da7",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["K","S","a","d","e","j","k","l","m","n","o","r","s","t","v"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Kos","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Sova","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":6,"span":"Straka","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-05-S01","sentence_index":0,"text":"Kos sedne na strom."},
+      {"id":"L-sb-05-S02","sentence_index":1,"text":"Sova je v lese."},
+      {"id":"L-sb-05-S03","sentence_index":2,"text":"Straka krade kost."}
+    ]
+  },
+  {
+    "id": "L-sb-06",
+    "title": "Traktor",
+    "recommended_grade": 1,
+    "sentences": ["Traktor jede po louce.","Petr sekne do stromu.","Marek kope pod stromem."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Traktor",".","Petr","Marek"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Traktor jede po louce. Petr sekne do stromu. Marek kope pod stromem.",
+    "sentence_count": 3,
+    "word_count": 12,
+    "content_sha256": "77820507808552351924ebaaddb60dd438dca6578c35bcfd063176a762d0b529",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["M","P","T","a","c","d","e","j","k","l","m","n","o","p","r","s","t","u"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":7,"span":"Traktor","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":21,"end":22,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Petr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":20,"end":21,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":5,"span":"Marek","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":22,"end":23,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-06-S01","sentence_index":0,"text":"Traktor jede po louce."},
+      {"id":"L-sb-06-S02","sentence_index":1,"text":"Petr sekne do stromu."},
+      {"id":"L-sb-06-S03","sentence_index":2,"text":"Marek kope pod stromem."}
+    ]
+  },
+  {
+    "id": "L-sb-07",
+    "title": "U potoka",
+    "recommended_grade": 1,
+    "sentences": ["U potoka leze rak.","Kapr plave v jezeru.","Ema tluče vejce."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["U",".","Kapr","Ema"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "U potoka leze rak. Kapr plave v jezeru. Ema tluče vejce.",
+    "sentence_count": 3,
+    "word_count": 11,
+    "content_sha256": "66b04fed92df5ecc6bb1de0de0bd4748e6471e990848cb7508c88b1898996990",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["E","K","U","a","c","e","j","k","l","m","o","p","r","t","u","v","z","č"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":1,"span":"U","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Kapr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":19,"end":20,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Ema","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":15,"end":16,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-07-S01","sentence_index":0,"text":"U potoka leze rak."},
+      {"id":"L-sb-07-S02","sentence_index":1,"text":"Kapr plave v jezeru."},
+      {"id":"L-sb-07-S03","sentence_index":2,"text":"Ema tluče vejce."}
+    ]
+  },
+  {
+    "id": "L-sb-08",
+    "title": "Olga a Adam",
+    "recommended_grade": 1,
+    "sentences": ["Olga čte pod stromem.","Adam hraje na louce.","Pes leze pod plot."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Olga",".","Adam","Pes"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Olga čte pod stromem. Adam hraje na louce. Pes leze pod plot.",
+    "sentence_count": 3,
+    "word_count": 12,
+    "content_sha256": "1df480b38ac833a3808c3d20869335e13f67e138b227c0046ddc50f5f91d5584",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["A","O","P","a","c","d","e","g","h","j","l","m","n","o","p","r","s","t","u","z","č"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":4,"span":"Olga","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":20,"end":21,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Adam","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":19,"end":20,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-08-S01","sentence_index":0,"text":"Olga čte pod stromem."},
+      {"id":"L-sb-08-S02","sentence_index":1,"text":"Adam hraje na louce."},
+      {"id":"L-sb-08-S03","sentence_index":2,"text":"Pes leze pod plot."}
+    ]
+  },
+  {
+    "id": "L-sb-09",
+    "title": "Letadlo",
+    "recommended_grade": 1,
+    "sentences": ["Nad lesem jede letadlo.","Roman čte.","Nela sedne na kolo."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Nad",".","Roman","Nela"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Nad lesem jede letadlo. Roman čte. Nela sedne na kolo.",
+    "sentence_count": 3,
+    "word_count": 10,
+    "content_sha256": "0da3be59e37a4362637653dc9c8d68868b04bd1b8958c71b813e4867180e330f",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["N","R","a","d","e","j","k","l","m","n","o","s","t","č"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Nad","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":22,"end":23,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":5,"span":"Roman","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":9,"end":10,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":4,"span":"Nela","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-09-S01","sentence_index":0,"text":"Nad lesem jede letadlo."},
+      {"id":"L-sb-09-S02","sentence_index":1,"text":"Roman čte."},
+      {"id":"L-sb-09-S03","sentence_index":2,"text":"Nela sedne na kolo."}
+    ]
+  },
+  {
+    "id": "L-sb-10",
+    "title": "Ovce a husa",
+    "recommended_grade": 1,
+    "sentences": ["Ovce bleje na louce.","Husa plave v jezeru.","Dana peče maso.","Ota kope."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Ovce",".","Husa","Dana"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Ovce bleje na louce. Husa plave v jezeru. Dana peče maso. Ota kope.",
+    "sentence_count": 4,
+    "word_count": 13,
+    "content_sha256": "c028f5e1c511067155c1a7d9864350cb29a6566ca114a6d222838726d6336987",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["D","H","O","a","b","c","e","j","k","l","m","n","o","p","r","s","t","u","v","z","č"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":4,"span":"Ovce","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":19,"end":20,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Husa","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":19,"end":20,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":4,"span":"Dana","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":3,"span":"Ota","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":8,"end":9,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-10-S01","sentence_index":0,"text":"Ovce bleje na louce."},
+      {"id":"L-sb-10-S02","sentence_index":1,"text":"Husa plave v jezeru."},
+      {"id":"L-sb-10-S03","sentence_index":2,"text":"Dana peče maso."},
+      {"id":"L-sb-10-S04","sentence_index":3,"text":"Ota kope."}
+    ]
+  },
+  {
+    "id": "L-sb-11",
+    "title": "Zahrada",
+    "recommended_grade": 1,
+    "sentences": ["Anna nese lopatu.","Jan kope zahradu.","Pes hrabe pod plotem.","Eva sedne na lavku."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Anna",".","Jan","Pes"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Anna nese lopatu. Jan kope zahradu. Pes hrabe pod plotem. Eva sedne na lavku.",
+    "sentence_count": 4,
+    "word_count": 14,
+    "content_sha256": "b4b8bbf937ff77a3cfeb85ec1f3128371928010f0b49c3844b1b31c0bb643226",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["A","E","J","P","a","b","d","e","h","k","l","m","n","o","p","r","s","t","u","v","z"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":4,"span":"Anna","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Jan","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":20,"end":21,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":3,"span":"Eva","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-11-S01","sentence_index":0,"text":"Anna nese lopatu."},
+      {"id":"L-sb-11-S02","sentence_index":1,"text":"Jan kope zahradu."},
+      {"id":"L-sb-11-S03","sentence_index":2,"text":"Pes hrabe pod plotem."},
+      {"id":"L-sb-11-S04","sentence_index":3,"text":"Eva sedne na lavku."}
+    ]
+  },
+  {
+    "id": "L-sb-12",
+    "title": "Kolo",
+    "recommended_grade": 1,
+    "sentences": ["Petr jede na kole.","Ota jede za Petrem.","Ema jede s Annou."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Petr",".","Ota","Ema"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Petr jede na kole. Ota jede za Petrem. Ema jede s Annou.",
+    "sentence_count": 3,
+    "word_count": 12,
+    "content_sha256": "b4c3df18b03e283420ba5b68cdfce3b319aac7889cc75ba10dfc131a80749b21",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["A","E","O","P","a","d","e","j","k","l","m","n","o","r","s","t","u","z"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":4,"span":"Petr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Ota","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Ema","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-12-S01","sentence_index":0,"text":"Petr jede na kole."},
+      {"id":"L-sb-12-S02","sentence_index":1,"text":"Ota jede za Petrem."},
+      {"id":"L-sb-12-S03","sentence_index":2,"text":"Ema jede s Annou."}
+    ]
+  },
+  {
+    "id": "L-sb-13",
+    "title": "Rak a kapr",
+    "recommended_grade": 1,
+    "sentences": ["Rak leze pod most.","Kapr plave pod mostem.","Jan řeže strom.","Dana čte u potoka."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Rak",".","Kapr","Jan"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Rak leze pod most. Kapr plave pod mostem. Jan řeže strom. Dana čte u potoka.",
+    "sentence_count": 4,
+    "word_count": 15,
+    "content_sha256": "96c88138be318dd551f2ce9b3eaf1cdfc38484d0395d111db219c515b19618f0",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["D","J","K","R","a","d","e","k","l","m","n","o","p","r","s","t","u","v","z","č","ř","ž"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Rak","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Kapr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":21,"end":22,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Jan","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":4,"span":"Dana","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-13-S01","sentence_index":0,"text":"Rak leze pod most."},
+      {"id":"L-sb-13-S02","sentence_index":1,"text":"Kapr plave pod mostem."},
+      {"id":"L-sb-13-S03","sentence_index":2,"text":"Jan řeže strom."},
+      {"id":"L-sb-13-S04","sentence_index":3,"text":"Dana čte u potoka."}
+    ]
+  },
+  {
+    "id": "L-sb-14",
+    "title": "Kotel",
+    "recommended_grade": 1,
+    "sentences": ["Marek nese kotel.","Olga tluče na kotel.","Pes sedne u kotle.","Alena hřeje vodu."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Marek",".","Olga","Pes"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Marek nese kotel. Olga tluče na kotel. Pes sedne u kotle. Alena hřeje vodu.",
+    "sentence_count": 4,
+    "word_count": 14,
+    "content_sha256": "9d27712bc9430cdc4bc5d15f46911ed9f943bff314a2f682a7466bf29ee5d4b8",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["A","M","O","P","a","d","e","g","h","j","k","l","n","o","r","s","t","u","v","č","ř"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":5,"span":"Marek","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Olga","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":19,"end":20,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":5,"span":"Alena","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-14-S01","sentence_index":0,"text":"Marek nese kotel."},
+      {"id":"L-sb-14-S02","sentence_index":1,"text":"Olga tluče na kotel."},
+      {"id":"L-sb-14-S03","sentence_index":2,"text":"Pes sedne u kotle."},
+      {"id":"L-sb-14-S04","sentence_index":3,"text":"Alena hřeje vodu."}
+    ]
+  },
+  {
+    "id": "L-sb-15",
+    "title": "Jaro",
+    "recommended_grade": 1,
+    "sentences": ["Je jaro.","Nad polem je sova.","Petr veze seno.","Kohout je na plotu."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Je",".","Nad","Petr"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Je jaro. Nad polem je sova. Petr veze seno. Kohout je na plotu.",
+    "sentence_count": 4,
+    "word_count": 13,
+    "content_sha256": "17507eee0989949c994829cc2864b88dbeda75a13d5dbcf2bd8bc67524bf878a",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["J","K","N","P","a","d","e","h","j","l","m","n","o","p","r","s","t","u","v","z"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":2,"span":"Je","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":7,"end":8,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Nad","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":4,"span":"Petr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":6,"span":"Kohout","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-15-S01","sentence_index":0,"text":"Je jaro."},
+      {"id":"L-sb-15-S02","sentence_index":1,"text":"Nad polem je sova."},
+      {"id":"L-sb-15-S03","sentence_index":2,"text":"Petr veze seno."},
+      {"id":"L-sb-15-S04","sentence_index":3,"text":"Kohout je na plotu."}
+    ]
+  },
+  {
+    "id": "L-sb-16",
+    "title": "Škola",
+    "recommended_grade": 1,
+    "sentences": ["Marek jede ke škole.","Ota nese tašku.","Pavel bere pero.","Eva otevře okno."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Marek",".","Ota","Pavel"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Marek jede ke škole. Ota nese tašku. Pavel bere pero. Eva otevře okno.",
+    "sentence_count": 4,
+    "word_count": 13,
+    "content_sha256": "dff32448d9930d427d9df4561f48d5e56704becf718d15e1c142f292b600b65e",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["E","M","O","P","a","b","d","e","j","k","l","n","o","p","r","s","t","u","v","ř","š"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":5,"span":"Marek","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":19,"end":20,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Ota","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":5,"span":"Pavel","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":15,"end":16,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":3,"span":"Eva","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":15,"end":16,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-16-S01","sentence_index":0,"text":"Marek jede ke škole."},
+      {"id":"L-sb-16-S02","sentence_index":1,"text":"Ota nese tašku."},
+      {"id":"L-sb-16-S03","sentence_index":2,"text":"Pavel bere pero."},
+      {"id":"L-sb-16-S04","sentence_index":3,"text":"Eva otevře okno."}
+    ]
+  },
+  {
+    "id": "L-sb-17",
+    "title": "Motor",
+    "recommended_grade": 1,
+    "sentences": ["Motor je v autu.","Ota čte.","Dana hřeje čaj."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Motor",".","Ota","Dana"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Motor je v autu. Ota čte. Dana hřeje čaj.",
+    "sentence_count": 3,
+    "word_count": 9,
+    "content_sha256": "f05ca6cee37b1f81e9f8ea76d9eb6a0a193832e15220f17ba73331f5cf9256da",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["D","M","O","a","e","h","j","n","o","r","t","u","v","č","ř"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":5,"span":"Motor","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":15,"end":16,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Ota","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":7,"end":8,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":4,"span":"Dana","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-17-S01","sentence_index":0,"text":"Motor je v autu."},
+      {"id":"L-sb-17-S02","sentence_index":1,"text":"Ota čte."},
+      {"id":"L-sb-17-S03","sentence_index":2,"text":"Dana hřeje čaj."}
+    ]
+  },
+  {
+    "id": "L-sb-18",
+    "title": "Čaj a cukr",
+    "recommended_grade": 1,
+    "sentences": ["Ema nese čaj.","Olga nese cukr.","Jan bere hrnek.","Ota hřeje vodu."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Ema",".","Olga","Jan"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Ema nese čaj. Olga nese cukr. Jan bere hrnek. Ota hřeje vodu.",
+    "sentence_count": 4,
+    "word_count": 12,
+    "content_sha256": "71b038e9667d1a505f15008aa455a70454febd210fe281b3589f14768e6927e1",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["E","J","O","a","b","c","d","e","g","h","j","k","l","m","n","o","r","s","t","u","v","č","ř"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Ema","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":12,"end":13,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Olga","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Jan","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":3,"span":"Ota","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-18-S01","sentence_index":0,"text":"Ema nese čaj."},
+      {"id":"L-sb-18-S02","sentence_index":1,"text":"Olga nese cukr."},
+      {"id":"L-sb-18-S03","sentence_index":2,"text":"Jan bere hrnek."},
+      {"id":"L-sb-18-S04","sentence_index":3,"text":"Ota hřeje vodu."}
+    ]
+  },
+  {
+    "id": "L-sb-19",
+    "title": "Maso",
+    "recommended_grade": 1,
+    "sentences": ["Pes bere maso.","Kočka sedne u okna.","Petr krade vejce.","Anna zebe."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Pes",".","Kočka","Petr"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Pes bere maso. Kočka sedne u okna. Petr krade vejce. Anna zebe.",
+    "sentence_count": 4,
+    "word_count": 12,
+    "content_sha256": "3647754e8bc1f0dc14658d4b1e3859555cd2a33b3499c953d72febf3ed2f909e",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["A","K","P","a","b","c","d","e","j","k","m","n","o","r","s","t","u","v","z","č"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":13,"end":14,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":5,"span":"Kočka","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":4,"span":"Petr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":4,"span":"Anna","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":9,"end":10,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-19-S01","sentence_index":0,"text":"Pes bere maso."},
+      {"id":"L-sb-19-S02","sentence_index":1,"text":"Kočka sedne u okna."},
+      {"id":"L-sb-19-S03","sentence_index":2,"text":"Petr krade vejce."},
+      {"id":"L-sb-19-S04","sentence_index":3,"text":"Anna zebe."}
+    ]
+  },
+  {
+    "id": "L-sb-20",
+    "title": "Za lesem",
+    "recommended_grade": 1,
+    "sentences": ["Za lesem je pole.","Kos sedne na kolo.","Karel kope.","Lenka hraje."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Za",".","Kos","Karel"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Za lesem je pole. Kos sedne na kolo. Karel kope. Lenka hraje.",
+    "sentence_count": 4,
+    "word_count": 12,
+    "content_sha256": "755f2f3736c2acbacbc662f91f90264a9497597cf7fe1199d8e815f6cfd5a0bc",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["K","L","Z","a","d","e","h","j","k","l","m","n","o","p","r","s"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":2,"span":"Za","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Kos","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":5,"span":"Karel","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":10,"end":11,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":5,"span":"Lenka","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":11,"end":12,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-20-S01","sentence_index":0,"text":"Za lesem je pole."},
+      {"id":"L-sb-20-S02","sentence_index":1,"text":"Kos sedne na kolo."},
+      {"id":"L-sb-20-S03","sentence_index":2,"text":"Karel kope."},
+      {"id":"L-sb-20-S04","sentence_index":3,"text":"Lenka hraje."}
+    ]
+  },
+  {
+    "id": "L-sb-21",
+    "title": "Jezero",
+    "recommended_grade": 1,
+    "sentences": ["Jan plave v jezeru.","Lara hřeje vodu.","Roman sedne na kolo."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Jan",".","Lara","Roman"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Jan plave v jezeru. Lara hřeje vodu. Roman sedne na kolo.",
+    "sentence_count": 3,
+    "word_count": 11,
+    "content_sha256": "9625771c9e35bad34f2c0c1bda454026a39b40a59c6853fff3be472b3ef8b9f0",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["J","L","R","a","d","e","h","j","k","l","m","n","o","p","r","s","u","v","z","ř"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Jan","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Lara","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":15,"end":16,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":5,"span":"Roman","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":19,"end":20,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-21-S01","sentence_index":0,"text":"Jan plave v jezeru."},
+      {"id":"L-sb-21-S02","sentence_index":1,"text":"Lara hřeje vodu."},
+      {"id":"L-sb-21-S03","sentence_index":2,"text":"Roman sedne na kolo."}
+    ]
+  },
+  {
+    "id": "L-sb-22",
+    "title": "U okna",
+    "recommended_grade": 1,
+    "sentences": ["Ema je u okna.","Ota je u lesa.","Petr je u potoka."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Ema",".","Ota","Petr"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Ema je u okna. Ota je u lesa. Petr je u potoka.",
+    "sentence_count": 3,
+    "word_count": 12,
+    "content_sha256": "e40dcafac964462a132310277cc37158346eee6a86e9d1223d1135fe5fcffecf",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["E","O","P","a","e","j","k","l","m","n","o","p","r","s","t","u"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Ema","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":13,"end":14,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Ota","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":13,"end":14,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":4,"span":"Petr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-22-S01","sentence_index":0,"text":"Ema je u okna."},
+      {"id":"L-sb-22-S02","sentence_index":1,"text":"Ota je u lesa."},
+      {"id":"L-sb-22-S03","sentence_index":2,"text":"Petr je u potoka."}
+    ]
+  },
+  {
+    "id": "L-sb-23",
+    "title": "Hra",
+    "recommended_grade": 1,
+    "sentences": ["Ema hraje s Annou.","Petr hraje s Karlem.","Ota hraje s Olgou."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Ema",".","Petr","Ota"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Ema hraje s Annou. Petr hraje s Karlem. Ota hraje s Olgou.",
+    "sentence_count": 3,
+    "word_count": 12,
+    "content_sha256": "7b3be5ccb72b87497e874c58d8ed9f6ac13cefe7af77575765106b810e05e060",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["A","E","K","O","P","a","e","g","h","j","l","m","n","o","r","s","t","u"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Ema","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Petr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":19,"end":20,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Ota","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-23-S01","sentence_index":0,"text":"Ema hraje s Annou."},
+      {"id":"L-sb-23-S02","sentence_index":1,"text":"Petr hraje s Karlem."},
+      {"id":"L-sb-23-S03","sentence_index":2,"text":"Ota hraje s Olgou."}
+    ]
+  },
+  {
+    "id": "L-sb-24",
+    "title": "V sadu",
+    "recommended_grade": 1,
+    "sentences": ["V sadu roste strom.","Pod stromem sedne Eva.","Kos hrabe pod stromem."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["V",".","Pod","Kos"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "V sadu roste strom. Pod stromem sedne Eva. Kos hrabe pod stromem.",
+    "sentence_count": 3,
+    "word_count": 12,
+    "content_sha256": "3092ceab32287547fc68c618b7535d509d7fa2e422e4e582ff206d68ef4473fa",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["E","K","P","V","a","b","d","e","h","m","n","o","p","r","s","t","u","v"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":1,"span":"V","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Pod","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":21,"end":22,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Kos","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":21,"end":22,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-24-S01","sentence_index":0,"text":"V sadu roste strom."},
+      {"id":"L-sb-24-S02","sentence_index":1,"text":"Pod stromem sedne Eva."},
+      {"id":"L-sb-24-S03","sentence_index":2,"text":"Kos hrabe pod stromem."}
+    ]
+  },
+  {
+    "id": "L-sb-25",
+    "title": "Kapusta",
+    "recommended_grade": 1,
+    "sentences": ["Marta nese kapustu.","Dana mele zrno.","Pes krade maso."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Marta",".","Dana","Pes"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Marta nese kapustu. Dana mele zrno. Pes krade maso.",
+    "sentence_count": 3,
+    "word_count": 9,
+    "content_sha256": "c190f83547f589a3081629956de32ace0590fcdf0d6cb9fb63e2ce4de1afcdba",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["D","M","P","a","d","e","k","l","m","n","o","p","r","s","t","u","z"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":5,"span":"Marta","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Dana","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":14,"end":15,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-25-S01","sentence_index":0,"text":"Marta nese kapustu."},
+      {"id":"L-sb-25-S02","sentence_index":1,"text":"Dana mele zrno."},
+      {"id":"L-sb-25-S03","sentence_index":2,"text":"Pes krade maso."}
+    ]
+  },
+  {
+    "id": "L-sb-26",
+    "title": "Kachna",
+    "recommended_grade": 1,
+    "sentences": ["Kachna plave v jezeru.","Husa plave za kachnou.","Pes sedne u jezera."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Kachna",".","Husa","Pes"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Kachna plave v jezeru. Husa plave za kachnou. Pes sedne u jezera.",
+    "sentence_count": 3,
+    "word_count": 12,
+    "content_sha256": "ec7cbfb71c8a0d06cef448bb32bd8f5455eb1b6d9bf2946c0d8451fa3ffbb8c5",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["H","K","P","a","ch","d","e","j","k","l","n","o","p","r","s","u","v","z"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":6,"span":"Kachna","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":21,"end":22,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Husa","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":21,"end":22,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-26-S01","sentence_index":0,"text":"Kachna plave v jezeru."},
+      {"id":"L-sb-26-S02","sentence_index":1,"text":"Husa plave za kachnou."},
+      {"id":"L-sb-26-S03","sentence_index":2,"text":"Pes sedne u jezera."}
+    ]
+  },
+  {
+    "id": "L-sb-27",
+    "title": "Kost",
+    "recommended_grade": 1,
+    "sentences": ["Pes nese kost.","Alan hrabe kost.","Straka nese kost."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Pes",".","Alan","Straka"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Pes nese kost. Alan hrabe kost. Straka nese kost.",
+    "sentence_count": 3,
+    "word_count": 9,
+    "content_sha256": "e6b4cb0228f4f9cc3a0fddf2198dc10595f98196f514331c594f6eaa83d0c026",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["A","P","S","a","b","e","h","k","l","n","o","r","s","t"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":13,"end":14,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":4,"span":"Alan","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":15,"end":16,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":6,"span":"Straka","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-27-S01","sentence_index":0,"text":"Pes nese kost."},
+      {"id":"L-sb-27-S02","sentence_index":1,"text":"Alan hrabe kost."},
+      {"id":"L-sb-27-S03","sentence_index":2,"text":"Straka nese kost."}
+    ]
+  },
+  {
+    "id": "L-sb-28",
+    "title": "Lampa",
+    "recommended_grade": 1,
+    "sentences": ["Lampa je u okna.","Ota hřeje čaj.","Petr čte."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Lampa",".","Ota","Petr"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Lampa je u okna. Ota hřeje čaj. Petr čte.",
+    "sentence_count": 3,
+    "word_count": 9,
+    "content_sha256": "dc8f3a269d508ce2dbea76d1e61d0f6cacd846d3f2a17c7229cfbc7866bcf502",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["L","O","P","a","e","h","j","k","m","n","o","p","r","t","u","č","ř"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":5,"span":"Lampa","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":15,"end":16,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Ota","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":13,"end":14,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":4,"span":"Petr","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":8,"end":9,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-28-S01","sentence_index":0,"text":"Lampa je u okna."},
+      {"id":"L-sb-28-S02","sentence_index":1,"text":"Ota hřeje čaj."},
+      {"id":"L-sb-28-S03","sentence_index":2,"text":"Petr čte."}
+    ]
+  },
+  {
+    "id": "L-sb-29",
+    "title": "Zebe",
+    "recommended_grade": 1,
+    "sentences": ["Pes zebe.","Kočka zebe.","Ema hřeje psa.","Ota hřeje kočku."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Pes",".","Kočka","Ema"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Pes zebe. Kočka zebe. Ema hřeje psa. Ota hřeje kočku.",
+    "sentence_count": 4,
+    "word_count": 10,
+    "content_sha256": "083c1d089ad0120e4c01b2188db48d212b66a7224525d71e712cc135521db471",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["E","K","O","P","a","b","e","h","j","k","m","o","p","s","t","u","z","č","ř"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":8,"end":9,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":5,"span":"Kočka","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":10,"end":11,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":3,"span":"Ema","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":13,"end":14,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":3,"span":"Ota","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":15,"end":16,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-29-S01","sentence_index":0,"text":"Pes zebe."},
+      {"id":"L-sb-29-S02","sentence_index":1,"text":"Kočka zebe."},
+      {"id":"L-sb-29-S03","sentence_index":2,"text":"Ema hřeje psa."},
+      {"id":"L-sb-29-S04","sentence_index":3,"text":"Ota hřeje kočku."}
+    ]
+  },
+  {
+    "id": "L-sb-30",
+    "title": "Osm kachen",
+    "recommended_grade": 1,
+    "sentences": ["Je osm kachen.","Pes vede kachnu.","Tereza peče vejce.","Adam kope."],
+    "target_features": [
+      {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Je",".","Pes","Tereza"]}
+    ],
+    "incidental_features": [
+
+    ],
+    "required_known_forms": [],
+    "support": [],
+    "learner_profile_note": "Cílový jev: Hranice vět: velké písmeno na začátku a tečka na konci. Text vyžaduje potvrzené: Hranice vět: velké písmeno na začátku a tečka na konci. Slova musí dítě významově znát.",
+    "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
+    "version": 1,
+    "text": "Je osm kachen. Pes vede kachnu. Tereza peče vejce. Adam kope.",
+    "sentence_count": 4,
+    "word_count": 11,
+    "content_sha256": "c829322e27bb64296f91182a9d8dc83871e48b952c9c22cd9b0e078facd0d7a7",
+    "origin": "assistant_generated_lint_checked",
+    "review_status": "sample",
+    "teacher_approved": false,
+    "annotation_completeness": "partial",
+    "audio_review_status": "not_generated",
+    "recommended_mode": "strict_after_profile_confirmation",
+    "grade_is_advisory": true,
+    "known_graphemes_required": ["A","J","P","T","a","c","ch","d","e","j","k","m","n","o","p","r","s","u","v","z","č"],
+    "curriculum_sources": [],
+    "annotations": [
+      {"sentence_index":0,"start":0,"end":2,"span":"Je","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":0,"start":13,"end":14,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":0,"end":3,"span":"Pes","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":1,"start":15,"end":16,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":0,"end":6,"span":"Tereza","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":2,"start":17,"end":18,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":0,"end":4,"span":"Adam","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":9,"end":10,"span":".","feature_id":"orth.sentence_boundaries","role":"target","review_status":"editorial_proposal"}
+    ],
+    "tts_segments": [
+      {"id":"L-sb-30-S01","sentence_index":0,"text":"Je osm kachen."},
+      {"id":"L-sb-30-S02","sentence_index":1,"text":"Pes vede kachnu."},
+      {"id":"L-sb-30-S03","sentence_index":2,"text":"Tereza peče vejce."},
+      {"id":"L-sb-30-S04","sentence_index":3,"text":"Adam kope."}
+    ]
+  }
+  ]
+}

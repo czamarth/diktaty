@@ -1,0 +1,169 @@
+feature: orth.palatal_groups_basic
+code: pg
+---
+# Děda na zahradě
+Děda je na zahradě.
+Dědeček veze vědro.
+Dívka hledá štěně.
+
+# Štěně
+Štěně je malé.
+Štěně běží na louku.
+Dívka nese štěně.
+Pekař se směje.
+
+# Sněhulák
+Venku je sníh.
+Děti dělají sněhuláka.
+Sněhulák má velký nos.
+Petr jede domů.
+
+# Divadlo
+Ve městě je divadlo.
+Děti jdou do divadla.
+Kuchař čeká u divadla.
+
+# Věž
+Ve městě stojí věž.
+Věž je tichá.
+Soused jde k věži.
+
+# Snídaně
+Snídaně je na stole.
+Děti jdou k stolu.
+Dědeček nese mléko.
+Dítě hledá koláč.
+
+# Pět koz
+Je pět koz.
+Děda vede koně.
+Pastýř vede kozu.
+Louka je velká.
+
+# Věta
+Olga čte větu.
+Věta je krátká.
+Učitel čte větu.
+Eva zná větu.
+
+# Dědeček a vnuk
+Dědeček má vnuka.
+Vnuk má štěně.
+Vnuk se směje.
+Vnuk běží k lesu.
+
+# Těžké tělo
+Tělo je těžké.
+Dívka nese těžké vědro.
+Rolník čeká na louce.
+
+# Větrák
+Větrák je v pokoji.
+Větrák je tichý.
+Soused zapne větrák.
+
+# Město
+Město je velké.
+Ve městě je věž.
+Děti běží městem.
+Karel jde do města.
+
+# Měď
+Měď je těžká.
+Měď je měkká.
+Tesař hledá měď.
+Měď leží na stole.
+
+# Pěna
+Pěna je lehká.
+Pěna je na vodě.
+Hana se směje.
+
+# Pěšky
+Pekař jde pěšky.
+Lenka jde pěšky.
+Děti jdou pěšky.
+Marek jede na kole.
+
+# Běžec
+Běžec běží lesem.
+Běžec nese vodu.
+Rodiče čekají na běžce.
+
+# Tisk
+Radek nese tisk.
+Tisk je těžký.
+Tisk je na stole.
+
+# Ticho
+Venku je ticho.
+Dívka je tichá.
+Dítě je tiché.
+Pán čte.
+
+# Nitka
+Nitka je tenká.
+Alena má nitku.
+Pekař má nit.
+Nitka je u okna.
+
+# Tereza
+Tereza nese vědro.
+Tereza běží k věži.
+Kuchař čeká u věže.
+Adam se směje.
+
+# Vojta a štěně
+Vojta má štěně.
+Štěně je tiché.
+Vojta jde s Tomášem.
+
+# Měkký koláč
+Koláč je měkký.
+Dívka krájí koláč.
+Děda nese koláč domů.
+
+# Dvě děti
+Dvě děti běží domů.
+Dvě dívky nesou vědro.
+Děda zná město.
+
+# Pětka
+Dívka má pětku.
+Petr má pětku.
+Soused se směje.
+Dnes je pátek.
+
+# Věc
+Věc je těžká.
+Jan nese věc.
+Děda hledá věc.
+Věc leží u okna.
+
+# Dědeček v lese
+Dědeček jde do lesa.
+Děda hledá dřevo.
+Dítě běží za dědou.
+
+# Běh
+Dnes je běh.
+Děti běží lesem.
+Marek jede rychle.
+Les je tichý.
+
+# Nikdo
+Nikdo nezná větu.
+Nikdo nenese vědro.
+Dívka se směje.
+Pole je mokré.
+
+# Těsto
+Máma dělá těsto.
+Těsto je měkké.
+Dívka má těsto.
+Těsto je na stole.
+
+# Dětský pokoj
+Dětský pokoj je tichý.
+Dítě je v pokoji.
+Dědeček čte dětem.

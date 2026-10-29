@@ -1,0 +1,9 @@
+// Ověřená slova bez skrytých jevů pro 2. ročník (výstup scripts/library/words.mjs 2 --lines). Pomůcka pro psaní, není to učivo.
+jde jede běží skáče plave létá sedí chodí roste kvete voní zvoní prší sněží fouká hřeje čeká volá kopá hledá hladí honí tlačí drží mačká krájí peče vaří hrabe seká orá seje šije maluje stříhá nese veze táhne vleče vede bere dává ukazuje mává kývá směje křičí dýchá šeptá ptá poslouchá pomáhá zametá věší pere šplhá padá klouže stoupá klesá hoří bublá teče kape hučí křupe praská bouchá cinká tiká ťuká klepe zvoní dudá štěká mňouká kváká kokrhá bučí řehtá hýká bzučí
+kluk holka chlapec dívka pán děda dědeček strýc teta sestřenice bratranec soused sousedka učitelka řidič lékař kuchař pekař řezník kovář tesař rolník pastýř farmář zahradník rybář
+kachna husa kohout ovce koza kráva tele prase kůň hříbě osel pes kočka křeček papoušek vrabec kos holub čáp jestřáb sova datel straka vrána kukačka zajíc srnka jelen vlk medvěd veverka ježek kuna tchoř krtek žába ropucha užovka ještěrka pavouk mrava moucha komár včela čmelák brouk šváb
+strom dub buk jasan smrk jedle bříza javor vrba olše keř tráva kopřiva růže slunečnice mák chrpa ječmen žito pšenice kukuřice len
+dům chata chalupa stodola kůlna garáž stáj chlév kurník bouda plot brána branka dvůr zahrada sad pole louka les potok rybník jezero řeka moře ostrov hora kopec skála jeskyně cesta stezka most tunel náves
+kuchyně pokoj ložnice chodba schodiště okno dveře zeď strop podlaha střecha kamna krb gauč židle stůl skříň lůžko peřina polštář záclona koberec lampa zrcadlo obraz váza
+tužka pero guma sešit kniha taška tabule křída mapa globus třída chodba šatna hřiště
+

@@ -1,0 +1,166 @@
+feature: orth.u_long_basic
+code: ul
+---
+# Úl na zahradě
+Na zahradě je úl.
+Včela bzučí kolem úlu.
+Dědeček jde domů.
+
+# Dům u lesa
+Dům je u lesa.
+Dvůr je tichý.
+Na dvoře hrabe kohout.
+Hůl je u dveří.
+
+# Kůň na louce
+Na louce se pase kůň.
+Kůň má dlouhý ocas.
+Dana vede koně domů.
+
+# Růže za plotem
+Za plotem kvete růže.
+Hana nese růži.
+Dana hledá nůžky.
+
+# Úkol ze školy
+Ota čte úkol.
+Úkol je těžký.
+Tvůj úkol je lehký.
+
+# Únor na dvoře
+V únoru je velký mráz.
+Na dvoře leží sníh.
+Kůň je ve stáji.
+Dům je tichý.
+
+# Cesta k úřadu
+Cesta vede k úřadu.
+Úřad je velký.
+Před úřadem čeká vůz.
+
+# Úzká cesta
+Úzká cesta vede k lesu.
+Za lesem je starý hrad.
+Kůň táhne vůz.
+
+# Půda v domě
+Na půdě je stará hůl.
+Dědeček hledá nůž.
+Pavel nese lampu dolů.
+
+# Tvůj stůl
+Tvůj stůl je u okna.
+Můj stůl je nízký.
+Na stole leží tužka.
+
+# Vůně z kuchyně
+Z kuchyně jde vůně.
+Máma krájí koláč.
+Táta nese domů mléko.
+Na stole je můj džbán.
+
+# Úterý ve škole
+V úterý je Hana ve škole.
+Úkol má v tašce.
+Učitel čte u tabule úkol.
+
+# Kůže na stole
+Na stole leží kůže.
+Dana nese kůži domů.
+Kůže je hladká.
+
+# Dědův úsměv
+Děda má úsměv.
+Úsměv je hezký.
+Děda hladí koně.
+Kůň kývá hlavou.
+
+# Hůl a klobouk
+Dědeček má hůl.
+Klobouk leží na truhle.
+Hůl stojí u stolu.
+Stůl je starý.
+
+# Úroda na zahradě
+Na zahradě roste úroda.
+Úroda je velká.
+Táta veze úrodu na dvůr.
+
+# Zůstane doma
+Hana zůstane doma.
+Tvůj pes zůstane na louce.
+Můj dům je velký.
+
+# Úkryt v lese
+V lese je úkryt.
+Úkryt je tichý.
+Dana nese k úkrytu dřevo.
+
+# Kůl u plotu
+U plotu je kůl.
+Na kůlu sedí vrabec.
+Jan hledá nůž.
+
+# Úplněk nad lesem
+Nad lesem je úplněk.
+Úplněk je velký.
+V noci štěká pes.
+Kůň čeká u plotu.
+
+# Půl dne
+Půl dne prší.
+Dům je mokrý.
+Dana běží domů.
+Pes čeká u dveří.
+
+# Vůz na cestě
+Vůz jede po cestě.
+Za vozem běží pes.
+Jan jde na dvůr.
+Půda je suchá.
+
+# Dub na dvoře
+Dub roste na dvoře.
+Kůra je hrubá.
+Strom má velkou kůru.
+Pod stromem leží kůl.
+
+# Zvon na věži
+Zvon zvoní na věži.
+Úder zní nad dvorem.
+Kůň ržá ve stáji.
+Jan nese domů vědro.
+
+# Zlatá růže
+Zlatá růže voní na stole.
+Dana má růži ráda.
+Kůň jí trávu.
+
+# Dvůr za domem
+Za domem je dvůr.
+Na dvoře čeká vůz.
+Kočka leží na půdě.
+
+# Úspěch v soutěži
+Ota má úspěch.
+Úspěch je velký.
+Táta kývá hlavou.
+Hana nese domů dort.
+
+# Úzká stezka
+Z hory jde úzká cesta.
+Dole leží vesnice.
+Na cestě jede vůz.
+Můj dům je daleko.
+
+# Sůl a cukr
+Sůl a cukr jsou na stole.
+Máma nese koláč.
+Jan hledá nůžky.
+Na stole je můj hrnek.
+
+# Úhel tabule
+Tabule stojí vedle okna.
+Učitel stojí u tabule.
+Úhel je ostrý.
+Můj úkol je lehký.

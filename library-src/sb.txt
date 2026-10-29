@@ -1,0 +1,165 @@
+feature: orth.sentence_boundaries
+code: sb
+---
+# Ema a Ota
+Ema nese kolo.
+Ota hrabe seno.
+Petr vede psa.
+Eva čte.
+
+# Na louce
+Na louce pase koza.
+Pes sedne na seno.
+Ema hřeje čaj.
+
+# U lesa
+U lesa jede traktor.
+Petr nese lano.
+Karel kope pole.
+
+# Pes Alan
+Pes Alan leze pod plot.
+Alan bere kost.
+Pes sedne u okna.
+Anna mele ječmen.
+
+# Kos a sova
+Kos sedne na strom.
+Sova je v lese.
+Straka krade kost.
+
+# Traktor
+Traktor jede po louce.
+Petr sekne do stromu.
+Marek kope pod stromem.
+
+# U potoka
+U potoka leze rak.
+Kapr plave v jezeru.
+Ema tluče vejce.
+
+# Olga a Adam
+Olga čte pod stromem.
+Adam hraje na louce.
+Pes leze pod plot.
+
+# Letadlo
+Nad lesem jede letadlo.
+Roman čte.
+Nela sedne na kolo.
+
+# Ovce a husa
+Ovce bleje na louce.
+Husa plave v jezeru.
+Dana peče maso.
+Ota kope.
+
+# Zahrada
+Anna nese lopatu.
+Jan kope zahradu.
+Pes hrabe pod plotem.
+Eva sedne na lavku.
+
+# Kolo
+Petr jede na kole.
+Ota jede za Petrem.
+Ema jede s Annou.
+
+# Rak a kapr
+Rak leze pod most.
+Kapr plave pod mostem.
+Jan řeže strom.
+Dana čte u potoka.
+
+# Kotel
+Marek nese kotel.
+Olga tluče na kotel.
+Pes sedne u kotle.
+Alena hřeje vodu.
+
+# Jaro
+Je jaro.
+Nad polem je sova.
+Petr veze seno.
+Kohout je na plotu.
+
+# Škola
+Marek jede ke škole.
+Ota nese tašku.
+Pavel bere pero.
+Eva otevře okno.
+
+# Motor
+Motor je v autu.
+Ota čte.
+Dana hřeje čaj.
+
+# Čaj a cukr
+Ema nese čaj.
+Olga nese cukr.
+Jan bere hrnek.
+Ota hřeje vodu.
+
+# Maso
+Pes bere maso.
+Kočka sedne u okna.
+Petr krade vejce.
+Anna zebe.
+
+# Za lesem
+Za lesem je pole.
+Kos sedne na kolo.
+Karel kope.
+Lenka hraje.
+
+# Jezero
+Jan plave v jezeru.
+Lara hřeje vodu.
+Roman sedne na kolo.
+
+# U okna
+Ema je u okna.
+Ota je u lesa.
+Petr je u potoka.
+
+# Hra
+Ema hraje s Annou.
+Petr hraje s Karlem.
+Ota hraje s Olgou.
+
+# V sadu
+V sadu roste strom.
+Pod stromem sedne Eva.
+Kos hrabe pod stromem.
+
+# Kapusta
+Marta nese kapustu.
+Dana mele zrno.
+Pes krade maso.
+
+# Kachna
+Kachna plave v jezeru.
+Husa plave za kachnou.
+Pes sedne u jezera.
+
+# Kost
+Pes nese kost.
+Alan hrabe kost.
+Straka nese kost.
+
+# Lampa
+Lampa je u okna.
+Ota hřeje čaj.
+Petr čte.
+
+# Zebe
+Pes zebe.
+Kočka zebe.
+Ema hřeje psa.
+Ota hřeje kočku.
+
+# Osm kachen
+Je osm kachen.
+Pes vede kachnu.
+Tereza peče vejce.
+Adam kope.

@@ -1,0 +1,175 @@
+feature: orth.soft_consonants_basic
+code: sc
+---
+# Vaření
+Máma vaří polévku.
+Táta krájí maso.
+Kuchař vaří rýži.
+Děti čekají u stolu.
+
+# Cirkus
+V cirkuse tančí žirafa.
+Chlapec křičí u cirkusu.
+Kluci tleskají.
+
+# Řidič
+Řidič jede na nádraží.
+Autobus stojí u lesa.
+Řidič kývá hlavou.
+Chodci čekají u plotu.
+
+# Sníh
+Venku sněží.
+Děti běží ven.
+Žáci házejí sníh.
+Sníh leží na střeše.
+
+# Jídlo
+Jídlo je na stole.
+Děti jdou jíst.
+Kluci mají žízeň.
+Jirka hledá chléb.
+
+# Oči a uši
+Kluk má černé oči.
+Dívka má velké uši.
+Pes má dlouhé uši.
+Žirafa má dlouhý krk.
+
+# Jiří
+Jiří jede na kole.
+Jiří čeká u lesa.
+Jirka jde za Jiřím.
+
+# Farma
+Na farmě žije kráva.
+Na farmě žije kohout.
+Farmář krájí seno.
+Pastýř honí ovce.
+
+# Cihla
+Cihla je těžká.
+Tesař vleče cihlu.
+Tesař nese cihlu k domu.
+
+# Jízda
+Jízda je dlouhá.
+Řidič jede lesem.
+Chlapec se směje.
+Žáci čekají v autě.
+
+# Oheň
+Dům hoří.
+Pán křičí.
+Sousedé běží s vědrem.
+Voda teče na střechu.
+
+# Šití
+Máma šije kabát.
+Sestra šije šálu.
+Teta šije kapsu.
+Dívka čeká u okna.
+
+# Učení
+Učitel učí děti.
+Děti čtou větu.
+Žáci čekají na zvonek.
+Zvonek zvoní.
+
+# Chodci
+Chodci jdou po cestě.
+Řidič jede pomalu.
+Chodci mávají.
+Ptáci létají nad lesem.
+
+# Ptáci
+Ptáci sedí na stromě.
+Ptáci křičí.
+Hoši hledají ptáky.
+Ježek leze pod keř.
+
+# Čistota
+Podlaha je čistá.
+Máma zametá podlahu.
+Dívka drží smeták.
+Žáci jdou ven.
+
+# Jiskra
+Jiskra letí z kamen.
+Kamna hoří.
+Jirka drží vědro.
+Hoši stojí u kamen.
+
+# Žirafa
+V zoo žije žirafa.
+Žirafa má malé uši.
+Chodci hledají žirafu.
+
+# Šípek
+Šípek kvete.
+Ptáci hledají šípek.
+Jiří trhá šípek.
+Žáci čekají u keře.
+
+# Ježek
+Ježek šplhá na pařez.
+Ježek hledá žížalu.
+Ježek žije v lese.
+Hoši ježka honí.
+
+# Tyč
+Kluci mají tyč.
+Jirka drží tyč.
+Žáci šplhají na tyč.
+
+# Řeka
+Řeka teče lesem.
+Rybáři sedí u řeky.
+Ryba plave pod mostem.
+Hoši se smějí.
+
+# Cesta
+Cesta vede lesem.
+Jiří jde pomalu.
+Jirka se směje.
+Řidič čeká.
+
+# Kuchyň
+Kuchyň je čistá.
+Kuchař vaří a peče.
+Jídlo voní.
+Hoši jdou do kuchyně.
+
+# Koš
+Máma nese koš.
+Ptáci sedí na koši.
+Kluk drží koš.
+Koš je lehký.
+
+# Čich
+Pes čichá.
+Pes hledá jídlo.
+Jirka hladí psa.
+Pes běží k lesu.
+
+# Kdo tu žije
+V lese žije ježek.
+V řece žije ryba.
+Na louce žije koník.
+
+# Kluk a pes
+Pes štěká na kluky.
+Kluci se smějí.
+Jiří hladí psa.
+
+# Žáci na chodbě
+Chodba je čistá.
+Žáci jdou chodbou.
+Řidič čeká před školou.
+Jirka jde domů.
+
+# Pekař
+Pekař peče chléb.
+Chodci čekají u dveří.
+Chléb voní.
+Pekař kývá hlavou.
