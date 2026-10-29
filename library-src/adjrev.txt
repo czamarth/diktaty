@@ -1,0 +1,182 @@
+feature: orth.adjective_endings_review
+code: adjrev
+---
+# Tvary přídavných jmen 1
+Žáci hovoří o {pěkných} kabátech.
+Radek maluje {jarní} louku.
+Radek stojí před {hezkým} pohárem.
+{Dolní} louka je zelená.
+
+# Tvary přídavných jmen 2
+Adam hledá {jarní} trávu.
+{Hezký} sad je za městem.
+{Lesní} stezka vede k lesu.
+Sousedé čtou o {hezkých} domech.
+
+# Tvary přídavných jmen 3
+{Veselý} pták sedí u stromu.
+{Domácí} zahrada voní.
+Adam sedí s {malým} ptákem.
+Děti sní o {malých} stromech.
+
+# Tvary přídavných jmen 4
+{Zlatý} pohár je na stole.
+{Studený} koláč stojí u okna.
+Marek jde za {těžkým} pohárem.
+Olga zná {ranní} tmu.
+
+# Tvary přídavných jmen 5
+Radek ukazuje {noční} oblohu.
+Žáci čtou o {krásných} domech.
+{Chytrý} pes sedí u stromu.
+Marek sedí s {veselým} ptákem.
+
+# Tvary přídavných jmen 6
+Učitelé hovoří o {pěkných} dubech.
+{Zlatý} nůž je na stole.
+Adam zná {horní} louku.
+Anna stojí s {pěkným} pesem.
+
+# Tvary přídavných jmen 7
+Lenka sleduje {ranní} tmu.
+{Starý} most stojí u stromu.
+{První} cesta vede k potoku.
+{Nový} most je u stromu.
+
+# Tvary přídavných jmen 8
+Olga běží za {mohutným} stromem.
+Děti hovoří o {těžkých} kabátech.
+Marta ukazuje {jarní} rosu.
+{Mohutný} hrad je na kopci.
+
+# Tvary přídavných jmen 9
+Anna stojí před {těžkým} pohárem.
+Marek sleduje {jarní} rosu.
+{Chytrý} pták běží po louce.
+{Chytrý} kocour sedí u stromu.
+
+# Tvary přídavných jmen 10
+{Červený} vlak je za lesem.
+Karel běží s {veselým} klukem.
+{Zelený} svetr je na stole.
+Učitelé hovoří o {červených} domech.
+
+# Tvary přídavných jmen 11
+{Jarní} tráva je mokrá.
+{Pěkný} sad je u řeky.
+Alena sedí pod {pěkným} pohárem.
+{Černý} kabát je u dveří.
+
+# Tvary přídavných jmen 12
+{Černý} chléb leží u stromu.
+{Lesní} tráva je mokrá.
+Adam běží za {černým} plotem.
+Učitelé sní o {pěkných} stromech.
+
+# Tvary přídavných jmen 13
+Dana čeká s {chytrým} klukem.
+{Mohutný} dům je u plotu.
+{Dlouhý} plot je za městem.
+{Ranní} mlha leží nad loukou.
+
+# Tvary přídavných jmen 14
+{Dlouhý} vlak stojí za městem.
+Rolníci sní o {hrubých} kabátech.
+Jan sleduje {lesní} stezku.
+Ota jde s {hezkým} klukem.
+
+# Tvary přídavných jmen 15
+{Teplý} svetr je u okna.
+Alena běží za {mohutným} plotem.
+{Veselý} kocour jde k potoku.
+Žáci hovoří o {teplých} kabátech.
+
+# Tvary přídavných jmen 16
+{Horní} louka je zelená.
+{Červený} svetr leží u plotu.
+Olga jde za {teplým} kabátem.
+Rolníci sní o {červených} vozech.
+
+# Tvary přídavných jmen 17
+Roman sleduje {domácí} zahradu.
+{Krásný} kabát leží u plotu.
+Sousedé čtou o {pěkných} kabátech.
+{Zdravý} kocour čeká u dveří.
+
+# Tvary přídavných jmen 18
+Sousedé čtou o {krásných} vozech.
+Olga sleduje {domácí} zahradu.
+{Černý} kabát leží na stole.
+{Krásný} vlak je u plotu.
+
+# Tvary přídavných jmen 19
+{Hlavní} cesta vede k potoku.
+{Krásný} strom je za městem.
+Alena čeká za {krásným} sadem.
+{Zelený} dub stojí za domem.
+
+# Tvary přídavných jmen 20
+Petr sleduje {první} cestu.
+Rolníci čtou o {mohutných} plotech.
+{Noční} obloha je modrá.
+{Mohutný} plot je za lesem.
+
+# Tvary přídavných jmen 21
+{Mohutný} hrad je za lesem.
+{Studený} chléb je u okna.
+Hana jde za {mohutným} plotem.
+{Ranní} tma je v lese.
+
+# Tvary přídavných jmen 22
+Jan běží za {černým} kabátem.
+{Dlouhý} nůž stojí u okna.
+{Dlouhý} most stojí za domem.
+Učitelé čtou o {hrubých} plotech.
+
+# Tvary přídavných jmen 23
+Děti hovoří o {krásných} kabátech.
+{Lesní} cesta vede k potoku.
+Petr maluje {noční} oblohu.
+{Krásný} pohár leží u plotu.
+
+# Tvary přídavných jmen 24
+{Hrubý} plot je za domem.
+{Hrubý} chléb leží u dveří.
+Alena maluje {ranní} rosu.
+Karel čeká s {veselým} klukem.
+
+# Tvary přídavných jmen 25
+{Malý} dům je u plotu.
+Učitelé sní o {hezkých} dubech.
+{Noční} tma je v lese.
+Lenka jde s {malým} ptákem.
+
+# Tvary přídavných jmen 26
+Karel zná {domácí} zahradu.
+Učitelé sní o {červených} kabátech.
+Nela čeká za {červeným} koláčem.
+{Polní} cesta vede k potoku.
+
+# Tvary přídavných jmen 27
+{Polní} stezka vede k lesu.
+{Malý} pes čeká u dveří.
+{Zdravý} pták běží po louce.
+Rolníci sní o {nových} domech.
+
+# Tvary přídavných jmen 28
+{Chytrý} pes čeká u dveří.
+Marek jde s {chytrým} ptákem.
+Radek maluje {první} cestu.
+Žáci čtou o {nových} vozech.
+
+# Tvary přídavných jmen 29
+{Teplý} svetr je u dveří.
+Eva běží za {zeleným} sadem.
+Hana hledá {polní} stezku.
+{Polní} tráva je mokrá.
+
+# Tvary přídavných jmen 30
+{Hrubý} svetr je na stole.
+Učitelé hovoří o {tmavých} kabátech.
+Adam sedí s {chytrým} pesem.
+{Chytrý} kocour je u plotu.
