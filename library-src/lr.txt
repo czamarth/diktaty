@@ -1,0 +1,182 @@
+feature: orth.listed_words_review
+code: lr
+---
+# Dárek pro syna
+Táta kupuje pro syna nové kolo.
+Syn dostane k narozeninám míč.
+Máma přidá do balíčku sirup.
+Syn se na dárek těší.
+
+# Silný vichr
+Vichr láme větve na zahradě.
+Lípa u plotu se silně ohýbá.
+Pes se bojí vichru.
+Vítr hučí ve starém komíně.
+
+# Nový mlýn
+Mlynář opravuje mlýn u potoka.
+Mlýnek na kávu stojí na stole.
+Máma sype kávu do hrnku.
+Po celém bytě se line vůně.
+
+# Kdo slyší
+Kdo slyší zvon z věže?
+Zvon slyší pastýř na louce.
+Slyší ho i vydra u řeky.
+Zvon zní nad údolím.
+
+# Velký zisk
+Obchodník získá z prodeje velký zisk.
+Rodina nakupuje za zisk víno.
+Syn nese láhev domů.
+Rodina se u stolu směje.
+
+# Dobytek na pastvě
+Dobytek se pase na široké louce.
+Býk má silnou šíji.
+Pastýř drží v ruce bič.
+Louka je po bouři mokrá.
+
+# Bystrý žák
+Bystrý žák zná každé písmo.
+Učitel ukazuje klíč.
+Žák zvedne ruku.
+Ve třídě je klid.
+
+# Včela a květ
+Včela letí k lípě.
+Med je sladký jako sirup.
+Syn jí med s chlebem.
+Vítr fouká v lese.
+
+# Zimní silnice
+Silnice vede přes les.
+V zimě je kluzká a bílá.
+Auto jede pomalu a tiše.
+Řidič slyší vítr.
+
+# Lyžař na kopci
+Lyžař stoupá na vysoký kopec.
+Lyže mají dlouhé hole.
+Dědeček sleduje lyžaře.
+Sníh je suchý a lehký.
+
+# Vydra u řeky
+Vydra chytá rybu v rybníku.
+Rybník je hluboký a tichý.
+Dívka sleduje vydru.
+Vydra plave pryč.
+
+# Hmyz v zahradě
+Hmyz bzučí nad květinou.
+Sýkora chytá hmyz.
+Žába chytá hmyz v trávě.
+Zahrada je velká a krásná.
+
+# Pila v dílně
+Pila řeže tvrdé prkno.
+Syn drží prkno rukou.
+Táta zná dobře pilu.
+V dílně voní dřevo.
+
+# Mlha a klid
+Ráno je nad rybníkem mlha.
+Nad vodou je klid.
+Kos sedí na lípě.
+Brzy bude teplo.
+
+# Netopýr nad zahradou
+Netopýr létá nad zahradou.
+Batoh je lehký.
+Syn slyší netopýra.
+Netopýr letí k lesu.
+
+# Zralé ovoce
+Máma trhá zralou slívu.
+Dívka trhá sladkou malinu.
+Jan nese velký koš.
+Sirup z ovoce je dobrý.
+
+# Pytel mouky
+Pytel mouky leží v sýpce.
+Rolník nese mouku do mlýna.
+Mlynář zná ten pytel.
+Sýpka je stará.
+
+# Starý zvyk
+Dědeček má starý zvyk.
+Každé ráno pije kávu.
+Petr zná ten zvyk.
+Zvyk je hezký.
+
+# Pirát na moři
+Pirát má bič a mapu.
+Pirát hledá ostrov.
+Bitva na moři je dlouhá.
+Pirát se nebojí vichru.
+
+# Víla v lese
+Víla žije v hlubokém lese.
+Víla slyší ten zvuk.
+Netopýr letí k víle.
+V lese je klid.
+
+# Dílna s lisem
+Tesař má v dílně starý lis.
+Lis stojí vedle pilníku.
+Pilník leží na stole.
+Tesař dělá nábytek.
+
+# Vítěz závodu
+Vítěz dostane velký pohár.
+Pohár je ze zlata.
+Karel vítěze tleská.
+Vítr fouká přes hřiště.
+
+# Sýkora v zimě
+Sýkora hledá v zimě zrno.
+Zima trvá dlouho.
+Marek sype zrno na parapet.
+Sýkora slyší kroky.
+
+# Na statku
+Na statku žije dobytek.
+Býk čeká na pastýře.
+Pastýř nese bič.
+Sýpka stojí na kopci.
+
+# U jezera
+U jezera je velký klid.
+Vydra plave k břehu.
+Kluk hodí míč do jezera.
+Voda se leskne.
+
+# Voda a mýdlo
+Dívka myje ruce mýdlem.
+Mýdlo voní po lípě.
+Moře je hluboké.
+Mísa stojí u okna.
+
+# Zahrada v létě
+Slíva zraje na stromě.
+Malina zraje v lese.
+Radek trhá slívu a malinu.
+Táta zalévá záhon.
+
+# Brzy ráno
+Brzy ráno vstává pekař.
+Pekař zná dobře svůj chléb.
+Adam mu nese sýr.
+Pekař slyší hlas.
+
+# Hrad na kopci
+Hrad na kopci je starý.
+Rytíř má dlouhý bič.
+Bitva je dávno pryč.
+Vichr hučí kolem věže.
+
+# Večer doma
+Večer je doma klid.
+Táta pije víno.
+Máma myje misku.
+Pavel slyší hudbu.
