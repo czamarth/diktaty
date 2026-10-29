@@ -1,0 +1,202 @@
+feature: orth.prefixes_s_z_vz
+code: pre
+---
+# Předpony s-, z-, vz- 1
+Ota {strhne} střechu.
+Lara {zvedne} hůl.
+Pekař {sebere} hrušky.
+Nela {strhne} plot.
+Olga hledá tašku.
+
+# Předpony s-, z-, vz- 2
+Učitel může {zbořit} hrad.
+Roman {zboří} hrad.
+Eva {seskočí} z kopce.
+Karel {zbourá} dům.
+
+# Předpony s-, z-, vz- 3
+Olga {zhasne} světlo.
+Anna {smaže} větu.
+Adam {zlepší} zahradu.
+Karel {strhne} plot.
+Alena čte knihu.
+
+# Předpony s-, z-, vz- 4
+Učitel {sjede} svah.
+Jan může {zlepšit} cestu.
+Žák {schová} klíč.
+Jan má {stáhnout} šátek.
+
+# Předpony s-, z-, vz- 5
+Kuchař začne {zmenšit} písmo.
+Marta začne {sebrat} dřevo.
+Žák {vzdá} hru.
+Pavel začne {sebrat} dřevo.
+
+# Předpony s-, z-, vz- 6
+Karel {shrabe} seno.
+Pavel má {schovat} kost.
+Radek {zbourá} zeď.
+Pták {vzlétne}.
+Marek nese koš.
+
+# Předpony s-, z-, vz- 7
+Pekař {strhne} plot.
+Petr má {vzdát} závod.
+Adam chce {smazat} větu.
+Kovář {zvětší} obraz.
+
+# Předpony s-, z-, vz- 8
+Lenka {sebere} jablka.
+Adam {sjede} svah.
+Lenka má {smotat} lano.
+Pekař {zvedne} tašku.
+Karel nese vědro.
+
+# Předpony s-, z-, vz- 9
+Marta má {zvětšit} dům.
+Ota může {strhnout} lano.
+Letadlo {vzlétne}.
+Karel může {sebrat} hrušky.
+
+# Předpony s-, z-, vz- 10
+Žák může {zvednout} tašku.
+Kuchař má {zbořit} plot.
+Nela {schová} kabát.
+Anna {zboří} most.
+
+# Předpony s-, z-, vz- 11
+Žák má {zbořit} dům.
+Hana chce {zhasnout} světlo.
+Kovář {zlepší} písmo.
+Marta {strhne} lano.
+
+# Předpony s-, z-, vz- 12
+Hana {sebere} dřevo.
+Nela {zvětší} obraz.
+Kovář začne {sjet} svah.
+Karel {schová} tašku.
+Dana jde do lesa.
+
+# Předpony s-, z-, vz- 13
+Kovář chce {zhasnout} oheň.
+Roman chce {zbořit} dům.
+Lenka {setře} stůl.
+Anna {zbourá} plot.
+
+# Předpony s-, z-, vz- 14
+Anna může {stáhnout} kabát.
+Soused {zbourá} dům.
+Adam chce {shrabat} trávu.
+Lara začne {vzdát} hru.
+
+# Předpony s-, z-, vz- 15
+Vojta {zmenší} mapu.
+Petr chce {schovat} kost.
+Dana chce {strhnout} lano.
+Adam začne {smotat} lano.
+
+# Předpony s-, z-, vz- 16
+Roman začne {zmenšit} mapu.
+Oheň {vzplane}.
+Marta může {vzdát} boj.
+Dana {spočte} hrušky.
+Karel zalévá záhon.
+
+# Předpony s-, z-, vz- 17
+Roman {zvětší} dům.
+Soused {shrabe} dřevo.
+Kluk {seskočí} ze stolu.
+Vojta {zvětší} dům.
+Marek jde do lesa.
+
+# Předpony s-, z-, vz- 18
+Radek {shrabe} trávu.
+Tereza {strhne} střechu.
+Ota {zlepší} písmo.
+Dana {vzdá} hru.
+Jan běží k lesu.
+
+# Předpony s-, z-, vz- 19
+Marta {zmenší} písmo.
+Marek {vzdá} hru.
+Kovář {zbourá} plot.
+Lara {stáhne} kabát.
+Adam nese koš.
+
+# Předpony s-, z-, vz- 20
+Pes {seskočí} z plotu.
+Soused {zmenší} mapu.
+Hana {spočte} hrušky.
+Rolník {zlepší} cestu.
+Tereza vede koně.
+
+# Předpony s-, z-, vz- 21
+Učitel {shrabe} seno.
+Ota {smotá} lano.
+Marek {shrabe} seno.
+Soused {zboří} dům.
+Alan sedí u řeky.
+
+# Předpony s-, z-, vz- 22
+Radek {stáhne} šátek.
+Pavel {zvětší} obraz.
+Anna {zhasne} lampu.
+Vojta {zvětší} písmo.
+Dana zná cestu.
+
+# Předpony s-, z-, vz- 23
+Hana {zboří} plot.
+Lenka {sebere} dřevo.
+Petr {vzdá} hru.
+Radek {smaže} nápis.
+Eva vede koně.
+
+# Předpony s-, z-, vz- 24
+Kuchař {spočte} koláče.
+Lenka {zmenší} písmo.
+Hana {stáhne} lano.
+Jan {sebere} hrušky.
+Dana hladí kočku.
+
+# Předpony s-, z-, vz- 25
+Tereza {vzdá} závod.
+Jan {zvedne} lopatu.
+Žák {setře} stůl.
+Pavel {sjede} kopec.
+Karel zná cestu.
+
+# Předpony s-, z-, vz- 26
+Dana {zmenší} obraz.
+Vojta {setře} okno.
+Marek {zmenší} písmo.
+Učitel {smotá} lano.
+Radek nese mléko.
+
+# Předpony s-, z-, vz- 27
+Vojta {shrabe} dřevo.
+Pekař {zlepší} zahradu.
+Kuchař {stáhne} kabát.
+Kuchař {schová} klíč.
+Dana sedí na stole.
+
+# Předpony s-, z-, vz- 28
+Radek {zlepší} cestu.
+Učitel {zvedne} hůl.
+Rolník {sjede} kopec.
+Soused {schová} tašku.
+Lenka zná řeku.
+
+# Předpony s-, z-, vz- 29
+Tereza {zbourá} zeď.
+Petr {zvedne} hůl.
+Roman {sjede} svah.
+Tesař {spočte} jablka.
+Pavel nese mléko.
+
+# Předpony s-, z-, vz- 30
+Orel {vzlétne}.
+Tesař {zhasne} oheň.
+Rolník {spočte} koláče.
+Tereza {sjede} svah.
+Petr jede do města.
