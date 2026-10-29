@@ -4,7 +4,7 @@ víc než N×, střídavě dosadí jména osob. Jména nepřidávají žádný p
 Použití: diversify.py library-src/xx.txt Dívka:f Kluk:m [--keep 5]"""
 import re, sys, pathlib
 F = ["Eva", "Olga", "Anna", "Dana", "Lenka", "Tereza", "Hana", "Alena", "Nela", "Marta", "Ema", "Lara", "Soňa", "Mara"]
-M = ["Jan", "Petr", "Karel", "Marek", "Radek", "Adam", "Pavel", "Ota", "Roman", "Vojta", "Alan", "Erik", "Oto", "Ivo"]
+M = ["Jan", "Petr", "Karel", "Marek", "Radek", "Adam", "Pavel", "Ota", "Roman", "Vojta", "Alan", "Oto", "Ivo"]
 args = [a for a in sys.argv[1:] if not a.startswith("--")]
 keep = int(sys.argv[sys.argv.index("--keep") + 1]) if "--keep" in sys.argv else 5
 if "--keep" in sys.argv:

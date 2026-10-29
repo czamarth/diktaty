@@ -51,6 +51,13 @@ for (const [noun, g, adjs] of NOUNS) {
     if (f) pairs.push(`${noun[0].toUpperCase()}${noun.slice(1)} je ${f}.`);
   }
 }
+// Druhý typ vět: jméno osoby + slovesné spojení (v přítomném čase, bez skrytých jevů)
+const NAMES = ['Jan', 'Petr', 'Karel', 'Marek', 'Radek', 'Adam', 'Pavel', 'Ota', 'Roman', 'Vojta', 'Alan', 'Oto', 'Ivo', 'Eva', 'Olga', 'Anna', 'Dana', 'Lenka', 'Tereza', 'Hana', 'Alena', 'Nela', 'Marta', 'Ema', 'Lara', 'Soňa', 'Mara', 'Aneta'];
+const PREDS = ['čte knihu', 'nese koš', 'hledá tašku', 'kope jámu', 'zná cestu', 'jede na kole', 'jde do lesa', 'běží domů', 'sedí u okna', 'čeká na vlak', 'hraje na louce',
+  'volá psa', 'vede koně', 'nese vědro', 'drží lopatu', 'peče koláč', 'vaří polévku', 'hladí kočku', 'krájí chléb', 'maluje obraz', 'seká dřevo', 'pere šátek', 'zalévá záhon',
+  'otevírá okno', 'hledá dřevo', 'nese mléko', 'jde na louku', 'jede do města', 'čeká u dveří', 'kope zahradu', 'zná les', 'zná řeku', 'nese kabát', 'hledá ježka', 'sleduje ptáka',
+  'jde k potoku', 'sedí na stole', 'sedí u řeky', 'běží k lesu', 'běží po louce', 'jde za psem', 'jede za tátou', 'čeká na mámu', 'nese tašku', 'drží psa', 'hledá kolo'];
+for (const n of NAMES) for (const pr of PREDS) pairs.push(`${n} ${pr}.`);
 // pseudonáhodné pořadí podle seedu
 let s = seed * 2654435761 % 4294967296;
 const rnd = () => (s = (s * 1664525 + 1013904223) % 4294967296) / 4294967296;

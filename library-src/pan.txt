@@ -1,0 +1,180 @@
+feature: orth.noun_endings_pan
+code: pan
+---
+# Holubi na střeše
+{Holubi|t} sedí na střeše.
+Kluk honí {holuby|t}.
+{Holubi|t} letí nad dvorem.
+Noha je krátká.
+
+# Psi na louce
+{Psi|t} běží po louce.
+Pastýř hledá {psy|t}.
+Rolník nese {psovi|t} kost.
+Kost je velká.
+
+# Orli nad horou
+{Orli|t} létají nad horou.
+Kluk sleduje {orly|t}.
+{Orli|t} hledají kořist.
+Dvůr je velký.
+
+# Lvi v zoo
+{Lvi|t} žijí v zoo.
+Kluk sleduje {lvy|t}.
+Kuchař nese {lvovi|t} maso.
+Káva je teplá.
+
+# Medvědi
+{Medvědi|t} chodí lesem.
+Pastýř zná {medvědy|t}.
+Kuchař nese {medvědovi|t} med.
+Kráva je velká.
+
+# Kosi na plotě
+{Kosi|t} hledají zrno.
+Jan sleduje {kosy|t}.
+{Kosi|t} sedí na plotě.
+Plot je starý.
+
+# Vrabci a kosi
+{Vrabci|t} sedí na střeše.
+{Kosi|t} sedí vedle vrabců.
+Petr honí {holuby|t}.
+Střecha je suchá.
+
+# Žáci ve škole
+{Žáci|t} jsou ve škole.
+Učitel zná {žáky|t}.
+Učitel nese {žákovi|t} knihu.
+Kniha je nová.
+
+# Páni
+{Páni|t} čtou knihy.
+Dívka zná {pány|t}.
+Dívka nese {pánovi|t} knihu.
+Knihy jsou nové.
+
+# Kluci
+{Kluci|t} hrají na louce.
+Máma volá {kluky|t}.
+Máma dává {klukovi|t} chléb.
+Třída je tichá.
+
+# Ptáci a kluk
+{Ptáci|t} sedí na dubu.
+Karel sleduje {ptáky|t}.
+{Ptáci|t} létají nad horou.
+Hora je krásná.
+
+# Vlci
+{Vlci|t} běží lesem.
+Pastýř zná {vlky|t}.
+Pastýř dává {vlkovi|t} kost.
+Pole je zelené.
+
+# Hoši
+{Hoši|t} běží ven.
+Učitel volá {hochy|t}.
+Učitel dává {hochovi|t} knihu.
+Kráva je hodná.
+
+# Kost pro psa
+Dívka dává {psovi|t} kost.
+Eva dává {kosovi|t} zrno.
+Olga dává {holubovi|t} chléb.
+Koza je hodná.
+
+# Pomoc dědovi
+Dana pomáhá {dědovi|t}.
+Eva pomáhá {tátovi|t}.
+Hana pomáhá {pánovi|t}.
+Pomoc je dobrá.
+
+# Bratři
+{Bratři|t} jdou do lesa.
+Máma volá {bratry|t}.
+Máma dává {bratrovi|t} chléb.
+Kohout je velký.
+
+# Rybáři
+{Rybáři|t} čekají u řeky.
+Marek pomáhá {rybáři|t}.
+Město je tiché.
+Káva je sladká.
+
+# Lékaři
+{Lékaři|t} pracují v nemocnici.
+Anna pomáhá {lékaři|t}.
+Lékař je chytrý.
+Vlak je dlouhý.
+
+# Tesaři
+{Tesaři|t} stavějí dům.
+Rolník pomáhá {tesaři|t}.
+{Tesaři|t} mají sekeru.
+Auto je staré.
+
+# Kuchaři
+{Kuchaři|t} vaří polévku.
+Dana pomáhá {kuchaři|t}.
+Tráva je čerstvá.
+Ruka je teplá.
+
+# Rolníci
+{Rolníci|t} jdou na pole.
+Radek zná {rolníky|t}.
+Adam pomáhá {rolníkovi|t}.
+Pole je velké.
+
+# Řidiči
+{Řidiči|t} čekají u mostu.
+Pavel pomáhá {řidiči|t}.
+Obloha je modrá.
+Mléko je sladké.
+
+# Chlapci
+{Chlapci|t} hrají na louce.
+Máma dává {chlapcovi|t} chléb.
+{Chlapci|t} jedou na kole.
+
+# Sokoli
+{Sokoli|t} létají nad horou.
+Pastýř sleduje {sokoly|t}.
+{Sokoli|t} hledají kořist.
+Třída je teplá.
+
+# Pavouci
+{Pavouci|t} lezou po stěně.
+Lenka zná {pavouky|t}.
+Ota se pavouků nebojí.
+Škola je hezká.
+
+# Kamarádi
+{Kamarádi|t} jdou do lesa.
+Roman zve {kamarády|t}.
+Vojta dává {kamarádovi|t} knihu.
+Kopec je hezký.
+
+# Tygři
+{Tygři|t} žijí v zoo.
+Alan sleduje {tygry|t}.
+{Tygři|t} mají dlouhý ocas.
+Husa je hodná.
+
+# Sloni
+{Sloni|t} jdou k řece.
+Ivo sleduje {slony|t}.
+Kočka je chytrá.
+Okno je velké.
+
+# Zajíci
+{Zajíci|t} skáčou po louce.
+{Zajíci|t} hledají trávu.
+Koza je malá.
+Jaro je teplé.
+
+# Holubi a vrabci
+{Holubi|t} a {vrabci|t} sedí na střeše.
+Oto sleduje {holuby|t}.
+Ivo sleduje {vrabce|t}.

@@ -59,7 +59,7 @@ export const NOT_VERB = new Set([
   'stůl', 'úl', 'sůl', 'kůl', 'hůl', 'kolo', 'škola', 'sklo', 'mýdlo', 'světlo', 'křídlo', 'peklo', 'zrcadlo', 'dělo', 'zlo',
   'hotel', 'pytel', 'anděl', 'orel', 'osel', 'kotel', 'uzel', 'kostel', 'ocel', 'karel', 'pavel', 'michal', 'emil',
   'sál', 'val', 'dílo', 'pól', 'čelo', 'tělo', 'hala', 'skála', 'pila', 'vila', 'víla', 'kapela', 'nula', 'cela', 'koala',
-  'málo', 'polo', 'ohnivo', 'divadlo', 'divadla', 'cíl', 'král', 'pytel', 'pyl', 'pila', 'síla', 'sídlo', 'sysel', 'penál', 'teplo', 'postel', 'umývadlo', 'mysl', 'obyvatel', 'kobyla', 'bidlo', 'žíla', 'cihla', 'cihel', 'žížala', 'tykadlo', 'jídlo', 'kyvadlo', 'úhel', 'půl', 'úkol', 'máslo', 'letadlo', 'tunel', 'včela', 'učitel', 'učitelka', 'tabula', 'hrnek', 'sokol', 'datel', 'pastel',
+  'málo', 'polo', 'ohnivo', 'divadlo', 'divadla', 'cíl', 'školy', 'stoly', 'orli', 'orly', 'sokoli', 'sokoly', 'král', 'pytel', 'pyl', 'pila', 'síla', 'sídlo', 'sysel', 'penál', 'teplo', 'postel', 'umývadlo', 'mysl', 'obyvatel', 'kobyla', 'bidlo', 'žíla', 'cihla', 'cihel', 'žížala', 'tykadlo', 'jídlo', 'kyvadlo', 'úhel', 'půl', 'úkol', 'máslo', 'letadlo', 'tunel', 'včela', 'učitel', 'učitelka', 'tabula', 'hrnek', 'sokol', 'datel', 'pastel',
   'slavík', 'zámek', 'kabela', 'kapela', 'žárovka', 'tužka', 'pohár', 'oltář', 'ostrov', 'kmotřenec', 'šála', 'aula',
   'kuchyňka', 'stodola', 'kopule', 'kulka', 'bota', 'pila', 'skála', 'hala', 'lampa', 'mula', 'lopata', 'lopatka',
 ]);

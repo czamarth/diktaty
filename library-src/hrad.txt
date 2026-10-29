@@ -1,0 +1,178 @@
+feature: orth.noun_endings_hrad
+code: hrad
+---
+# Hrady a duby
+Na kopcích stojí staré {hrady}.
+Kolem hradů rostou velké {duby}.
+Pod {duby} leží mech.
+Kluk sleduje {hrady} z kopce.
+
+# Stromy v sadu
+V sadu rostou {stromy}.
+Rolník opravuje {ploty}.
+Za {ploty} je louka.
+Kočka je hnědá.
+
+# Nové domy
+Ve městě stojí nové {domy}.
+Před {domy} vede cesta.
+Tesař opravuje {domy}.
+Most je široký.
+
+# Mosty přes řeku
+Přes řeku vedou dlouhé {mosty}.
+Pod {mosty} plave ryba.
+Rybář sedí pod {mosty}.
+Mléko je teplé.
+
+# Staré stoly
+V pokoji stojí staré {stoly}.
+Tesař dělá nové {stoly}.
+Pod {stoly} leží pes.
+Pes je tichý.
+
+# Lesy za horami
+Za horou jsou velké {lesy}.
+Přes {lesy} vede cesta.
+Kluk zná {lesy}.
+Moře je teplé.
+
+# Sady kolem města
+Kolem města jsou {sady}.
+Rolník zná {sady}.
+V sadu je klid.
+Řeka je dlouhá.
+
+# Vlaky na nádraží
+Na nádraží stojí dlouhé {vlaky}.
+Kluk sleduje {vlaky}.
+Za {vlaky} je cesta.
+
+# Těžké vozy
+Po cestě jedou těžké {vozy}.
+Kůň táhne {vozy}.
+Za {vozy} běží pes.
+Hora je velká.
+
+# Lesní potoky
+V lese tečou malé {potoky}.
+Jan zná {potoky}.
+Koza je chytrá.
+Noha je dlouhá.
+
+# Rybníky
+Kolem města jsou velké {rybníky}.
+Rybář zná {rybníky}.
+Voda v rybníku je tichá.
+
+# Kameny na louce
+Na louce leží těžké {kameny}.
+Rolník nese {kameny}.
+{Kameny} jsou tvrdé.
+Zahrada je krásná.
+
+# Pekařovy chleby
+Pekař peče velké {chleby}.
+Pekař nese {chleby} do obchodu.
+{Chleby} voní.
+Okno je hezké.
+
+# Poháry
+Na stole stojí zlaté {poháry}.
+Soused nese {poháry}.
+{Poháry} jsou těžké.
+Jezero je tiché.
+
+# Školní batohy
+Žáci mají těžké {batohy}.
+Učitel zná {batohy}.
+{Batohy} leží u dveří.
+Noc je dlouhá.
+
+# Kabáty
+V šatně leží staré {kabáty}.
+Máma nese {kabáty}.
+{Kabáty} jsou teplé.
+Taška je stará.
+
+# Svetry
+Máma nese teplé {svetry}.
+Sestra zná {svetry}.
+{Svetry} jsou nové.
+Slon je velký.
+
+# Klobouky
+Dědeček má staré {klobouky}.
+{Klobouky} leží na stole.
+Dědeček hledá {klobouky}.
+Vůz je starý.
+
+# Čluny
+Na řece plují malé {čluny}.
+Rybář opravuje {čluny}.
+{Čluny} jsou lehké.
+Mapa je stará.
+
+# Stromy v zahradě
+V zahradě rostou {stromy}.
+Za {stromy} je plot.
+Cesta je široká.
+Cesta je mokrá.
+
+# Domy a ploty
+Ve městě stojí {domy} a {ploty}.
+Tesař opravuje {ploty}.
+{Domy} jsou staré.
+
+# Hrady v horách
+Hory mají staré {hrady}.
+Petr zná {hrady}.
+{Hrady} jsou dávno prázdné.
+Polévka je čerstvá.
+
+# Duby u plotu
+Kolem plotu rostou {duby}.
+Na kopci rostou staré {duby}.
+Pes sedí pod {duby}.
+Kachna je hnědá.
+
+# Dva mosty
+Přes řeku jsou dva {mosty}.
+Karel běží přes {mosty}.
+{Mosty} jsou dlouhé.
+
+# Zahradní stoly
+Na zahradě stojí dřevěné {stoly}.
+Tesař dělá {stoly}.
+{Stoly} jsou těžké.
+Kolo je staré.
+
+# Pluhy
+Rolník má dva {pluhy}.
+Kovář opravuje {pluhy}.
+{Pluhy} jsou těžké.
+Les je velký.
+
+# Zámky
+Dveře mají {zámky}.
+Kovář dělá {zámky}.
+{Zámky} jsou těžké.
+Jablko je čerstvé.
+
+# Plody
+Na stromě jsou zralé {plody}.
+Dívka trhá {plody}.
+{Plody} jsou sladké.
+Kachna je hodná.
+
+# Břehy řeky
+Řeka má strmé {břehy}.
+Marek sleduje {břehy}.
+{Břehy} jsou tiché.
+Škola je velká.
+
+# Hřiby
+V lese rostou {hřiby}.
+Radek hledá {hřiby}.
+{Hřiby} jsou dobré.
+Kráva je černá.

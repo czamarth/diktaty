@@ -1,0 +1,181 @@
+feature: orth.noun_endings_zena
+code: zena
+---
+# Školy ve městě
+Ve městě jsou velké {školy}.
+Děti chodí do {školy}.
+Kluk sleduje {školy}.
+Škola je nová.
+
+# Dlouhé cesty
+Přes les vedou dlouhé {cesty}.
+Kluk běží po cestě.
+Kluk hledá {cesty}.
+Lev je chytrý.
+
+# Zahrady za domem
+Za domem jsou velké {zahrady}.
+Táta jde do {zahrady}.
+Dívka kupuje {zahrady}.
+Most je starý.
+
+# Ryby v rybníku
+V rybníku plavou velké {ryby}.
+Rybář chytá {ryby}.
+Kočka hledá {ryby}.
+{Ryby} jsou stříbrné.
+
+# Džbán vody
+Dívka nese džbán {vody}.
+Máma nese džbán {vody}.
+Kůň je velký.
+Obloha je šedá.
+
+# Krávy na louce
+Na louce se pasou {krávy}.
+Pastýř maluje {krávy}.
+Farmář hledá {krávy}.
+Jezero je široké.
+
+# Kozy na kopci
+Na kopci se pasou malé {kozy}.
+Dívka hladí {kozy}.
+{Kozy} jsou hodné.
+
+# Lampy v pokoji
+V pokoji stojí staré {lampy}.
+Táta opravuje {lampy}.
+{Lampy} jsou těžké.
+Husa je velká.
+
+# Mapy ve škole
+Ve škole jsou velké {mapy}.
+Učitel opravuje {mapy}.
+{Mapy} jsou staré.
+Moře je modré.
+
+# Husy na rybníku
+Na rybníku plavou {husy}.
+Pastýř bere {husy}.
+{Husy} jsou hodné.
+Mapa je velká.
+
+# Kachny na vodě
+Na vodě plavou {kachny}.
+Jan sleduje {kachny}.
+{Kachny} jsou malé.
+Ruka je studená.
+
+# Nové knihy
+Na stole leží nové {knihy}.
+Žák nese {knihy}.
+{Knihy} jsou těžké.
+Plot je krátký.
+
+# Tužky v penále
+V penále jsou nové {tužky}.
+Žák hledá {tužky}.
+{Tužky} jsou krátké.
+Slunce je hezké.
+
+# Hory za městem
+Za městem jsou velké {hory}.
+Petr nese {hory}.
+Slunce je horké.
+Karel běží po louce.
+
+# Zelené louky
+Kolem lesa jsou zelené {louky}.
+Pastýř ukazuje {louky}.
+{Louky} jsou mokré.
+Ota čeká na vlak.
+
+# Dvě polévky
+Máma vaří dvě {polévky}.
+Táta nese {polévky}.
+{Polévky} jsou horké.
+Mara zná řeku.
+
+# Staré tašky
+V šatně leží staré {tašky}.
+Žák hledá {tašky}.
+{Tašky} jsou těžké.
+Petr zalévá záhon.
+
+# Hrušky
+Na stromě rostou zralé {hrušky}.
+Eva trhá {hrušky}.
+{Hrušky} jsou sladké.
+Petr drží lopatu.
+
+# Jahody
+V zahradě rostou {jahody}.
+Olga trhá {jahody}.
+{Jahody} jsou sladké.
+Ota nese koš.
+
+# Okurky
+Na záhonu rostou {okurky}.
+Máma krájí {okurky}.
+{Okurky} jsou čerstvé.
+Vojta jde do lesa.
+
+# Lopaty
+V dílně leží těžké {lopaty}.
+Tesař sleduje {lopaty}.
+{Lopaty} jsou staré.
+Petr vaří polévku.
+
+# Sekery
+Tesař má dvě {sekery}.
+Kovář dělá {sekery}.
+{Sekery} jsou ostré.
+Ota čte knihu.
+
+# Stěny domu
+Dům má tlusté {stěny}.
+Tesař opravuje {stěny}.
+{Stěny} jsou studené.
+Marek jde k potoku.
+
+# Střechy
+{Chalupy} mají staré {střechy}.
+Tesař opravuje {střechy}.
+{Střechy} jsou mokré.
+Ota volá psa.
+
+# Ženy v obchodě
+V obchodě jsou {ženy}.
+Karel zná {ženy}.
+{Ženy} jsou veselé.
+Petr hledá dřevo.
+
+# Dívky ve třídě
+Ve třídě sedí {dívky}.
+Učitel zná {dívky}.
+{Dívky} jsou chytré.
+Alan sedí na stole.
+
+# Dvě tety
+Dvě {tety} jedou do města.
+Marek zná {tety}.
+{Tety} jsou hodné.
+Ota peče koláč.
+
+# Sousedky
+{Sousedky} jdou do obchodu.
+Radek zná {sousedky}.
+{Sousedky} jsou hodné.
+Alan jde do lesa.
+
+# Učitelky
+{Učitelky} jsou ve škole.
+Žák zná {učitelky}.
+{Učitelky} jsou chytré.
+Radek hledá kolo.
+
+# Kuchařky
+{Kuchařky} vaří polévku.
+Adam zná {kuchařky}.
+{Kuchařky} jsou veselé.
+Ivo peče koláč.
