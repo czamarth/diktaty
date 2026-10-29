@@ -1,0 +1,152 @@
+feature: punct.adversative_clause
+code: od
+---
+# Čárka před ale 1
+Kočka sedí u okna{, ale} pes štěká.
+Rybář sedí u řeky{, ale} {ryby|zena} nekoušou.
+Nela pere šátek{, však} šátek je velký.
+
+# Čárka před ale 2
+Alena vaří polévku{, ale} polévka je horká.
+Pastýř vede ovce{, ale} ovce nechtějí jít.
+Kočka hledá myš{, však} myš je pryč.
+
+# Čárka před ale 3
+Máma volá děti domů{, ale} děti jsou venku.
+Tereza otevírá okno{, však} okno je zavřené.
+Pes běží k potoku{, ale} potok je daleko.
+
+# Čárka před ale 4
+Batoh je {nový|adj}{, ale} je {těžký|adj}.
+Oto jde do města{, však} vlak nejede.
+Louka je široká{, ale} potok je úzký.
+
+# Čárka před ale 5
+Radek chce plavat{, ale} voda je studená.
+Kráva pase na louce{, ale} tráva je suchá.
+Olga zná cestu{, však} cesta je dlouhá.
+
+# Čárka před ale 6
+Adam hledá dřevo{, ale} dřevo je mokré.
+Soused seká trávu{, však} tráva je mokrá.
+Pohár je {zlatý|adj}{, však} je {prázdný|adj}.
+
+# Čárka před ale 7
+Koza hledá trávu{, však} louka je pryč.
+Dub je {mohutný|adj}{, však} list je {malý|adj}.
+Žák zná cestu{, ale} nezná les.
+
+# Čárka před ale 8
+Okno je malé{, ale} pokoj je {tmavý|adj}.
+Děda sedí u okna{, ale} okno je zavřené.
+Sestra čeká na autobus{, ale} autobus nejede.
+
+# Čárka před ale 9
+Strom je vysoký{, ale} větve jsou krátké.
+Olga hledá tašku{, ale} taška je doma.
+Ivo chce plavat{, ale} řeka je studená.
+
+# Čárka před ale 10
+Máma peče koláč{, však} nemá mouku.
+Dana chce péct chléb{, ale} pec je studená.
+Kámen je {tvrdý|adj}{, ale} je lehký.
+
+# Čárka před ale 11
+Petr nese koš{, ale} koš je {těžký|adj}.
+Lenka jde k lesu{, ale} les je daleko.
+Eva chce jít na louku{, ale} louka je mokrá.
+
+# Čárka před ale 12
+Lara hraje na louce{, ale} louka je mokrá.
+Kluk běží k lesu{, však} les je daleko.
+Táta jede do města{, ale} auto nejede.
+
+# Čárka před ale 13
+Adam maluje plot{, ale} nemá barvu.
+Anna čte větu{, však} nezná písmo.
+Hana nese tašku{, ale} taška je těžká.
+
+# Čárka před ale 14
+Roman nese vědro{, ale} vědro je prázdné.
+Zvon zvoní{, ale} nikdo ho neslyší.
+Husa plave v rybníku{, ale} kachna je na břehu.
+
+# Čárka před ale 15
+Kuchař vaří polévku{, však} nemá sůl.
+Pastýř hledá koně{, však} kůň je pryč.
+Bratr jede na kole{, ale} kolo je mokré.
+
+# Čárka před ale 16
+Pes hlídá dům{, ale} dům je {prázdný|adj}.
+Soused hledá psa{, však} pes je doma.
+Sousedka zve kluky{, však} kluci nemají čas.
+
+# Čárka před ale 17
+Lenka čeká u dveří{, ale} dveře jsou zavřené.
+Pekař nese housky{, však} housky jsou horké.
+Hana čeká na vlak{, však} vlak nejede.
+
+# Čárka před ale 18
+Chleba voní{, však} nikdo ho nechce.
+Tesař řeže prkno{, ale} pila je tupá.
+Učitel čte pohádku{, však} děti nechtějí poslouchat.
+
+# Čárka před ale 19
+Jan volá psa{, ale} pes nechce jít.
+Kovář kope zahradu{, však} země je tvrdá.
+Kluk chce hrát venku{, ale} prší.
+
+# Čárka před ale 20
+Slunce hřeje{, ale} vítr je {studený|adj}.
+Pavel čeká u dveří{, však} nikdo neotvírá.
+Roman kope jámu{, ale} jáma je hluboká.
+
+# Čárka před ale 21
+Děda čte knihu{, ale} nemá brýle.
+Sestra maluje obraz{, ale} nemá {barvy|zena}.
+Řidič jede pomalu{, ale} cesta je suchá.
+
+# Čárka před ale 22
+Dana chce jít domů{, ale} je pozdě.
+Pavel opravuje kolo{, ale} nemá klíč.
+Karel hraje na louce{, však} začíná mrznout.
+
+# Čárka před ale 23
+Rodina chce jet k moři{, ale} moře je daleko.
+Rybník je {hluboký|adj}{, ale} voda je čistá.
+Eva čeká na mámu{, ale} máma je v práci.
+
+# Čárka před ale 24
+Učitelka čte knihu{, ale} knihu už zná.
+Hora je krásná{, však} cesta je těžká.
+Louka je zelená{, ale} tráva je ještě mokrá.
+
+# Čárka před ale 25
+Zima je dlouhá{, však} jaro bude brzy.
+Kohout kokrhá{, však} nikdo nevstává.
+Řezník krájí maso{, však} maso je tvrdé.
+
+# Čárka před ale 26
+Táta nese dřevo{, však} dřevo je mokré.
+Marek kope jámu{, ale} kámen je {tvrdý|adj}.
+Pastýř pase ovce{, ale} ovce jsou daleko.
+
+# Čárka před ale 27
+Učitel ukazuje mapu{, ale} mapa je stará.
+Rolník orá pole{, ale} pole je mokré.
+Kniha leží na stole{, ale} nikdo ji nečte.
+
+# Čárka před ale 28
+Zahrada je krásná{, však} plot je starý.
+Karel hledá klobouk{, ale} klobouk je doma.
+Rolník nese pytel{, ale} pytel je {těžký|adj}.
+
+# Čárka před ale 29
+Okno je otevřené{, ale} v pokoji je zima.
+Marta peče chléb{, ale} chléb je {tvrdý|adj}.
+Tesař opravuje plot{, ale} nemá lopatu.
+
+# Čárka před ale 30
+Pekař peče chléb{, ale} mouky je málo.
+Teta pere kabát{, však} voda je studená.
+Alan hledá psa{, ale} pes je v lese.

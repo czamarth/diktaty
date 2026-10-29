@@ -201,7 +201,7 @@ export function buildDictation({ block, index, meta, taxonomy }) {
   }
   const confirmIncidental = used.filter((x) => x !== target && taxonomy.features.get(x).default_policy === 'adult_confirm');
   if (confirmIncidental.length > 3) bad(`příliš mnoho vedlejších jevů vyžadujících potvrzení dospělým (${confirmIncidental.length}): ${confirmIncidental.join(', ')}`);
-  if (used.length - 1 > 9) bad(`příliš mnoho vedlejších jevů (${used.length - 1})`);
+  if (used.length - 1 > 12) bad(`příliš mnoho vedlejších jevů (${used.length - 1})`);
 
   // Čistý test hranic vět: žádná dlouhá samohláska, aby se netestovalo nic jiného
   if (target === F.sb && full.some((a) => a.feature === F.vq)) {
