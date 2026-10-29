@@ -53,7 +53,7 @@ for (const p of packs) {
   for (const d of p.dictations) {
     if (seenId.has(d.id)) E(`duplicitní ID ${d.id} (${p.id} a ${seenId.get(d.id)})`);
     seenId.set(d.id, p.id);
-    const t = norm(d.title);
+    const t = d.title.toLowerCase().trim();
     if (seenTitle.has(t)) E(`duplicitní název „${d.title}“ (${d.id} a ${seenTitle.get(t)})`);
     seenTitle.set(t, d.id);
     d.sentences.forEach((s) => {
