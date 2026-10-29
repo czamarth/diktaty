@@ -45,7 +45,7 @@ export const LIST_STEMS = {
   l: ['slyš', 'slyc', 'mlýn', 'mlyn', 'blýsk', 'blysk', 'blyšt', 'polyk', 'polýk', 'plyn', 'plýt', 'plyt', 'vzlyk', 'lyž', 'lys', 'lýk', 'lyk', 'slyn', 'plyš', 'blýsk'],
   m: ['myš', 'myl', 'mýl', 'myt', 'mýt', 'mysl', 'mýd', 'hmyz', 'hymn', 'mykat', 'mýkat', 'myč', 'chmýř', 'myj', 'umýv', 'umyv', 'smýk', 'smyk', 'zamyk', 'odemyk', 'mýtin'],
   p: ['pyt', 'pýcha', 'pých', 'pyš', 'pysk', 'pyl', 'kopyt', 'klopýt', 'netopýr', 'slepýš', 'třpyt', 'třepyt', 'čepýř', 'pýř', 'pykat', 'pýr'],
-  s: ['syn', 'syt', 'sýt', 'sýr', 'syk', 'syč', 'sych', 'sýk', 'sysl', 'syp', 'sýp', 'syr', 'sýč', 'sychr', 'usych', 'osych', 'nasyt', 'sypk'],
+  s: ['syn', 'syt', 'sýt', 'sýr', 'syk', 'syč', 'sych', 'sýk', 'sysl', 'sysel', 'syp', 'sýp', 'syr', 'sýč', 'sychr', 'usych', 'osych', 'nasyt', 'sypk'],
   v: ['vysok', 'vyso', 'výt', 'vyje', 'vyjí', 'vytí', 'výsk', 'vydr', 'výr', 'výhe', 'vyžl', 'zvyk', 'žvýk', 'povyk', 'vykat', 'vykán', 'zvýk', 'zvykn', 'žvyk'],
   z: ['brzy', 'jazyk', 'jazyč', 'zýv', 'zyv', 'Ruzyn', 'ruzyn'],
 };
@@ -59,7 +59,7 @@ export const NOT_VERB = new Set([
   'stůl', 'úl', 'sůl', 'kůl', 'hůl', 'kolo', 'škola', 'sklo', 'mýdlo', 'světlo', 'křídlo', 'peklo', 'zrcadlo', 'dělo', 'zlo',
   'hotel', 'pytel', 'anděl', 'orel', 'osel', 'kotel', 'uzel', 'kostel', 'ocel', 'karel', 'pavel', 'michal', 'emil',
   'sál', 'val', 'dílo', 'pól', 'čelo', 'tělo', 'hala', 'skála', 'pila', 'vila', 'víla', 'kapela', 'nula', 'cela', 'koala',
-  'málo', 'polo', 'ohnivo', 'divadlo', 'divadla', 'cíl', 'penál', 'teplo', 'postel', 'umývadlo', 'mysl', 'obyvatel', 'kobyla', 'bidlo', 'žíla', 'cihla', 'cihel', 'žížala', 'tykadlo', 'jídlo', 'kyvadlo', 'úhel', 'půl', 'úkol', 'máslo', 'letadlo', 'tunel', 'včela', 'učitel', 'učitelka', 'tabula', 'hrnek', 'sokol', 'datel', 'pastel',
+  'málo', 'polo', 'ohnivo', 'divadlo', 'divadla', 'cíl', 'král', 'pytel', 'pyl', 'pila', 'síla', 'sídlo', 'sysel', 'penál', 'teplo', 'postel', 'umývadlo', 'mysl', 'obyvatel', 'kobyla', 'bidlo', 'žíla', 'cihla', 'cihel', 'žížala', 'tykadlo', 'jídlo', 'kyvadlo', 'úhel', 'půl', 'úkol', 'máslo', 'letadlo', 'tunel', 'včela', 'učitel', 'učitelka', 'tabula', 'hrnek', 'sokol', 'datel', 'pastel',
   'slavík', 'zámek', 'kabela', 'kapela', 'žárovka', 'tužka', 'pohár', 'oltář', 'ostrov', 'kmotřenec', 'šála', 'aula',
   'kuchyňka', 'stodola', 'kopule', 'kulka', 'bota', 'pila', 'skála', 'hala', 'lampa', 'mula', 'lopata', 'lopatka',
 ]);
@@ -75,4 +75,4 @@ export const PREFIX_SZ_WORDS = new Set([
 
 // Slovní tvary s koncovým -i/-y po d/t/n, které jsou pevné (ne volba podle vzoru).
 // Přidány i jednoznačné slovesné tvary 3. osoby (-dí/-tí/-ní): slovesná koncovka je vždy -í, nejde o volbu podle vzoru.
-export const FIXED_FORMS = new Set(['děti', 'ti', 'ty', 'ni', 'sedí', 'chodí', 'hodí', 'platí', 'hladí', 'honí', 'zvoní', 'voní', 'letí', 'sní', 'zní']);
+export const FIXED_FORMS = new Set(['děti', 'ti', 'ty', 'ni', 'sedí', 'chodí', 'hodí', 'platí', 'hladí', 'honí', 'zvoní', 'voní', 'letí', 'sní', 'zní', 'tati', 'řekni', 'čti', 'jdi', 'pojď']);

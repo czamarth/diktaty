@@ -1,0 +1,184 @@
+feature: orth.listed_words_s
+code: ls
+---
+# Syn
+Syn jede na kole.
+Syn nese sýr.
+Otec čeká doma.
+Syn je chytrý.
+
+# Sýr
+Sýr leží na stole.
+Sýr je dobrý.
+Máma krájí sýr.
+Sýr voní.
+
+# Sýkora
+Sýkora sedí na plotě.
+Sýkora je malá.
+Sýkora hledá jídlo.
+Ptáci čekají.
+
+# Sysel
+Sysel žije v díře.
+Sysel je chytrý.
+Sysel hledá zrno.
+Sysel běží domů.
+
+# Sýpka
+Sýpka stojí u lesa.
+Sýpka je velká.
+V sýpce je zrno.
+Rolník nese zrno do sýpky.
+
+# Sypat
+Chci sypat sůl.
+Máma chce sypat cukr.
+Táta může sypat zrno.
+Kuchař chce sypat mouku.
+
+# Usychat
+Tráva začne usychat.
+Květina začne usychat.
+Strom začne usychat.
+Lampa je stará.
+
+# Nasytit
+Chléb může nasytit dítě.
+Mléko může nasytit dítě.
+Maso může nasytit psa.
+Zahrada je tichá.
+
+# Syčet
+Husa může syčet.
+Had může syčet.
+Pára může syčet.
+Kluci čekají.
+Kočka je šedá.
+
+# Sirup
+Sirup je sladký.
+Sirup stojí na stole.
+Máma nese sirup.
+Sirup voní.
+
+# Sirka
+Sirka hoří.
+Sirka je krátká.
+Táta má sirku.
+Sirka leží u kamen.
+
+# Silná dívka
+Dívka je silná.
+Kráva je silná.
+Teta je silná.
+Ruka je malá.
+
+# Síla
+Síla je velká.
+Kůň má sílu.
+Slon má sílu.
+Sílu má i medvěd.
+
+# Sítě
+Rybář má sítě.
+Sítě jsou dlouhé.
+Rybář hledá sítě.
+Moře je široké.
+
+# Sídlo
+Sídlo je ve městě.
+Sídlo je velké.
+Sídlo je staré.
+Sídlo stojí u řeky.
+
+# Sito
+Sito leží u dveří.
+Sito je lehké.
+Máma má sito.
+Sito je staré.
+
+# Silnice
+Silnice je dlouhá.
+Silnice vede lesem.
+Auto jede po silnici.
+Silnice je tichá.
+
+# Sivá
+Kočka je sivá.
+Obloha je sivá.
+Husa je sivá.
+Jezero je hluboké.
+
+# Sypký
+Sníh je sypký.
+Cukr je sypký.
+Mouka je sypká.
+Sůl je sypká.
+
+# Sykat
+Had může sykat.
+Husa může sykat.
+Kočka může sykat.
+Pes štěká.
+Auto je velké.
+
+# Sychravo
+Venku je sychravo.
+Ráno je sychravo.
+Večer je sychravo.
+Děti jsou doma.
+
+# Syrová
+Mrkev je syrová.
+Řepa je syrová.
+Cibule je syrová.
+Brambor je těžký.
+
+# Sýček
+Sýček žije v lese.
+Sýček je chytrý.
+Sýček létá v noci.
+Sýček má velké oči.
+
+# Sirotek
+Sirotek je chytrý.
+Sirotek hledá dům.
+Sirotek běží domů.
+Hora je tichá.
+
+# Syn a síla
+Syn má sílu.
+Jablko je červené.
+Syn nese kámen.
+Kohout je chytrý.
+
+# Sýkora a sysel
+Sýkora a sysel žijí v lese.
+Sýkora je veselá.
+Třída je velká.
+Řeka je studená.
+
+# Silné ruce
+Kovář má silné ruce.
+Tesař má silné ruce.
+Rolník má silné ruce.
+Ruce jsou teplé.
+
+# Sirup a sýr
+Na stole je sirup.
+Na stole je sýr.
+Sirup je horký.
+Sýr je suchý.
+
+# Sídlo u silnice
+Sídlo stojí u silnice.
+Silnice vede k sídlu.
+Sídlo je tiché.
+Okno je malé.
+
+# Sychravé ráno
+Ráno je sychravé.
+Sychravé ráno je tiché.
+Noc je sychravá.
+Kluci jdou domů.

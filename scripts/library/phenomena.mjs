@@ -130,6 +130,11 @@ export function analyzeWord(orig, { sentenceFirst }) {
     const p = prev2.endsWith('ch') ? 'ch' : chars[i - 1];
     const isFinal = i === chars.length - 1;
     if (p === undefined) return; // slovo začíná samohláskou i/y (ihned, Iva)
+    // Pádová koncovka přídavného jména/zájmena (-ým, -ých, -ými): nejde o kmen, ale o koncovku.
+    if ((c === 'ý' || c === 'y') && !isFinal && i >= 3 && /^[ýy](?:ch|m|mi)$/u.test(chars.slice(i).join('')) && (AMBIGUOUS.has(p) || PALATAL_BASE.has(p))) {
+      need('ending', `Pádová koncovka -${chars.slice(i).join('')} vyžaduje označení`);
+      return;
+    }
     if (SOFT_LETTERS.has(p)) {
       if (isI) features.add(F.sc);
       else err('y_after_soft', `${p}${c} – výjimka (y po měkké souhlásce)`);
@@ -144,7 +149,7 @@ export function analyzeWord(orig, { sentenceFirst }) {
         features.add(LISTED_BY_LETTER[p]); // pevné funkční slovo (např. mezi): i/y po obojetné je stále rozhodnutí
       } else if (isFinal) {
         need('ending', `Koncové ${p}${c} po obojetné souhlásce vyžaduje označení`);
-      } else if (p === 'v' && i === 1 && !stemCovers(w, 'v', i)) {
+      } else if (p === 'v' && i === 1 && !isI && !stemCovers(w, 'v', i)) {
         err('prefix_vy', 'Předpona vy-/vý- není povolena (není v taxonomii)');
       } else {
         const covered = stemCovers(w, p, i);

@@ -97,7 +97,8 @@ function lengthLimits(grade) {
   if (grade <= 1) return { maxSentenceWords: 6, minWords: 6, maxWords: 22 };
   if (grade === 2) return { maxSentenceWords: 9, minWords: 9, maxWords: 36 };
   if (grade === 3) return { maxSentenceWords: 11, minWords: 10, maxWords: 48 };
-  if (grade <= 5) return { maxSentenceWords: 14, minWords: 16, maxWords: 70 };
+  if (grade === 4) return { maxSentenceWords: 14, minWords: 12, maxWords: 70 };
+  if (grade === 5) return { maxSentenceWords: 14, minWords: 14, maxWords: 70 };
   return { maxSentenceWords: 20, minWords: 18, maxWords: 100 };
 }
 
@@ -144,7 +145,7 @@ export function buildDictation({ block, index, meta, taxonomy }) {
     for (const a of r.auto) {
       let feature = a.feature;
       if (LETTER_LISTED.has(feature) && target === F.lr) feature = F.lr;
-      else if (LETTER_LISTED.has(feature) && !targetIsLetter) feature = F.lr;
+      else if (LETTER_LISTED.has(feature) && !targetIsLetter && grade >= 5) feature = F.lr;
       add({ sentence_index: si, start: a.start, end: a.end, span: a.span, feature });
     }
     // hranice vět: první slovo a závěrečná interpunkce

@@ -1,0 +1,181 @@
+feature: orth.listed_words_p
+code: lp
+---
+# Pytel
+Pytel leží u dveří.
+Pytel je těžký.
+Rolník nese pytel.
+Kočka je hodná.
+
+# Kopyta
+Kůň má čtyři kopyta.
+Kopyta jsou tvrdá.
+Kovář dává podkovu.
+Kopyto je lehké.
+
+# Netopýr
+Netopýr žije v lese.
+Netopýr létá v noci.
+Netopýr je tichý.
+Louka je suchá.
+
+# Slepýš
+Slepýš leze po trávě.
+Slepýš je chytrý.
+Kluk hledá slepýše.
+Most je dlouhý.
+
+# Pýcha
+Pýcha je velká.
+Král má pýchu.
+Pýcha je zlá.
+Rádio je staré.
+
+# Pysk
+Pes má pysk.
+Pysk je měkký.
+Kůň má pysk.
+Město je staré.
+
+# Pila
+Tesař má pilu.
+Pila je ostrá.
+Tesař řeže pilou.
+Letadlo je velké.
+
+# Pivo
+Pivo je v pivovaru.
+Pivovar je velký.
+Táta nese pivo.
+Léto je hezké.
+
+# Písek
+Na pláži je písek.
+Písek je suchý.
+Kluk hrabe písek.
+Léto je krátké.
+
+# Píseň
+Píseň je krásná.
+Dívka zná píseň.
+Dědeček hraje píseň.
+Cesta je úzká.
+
+# Písmo
+Písmo je malé.
+Písmo je hezké.
+Žák má hezké písmo.
+Rádio je tiché.
+
+# Pískat
+Kluk chce pískat.
+Dívka chce pískat.
+Táta chce pískat.
+Pole je žluté.
+
+# Pilot
+Pilot letí letadlem.
+Pilot je chytrý.
+Pilot má dlouhý kabát.
+Sad je tichý.
+
+# Pije
+Kluk pije čaj.
+Dívka pije mléko.
+Pes pije vodu.
+Město je hezké.
+
+# Pít
+Chci pít čaj.
+Dívka chce pít vodu.
+Táta chce pít kávu.
+Maso je čerstvé.
+
+# Pirát
+Pirát má loď.
+Loď je velká.
+Pirát hledá poklad.
+Pirát je chytrý.
+
+# Pilná
+Teta je pilná.
+Sestra je pilná.
+Máma je pilná.
+Kůň je chytrý.
+
+# Pihy
+Eva má pihy.
+Pihy jsou hezké.
+Pihy má také kluk.
+Ježek je chytrý.
+
+# Pivnice
+Pivnice je pod domem.
+Pivnice je tmavá.
+Táta nese pivo do pivnice.
+
+# Pilník
+Tesař má pilník.
+Pilník je ostrý.
+Tesař hledá pilník.
+Koláč je horký.
+
+# Pilka
+Pilka leží na stole.
+Pilka je tvrdá.
+Olga drží pilku.
+Mléko je studené.
+
+# Pytlák
+Pytlák žije v lese.
+Pytlák nese pytel.
+Pytlák je chytrý.
+Taška je lehká.
+
+# Klopýtat
+Anna může klopýtat.
+Táta může klopýtat.
+Kůň může klopýtat.
+Ruka je velká.
+
+# Pivovar
+Pivovar stojí u řeky.
+Pivovar je starý.
+Pivovar vaří pivo.
+Voda je hluboká.
+
+# Pípání
+Budík pípá.
+Telefon pípá.
+Auto pípá.
+Plot je dlouhý.
+Kopec je velký.
+
+# Netopýři
+Netopýři žijí v lese.
+Netopýři létají v noci.
+Netopýři jsou tiší.
+Noc je teplá.
+
+# Pyšná
+Dana je pyšná.
+Kočka je pyšná.
+Sestra je pyšná.
+Jablko je sladké.
+
+# Pytel a písek
+Pytel s pískem leží u plotu.
+Písek je mokrý.
+Pytel je velký.
+
+# Pilot a pirát
+Pilot a pirát jdou lesem.
+Pilot hledá mapu.
+Pirát nese mapu.
+Kočka je černá.
+
+# Kopyto
+Kopyto je tvrdé.
+Kopyto je černé.
+Kovář hledá kopyto.
+Stůl je těžký.

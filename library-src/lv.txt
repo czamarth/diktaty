@@ -1,0 +1,184 @@
+feature: orth.listed_words_v
+code: lv
+---
+# Vysoká hora
+Hora je vysoká.
+Strom je vysoký.
+Věž je vysoká.
+Polévka je teplá.
+
+# Vydra
+Vydra žije u řeky.
+Vydra plave rychle.
+Vydra je chytrá.
+Rybář hledá vydru.
+
+# Výr
+Výr žije v lese.
+Výr je velký.
+Výr létá v noci.
+Sad je hezký.
+
+# Výt
+Pes může výt.
+Vlk může výt.
+Kocour může výt.
+Moře je studené.
+
+# Vyje
+Vlk vyje v lese.
+Pes vyje na louce.
+Kocour vyje u dveří.
+Kachna je malá.
+
+# Zvyk
+Zvyk je dobrý.
+Dědeček má zvyk.
+Zvyk je starý.
+Zvyk bývá dlouhý.
+
+# Zvykat
+Pes se začne zvykat na dům.
+Kocour se začne zvykat na dům.
+Kluk se začne zvykat na školu.
+
+# Žvýkat
+Kráva může žvýkat.
+Kůň může žvýkat.
+Koza může žvýkat.
+Kůň je starý.
+
+# Povyk
+Venku je povyk.
+Povyk je velký.
+Děti dělají povyk.
+Povyk čeká.
+Kapr je velký.
+
+# Vykat
+Žák má vykat učitele.
+Dívka má vykat učitele.
+Kluk má vykat pána.
+Pán je chytrý.
+
+# Vítr
+Vítr fouká.
+Vítr je tichý.
+Vítr hučí v lese.
+Vítr nese prach.
+
+# Víno
+Víno je sladké.
+Víno stojí na stole.
+Táta nese víno.
+Víno voní.
+
+# Vichr
+Vichr hučí.
+Vichr fouká nad horou.
+Vichr hučí v lese.
+Vichr nese prach.
+
+# Vítěz
+Vítěz jede domů.
+Vítěz je chytrý.
+Vítěz má pohár.
+Vítěz se směje.
+
+# Vidle
+Vidle leží u dveří.
+Vidle jsou těžké.
+Rolník nese vidle.
+Vidle jsou staré.
+
+# Víčko
+Víčko leží na stole.
+Víčko je malé.
+Dívka hledá víčko.
+Víčko je kulaté.
+
+# Viset
+Obraz může viset.
+Lampa může viset.
+Šála může viset.
+Kabát je těžký.
+
+# Vila
+Vila stojí u lesa.
+Vila je velká.
+Ve vile je tma.
+Vila je tichá.
+
+# Víla
+Víla žije v lese.
+Víla je hodná.
+Víla nese lampu.
+Víla se směje.
+
+# Vichřice
+Venku je vichřice.
+Vichřice je velká.
+Vichřice hučí.
+Strom padá.
+Obloha je krásná.
+
+# Vysoko
+Pták letí vysoko.
+Orel letí vysoko.
+Letadlo letí vysoko.
+Hora je daleko.
+
+# Vysoké stromy
+Dub je vysoký.
+Buk je vysoký.
+Jasan je vysoký.
+Smrk je vysoký.
+
+# Zvyky
+Dědeček má dobré zvyky.
+Tesař má dobré zvyky.
+Pekař má dobré zvyky.
+Zvyky jsou staré.
+
+# Výr a vydra
+Výr létá nad řekou.
+Vydra plave v řece.
+Výr hledá vydru.
+Noc je krátká.
+
+# Víno a vítr
+Víno stojí u okna.
+Vítr fouká nad lesem.
+Víno je horké.
+Vítr hučí nad horou.
+
+# Víčko a vidle
+Víčko leží u okna.
+Vidle jsou u dveří.
+Víčko je lehké.
+Rolník hledá víčko.
+
+# Vítěz a pohár
+Vítěz drží pohár.
+Vítěz nese pohár domů.
+Vítěz mává rukou.
+Pohár je velký.
+
+# Vysoká věž
+Lípa je vysoká.
+Skála je vysoká.
+Zeď je vysoká.
+Zvon zvoní na vysoké věži.
+
+# Žvýkačka
+Kluk žvýká žvýkačku.
+Dívka žvýká chléb.
+Kráva žvýká trávu.
+Žvýkačka je sladká.
+
+# Povyk a vítr
+Vysoko letí výr.
+Výr je chytrý.
+Řeka je široká.
+Vydra plave.
+Slon je těžký.
