@@ -1,0 +1,182 @@
+feature: orth.listed_words_z
+code: lz
+---
+# Brzy do práce
+Pekař jde brzy do práce.
+Máma jde brzy domů.
+Táta jede brzy do města.
+Je brzy ráno.
+
+# Jazyk
+Kočka má jazyk.
+Dítě ukazuje jazyk.
+Jazyk je v puse.
+Pes má dlouhý jazyk.
+
+# Zima
+Zima je dlouhá.
+Zima je studená.
+Děti čekají na zimu.
+V zimě sněží.
+
+# Zítra
+Zítra jede táta do města.
+Zítra je pátek.
+Zítra je sobota.
+Zítra jdeme do lesa.
+
+# Zisk
+Pekař má zisk.
+Zisk je velký.
+Rolník má zisk.
+Zisk je dobrý.
+
+# Získat
+Kluk chce získat kolo.
+Dívka chce získat tašku.
+Soused chce získat zahradu.
+Zahrada je velká.
+
+# Nazývat
+Děti nazývají psa Alan.
+Děti nazývají kozu Dana.
+Děti nazývají koně Petr.
+Kůň je tichý.
+
+# Ozývá se
+Z lesa se ozývá zpěv.
+Z louky se ozývá zvon.
+Z věže se ozývá hlas.
+Voda je čerstvá.
+
+# Zimnice
+Dítě má zimnici.
+Zimnice je zlá.
+V zimě je zimnice častá.
+Lékař hledá lék.
+
+# Zima v lese
+V lese je zima.
+V lese leží sníh.
+V zimě je les tichý.
+Zima je krásná.
+
+# Brzy bude zima
+Brzy bude zima.
+Brzy bude sobota.
+Zítra bude zima.
+Kluci čekají doma.
+
+# Jazyk a zub
+Pes má zub a jazyk.
+Kočka má zub a jazyk.
+Lev má zub a jazyk.
+Tráva je zelená.
+
+# Zima a sníh
+Zima je tichá.
+V zimě padá sníh.
+Děti stojí venku.
+Zimu čeká celá rodina.
+
+# Zítra jedeme
+Zítra jedeme na hory.
+Zítra jedeme domů.
+Zítra je hezký den.
+Brzy je večer.
+
+# Zisk z prodeje
+Zisk z chleba je hezký.
+Zisk z mléka je velký.
+Obchod má zisk.
+Zisk roste.
+
+# Získat cenu
+Žák chce získat cenu.
+Dívka chce získat cenu.
+Kluk chce získat pohár.
+Cena je hezká.
+
+# Zítřek
+Zítřek bude hezký.
+Zítra jdeme ven.
+Zítřek čeká na děti.
+Děti jsou veselé.
+
+# Brzy domů
+Kluk jde brzy domů.
+Dívka jde brzy domů.
+Soused jde brzy domů.
+Škola je stará.
+
+# Jazykolam
+Jazykolam je těžký.
+Jazykolam je krátký.
+Žák zná jazykolam.
+Les je hluboký.
+
+# Ozývá se zvon
+Z věže se ozývá zvon.
+Z kopce se ozývá zpěv.
+Z lesa se ozývá hlas.
+Vlak je těžký.
+
+# Jazyk psa
+Pes ukazuje jazyk.
+Jazyk psa je dlouhý.
+Jazyk je dlouhý.
+Pes dýchá.
+
+# Zima na horách
+Na horách je zima.
+Na horách leží sníh.
+Zima na horách je dlouhá.
+Zima je tam tichá.
+
+# Brzy a pozdě
+Pekař vstává brzy.
+Brzy ráno je tma.
+Brzy večer je tma.
+Pozdě večer je klid.
+
+# Nazývá se
+Pes se nazývá Alan.
+Kočka se nazývá Eva.
+Kůň se nazývá Petr.
+Kráva se nazývá Dana.
+
+# Zima a zítra
+Zítra bude chladno.
+Zima bude dlouhá.
+Zítra bude sníh.
+Zima je tady.
+
+# Zisk a ztráta
+Kuchař má zisk.
+Soused má ztrátu.
+Ztráta je zlá.
+Kuchař chce získat zisk.
+
+# Husa a jazyk
+Husa má jazyk.
+Kráva má jazyk.
+Kůň má jazyk.
+Jaro je krásné.
+
+# Brzy bude léto
+Brzy bude léto.
+Brzy bude jaro.
+Brzy bude pátek.
+Brzy jedeme domů.
+
+# Ozývat se
+Zvon se může ozývat.
+Zpěv se může ozývat.
+Hlas se může ozývat.
+Noc je studená.
+
+# Zima a zisk
+V zimě je zisk nízký.
+V létě je zisk velký.
+Pekař získá zisk.
+Rolník získá zisk.
