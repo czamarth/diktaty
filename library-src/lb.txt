@@ -1,0 +1,160 @@
+feature: orth.listed_words_b
+code: lb
+---
+# Velký byt
+Táta má velký byt.
+V bytě je nábytek.
+Nábytek je starý.
+Máma nese bílou lampu.
+
+# Bystrý kluk
+Kluk je bystrý.
+Dívka je bystrá.
+Učitel má bílou křídu.
+
+# Býk
+Býk žije na farmě.
+Býk je velký.
+Rolník vede býka.
+
+# Kobyla
+Kobyla pase na louce.
+Kobyla je bílá.
+Hříbě běží za kobylou.
+
+# Bič
+Pastýř má bič.
+Bič je dlouhý.
+Pastýř pase býky.
+Býk stojí u plotu.
+
+# Bitva
+Bitva je u hradu.
+Rytíř bojuje.
+Bitva je velká.
+Bitva bývá dlouhá.
+
+# Bída
+Bída je velká.
+Rolník má bídu.
+Rolník bývá doma u lesa.
+
+# Bydlet
+Chci bydlet v bytě.
+Máma chce bydlet u lesa.
+Táta chce bydlet ve městě.
+Byt je velký.
+
+# Obyvatel domu
+Obyvatel domu je pekař.
+Pekař má obyčejnou pec.
+Pekař peče bílé housky.
+
+# Nábytek
+Nábytek je v pokoji.
+Nábytek je hezký.
+Táta nese nábytek.
+
+# Dobytek
+Dobytek pase na louce.
+Dobytek je na farmě.
+Býk je v dobytku.
+
+# Zbytek
+Zbytek chleba je na stole.
+Zbytek koláče je u okna.
+Pes hledá zbytek.
+Pes hlodá kost.
+
+# Pobyt
+Pobyt na farmě je hezký.
+Pobyt je krátký.
+Dívka má dlouhý pobyt.
+
+# Chci být
+Chci být pekař.
+Eva chce být kuchařka.
+Adam chce být rytíř.
+
+# Bývá
+Dědeček bývá doma.
+Táta bývá v lese.
+Máma bývá ve městě.
+
+# Bílá
+Zeď je bílá.
+Skříň je bílá.
+Kočka je bílá.
+Kluk nese tašku.
+
+# Bizon
+Bizon žije v zoo.
+Bizon je velký.
+Bizon má dlouhé rohy.
+
+# Biskup
+Biskup jede do města.
+Biskup má bílou šálu.
+Biskup čte knihu.
+
+# Bidlo
+Bidlo je dlouhé.
+Kohout sedí na bidle.
+Pod bidlem leží seno.
+
+# Kabina
+Kabina stojí u pláže.
+Kabina je bílá.
+V kabině je tma.
+
+# Obyčejná cesta
+Cesta je obyčejná.
+Louka je obyčejná.
+Voda je obyčejná.
+Pole je obyčejné.
+
+# Husa a labuť
+Husa je bílá.
+Labuť je bílá.
+Louka je bílá.
+Pes štěká na husu.
+
+# Býci
+Býci žijí na farmě.
+Býci jsou velcí.
+Pes štěká na býky.
+
+# Bílá křída
+Žák má bílou křídu.
+Křída je bílá.
+Učitel nese bílou křídu.
+
+# Byt v domě
+Byt je v domě.
+Sousedé mají velký byt.
+Byt je tichý.
+
+# Nábytek ze dřeva
+Tesař dělá nábytek.
+Nábytek je ze dřeva.
+Nábytek je lehký.
+
+# Bystré hříbě
+Hříbě je bystré.
+Hříbě skáče po louce.
+Kobyla je bystrá.
+
+# Býk a kobyla
+Býk a kobyla jsou na louce.
+Býk má dlouhé rohy.
+Kobyla má bílou hřívu.
+
+# Bydlení
+Pekař chce bydlet ve městě.
+Pekař má velký byt.
+Byt je v domě u pláže.
+
+# Obyvatel zoo
+Obyvatel zoo je bizon.
+Bizon je bystrý.
+Bizon má bílou skvrnu.

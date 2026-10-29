@@ -1,0 +1,152 @@
+feature: punct.enumeration
+code: vyc
+---
+# Nákup
+Máma kupuje chléb{, mléko}{, máslo} a koláč.
+Táta kupuje jablka{, hrušky}{, třešně} a švestky.
+Nákup je těžký.
+
+# Zvířata na farmě
+Na farmě žije kráva{, koza}{, ovce} a husa.
+Na farmě žije kachna{, kohout} a kůň.
+Farma je velká.
+
+# Barvy
+Louka je zelená{, žlutá} a červená.
+Střecha je hnědá{, šedá} a černá.
+Obloha je modrá{, šedá} a tmavá.
+
+# Ve třídě
+Ve škole je tabule{, mapa}{, globus} a skříň.
+V tašce je tužka{, guma} a penál.
+Žák má pero{, sešit} a knihu.
+
+# Dny v týdnu
+Škola je v úterý{, ve středu}{, ve čtvrtek} a v pátek.
+Děti mají volno v sobotu.
+Pátek je krátký.
+
+# Ovoce
+V sadu rostou jablka{, hrušky}{, švestky} a třešně.
+Kluk trhá jablka.
+Ovoce je sladké.
+
+# Zelenina
+Na zahradě roste mrkev{, řepa}{, cibule} a okurka.
+Rolník nese brambory.
+Zelenina je čerstvá.
+
+# V lese
+V lese roste dub{, buk}{, smrk} a jasan.
+Pod dubem leží mech.
+Les voní.
+
+# Polévka
+Máma vaří polévku z mrkve{, hrachu}{, cibule} a brambor.
+Polévka je horká.
+Dívka čeká u stolu.
+
+# Ptáci na stromě
+Na stromě sedí kos{, straka}{, vrána} a datel.
+Ptáci hledají jídlo.
+Ráno je tiché.
+
+# Pití
+Máma dává čaj{, džus}{, mléko} a vodu.
+Děti sedí u stolu.
+Stůl je dlouhý.
+
+# Oblečení
+Dívka nese šálu{, kabát}{, svetr} a šátek.
+Kluk nese batoh.
+Taška je těžká.
+
+# Počasí
+Venku sněží{, fouká}{, mrzne} a padá sníh.
+Děti běží domů.
+Doma je teplo.
+
+# Pokoj
+V pokoji je stůl{, židle}{, skříň} a postel.
+Pokoj je velký.
+Okno je u stolu.
+
+# Co je na stole
+Na stole je hrnek{, nůž}{, koš} a džbán.
+Máma dává koláč.
+Koláč voní.
+
+# Na cestě
+Na cestě jede auto{, traktor}{, kolo} a vůz.
+Řidič drží volant.
+Cesta je tichá.
+
+# Sport
+Děti běhají{, skáčou}{, šplhají} a plavou.
+Hřiště je velké.
+Děti jsou unavené.
+
+# Květiny na zahradě
+Na zahradě kvete růže{, mák}{, chrpa} a kopřiva.
+Zahrada voní.
+Včela bzučí.
+
+# V řece
+V řece plave ryba{, rak}{, kapr} a pstruh.
+Rybář sedí u břehu.
+Řeka je hluboká.
+
+# Kdy se vaří
+Máma vaří ráno{, v poledne}{, odpoledne} a večer.
+Táta pracuje.
+Děti čekají doma.
+
+# Tělo
+Dítě má hlavu{, ruce}{, nohy} a břicho.
+Tělo je zdravé.
+Dítě skáče.
+
+# Nářadí
+Tesař má sekeru{, nůž}{, lano} a bednu.
+Tesař hledá dřevo.
+Dřevo je těžké.
+
+# V zoo
+V zoo žije slon{, lev}{, tygr} a žirafa.
+Kluci hledají žirafu.
+Zoo je velká.
+
+# Oběd
+Kuchař vaří rýži{, maso}{, fazole} a čočku.
+Oběd voní.
+Kuchař se směje.
+
+# Hory
+Hory jsou velké{, tiché}{, krásné} a studené.
+Orel letí nad horou.
+Kluci jdou na hory.
+
+# Veselá dívka
+Dívka je veselá{, hodná}{, chytrá} a šikovná.
+Anna se směje.
+Učitel se směje.
+
+# Chytrý kluk
+Kluk je chytrý{, hezký}{, dobrý} a tichý.
+Kluk čte knihu.
+Kniha je tlustá.
+
+# Sníh venku
+Sníh je lehký{, měkký}{, tichý} a mokrý.
+Kluci dělají sněhuláka.
+Venku je hezky.
+
+# Pekařovo pečivo
+Pekař peče chléb{, koláče}{, housky} a vánočku.
+Řezník krájí maso.
+Kuchař vaří polévku.
+
+# Hračky
+Dívka má panenku{, medvěda}{, loutku} a autíčko.
+Kluk má kolo.
+Hračky jsou nové.

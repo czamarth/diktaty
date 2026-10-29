@@ -1,0 +1,161 @@
+feature: orth.listed_words_m
+code: lm
+---
+# Myš
+Myš žije v domě.
+Myš je malá.
+Kočka hledá myš.
+Myš běží pod stůl.
+
+# Myška
+Myška hledá chléb.
+Myška je šedá.
+Kocour hledá myšku.
+Myška leze do díry.
+
+# Mýdlo
+Mýdlo leží na stole.
+Mýdlo voní.
+Máma má mýdlo.
+Okno je čisté.
+
+# Umýt
+Chci umýt psa.
+Táta chce umýt auto.
+Máma chce umýt okno.
+
+# Myje
+Anna myje podlahu.
+Petr myje auto.
+Dana myje okno.
+Kočka čeká u okna.
+
+# Myslet
+Žák se učí myslet.
+Dívka se učí myslet.
+Mysl je chytrá.
+
+# Hmyz
+Hmyz bzučí nad loukou.
+Hmyz je tichý.
+Pták hledá hmyz.
+Ježek hledá hmyz.
+
+# Umývadlo
+Umývadlo je v koupelně.
+Umývadlo je čisté.
+Petr myje umývadlo.
+
+# Smích
+Smích zní v sále.
+Smích je hezký.
+Smích je tichý.
+
+# Míč
+Míč leží na louce.
+Míč je lehký.
+Kluk hledá míč.
+Míč je u plotu.
+
+# Mísa
+Mísa stojí na stole.
+Mísa je velká.
+Máma nese mísu.
+
+# Miska
+Pes má misku.
+Miska je u dveří.
+Miska je prázdná.
+
+# Minuta
+Minuta je krátká.
+Vlak jede za minutu.
+Dívka čeká minutu.
+
+# Mince
+Kluk má minci.
+Mince je v kapse.
+Mince je lehká.
+
+# Komín
+Komín stojí nad domem.
+Z komína jde dým.
+Komín je dlouhý.
+
+# Milan
+Milan jede na kole.
+Milan nese míč.
+Milan čeká u lesa.
+
+# Miloš
+Miloš čte knihu.
+Miloš jde do lesa.
+Miloš je chytrý.
+
+# Michal
+Michal hraje na kytaru.
+Michal má kytaru.
+Michal sedí u stolu.
+
+# Milá teta
+Dívka je milá.
+Teta je milá.
+Sestra je milá.
+Louka je zelená.
+
+# Mimo
+Auto jede mimo město.
+Kluk jde mimo cestu.
+Vlak jede mimo les.
+
+# Mír
+Venku je mír.
+V lese je mír.
+Na louce je mír.
+
+# My
+My jdeme do lesa.
+My hledáme dřevo.
+My jdeme domů.
+
+# Mi
+Máma mi dává chléb.
+Táta mi dává mléko.
+Teta mi dává koláč.
+
+# Umývá
+Anna umývá okno.
+Petr umývá auto.
+Dana umývá podlahu.
+Voda je teplá.
+
+# Zamyká
+Táta zamyká dveře.
+Máma zamyká dům.
+Dědeček zamyká sklep.
+Noc je tmavá.
+
+# Mýtina
+Mýtina je v lese.
+Na mýtině roste tráva.
+Na mýtině sedí ježek.
+
+# Myši
+Myši žijí v domě.
+Myši hledají chléb.
+Kocour čeká na myši.
+
+# Komín a míč
+Míč letí nad komín.
+Komín je nízký.
+Soused hledá míč.
+
+# Misky
+Misky stojí na stole.
+Misky jsou prázdné.
+Máma nese misky.
+
+# Mince a míč
+Jan má minci a míč.
+Mince je malá.
+Míč je velký.

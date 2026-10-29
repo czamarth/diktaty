@@ -1,0 +1,166 @@
+feature: orth.listed_words_l
+code: ll
+---
+# Mlýn
+Mlýn stojí u řeky.
+Mlýn je starý.
+Mlynář nese zrno.
+
+# Plyn
+Máma vaří na plynu.
+Plyn hoří.
+Táta hlídá plyn.
+Kuchyň je teplá.
+
+# Lyže
+Kluk má lyže.
+Lyže jsou nové.
+Dívka má lyže.
+Lyžař jede z kopce.
+
+# Slyší
+Pes slyší zvon.
+Kluk slyší psa.
+Dívka slyší zpěv.
+Louka je tichá.
+
+# Blýská se
+Venku se blýská.
+Pes se bojí.
+Kluk slyší hrom.
+Dívka slyší déšť.
+
+# Polykání
+Pes polyká kost.
+Pes čeká na kost.
+Kluk polyká chléb.
+Dívka nepolyká.
+
+# Lysá hlava
+Hlava je lysá.
+Dědeček má lysou hlavu.
+Pán má lysou hlavu.
+
+# Lis
+Lis stojí v dílně.
+Lis je těžký.
+Kovář má lis.
+Lis je starý.
+
+# List
+List leží na stole.
+List je dlouhý.
+Dívka nese list.
+Kluk hledá list.
+
+# Liška
+Liška žije v lese.
+Liška je chytrá.
+Liška hledá jídlo.
+
+# Lípa
+Lípa roste u plotu.
+Lípa kvete.
+Včela sedí na lípě.
+
+# Litr
+Máma nese litr mléka.
+Litr je těžký.
+Táta nese dva litry.
+Jan nese litr.
+
+# Lidé
+Lidé jdou do města.
+Lidé čekají u divadla.
+Lidé se smějí.
+
+# Klid
+Venku je klid.
+Klid je v lese.
+Eva má ráda klid.
+
+# Klíč
+Klíč leží u dveří.
+Klíč je lehký.
+Táta hledá klíč.
+Klíč je u okna.
+
+# Klika
+Klika je u dveří.
+Klika je studená.
+Olga drží kliku.
+
+# Hlídat
+Pes má hlídat dům.
+Petr má hlídat psa.
+Anna má hlídat dům.
+
+# Slib
+Táta dává slib.
+Slib je velký.
+Dana dává slib.
+Karel kývá hlavou.
+
+# Slíva
+Slíva roste na stromě.
+Slíva je sladká.
+Máma jí slívu.
+
+# Malina
+Malina roste v lese.
+Malina je červená.
+Lenka hledá malinu.
+
+# Malíř
+Malíř maluje obraz.
+Malíř má štětec.
+Obraz je velký.
+Tereza čeká na malíře.
+
+# Balík
+Balík leží u dveří.
+Balík je těžký.
+Táta nese balík.
+
+# Plíce
+Člověk má plíce.
+Plíce jsou v těle.
+Plíce dýchají.
+Dítě má zdravé plíce.
+
+# Lyžař
+Lyžař jede po svahu.
+Lyžař má lyže.
+Lyžař je chytrý.
+
+# Limonáda
+Marek má limonádu.
+Limonáda je sladká.
+Hana čeká na limonádu.
+
+# Řeka plyne
+Řeka plyne lesem.
+Voda plyne pomalu.
+Čas plyne rychle.
+Pole je suché.
+
+# Mlýnek
+Mlýnek mele zrno.
+Mlýnek je lehký.
+Máma má mlýnek.
+Mlýnek stojí u okna.
+
+# Klín
+Kočka leží v klíně.
+Alena má kočku v klíně.
+Kočka má ráda klín.
+
+# Slyšet zvon
+Radek chce slyšet zvon.
+Nela chce slyšet zpěv.
+Dědeček chce slyšet rádio.
+
+# Klid a plyn
+Plyn je v domě.
+Klid je v domě.
+Máma hlídá plyn.

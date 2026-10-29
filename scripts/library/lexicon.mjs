@@ -41,7 +41,7 @@ export const SPECIAL = new Map([
 // --- Vyjmenovaná slova a příbuzná: kmeny s y/ý (podřetězce slov). Ne-vyjmenovaná slova s i/í po stejné
 //     souhlásce se pozná tím, že žádný kmen nepokrývá dané místo. ---------------------------------------------
 export const LIST_STEMS = {
-  b: ['být', 'byt', 'byl', 'bydl', 'byst', 'býk', 'bylin', 'obyv', 'obyč', 'nábytek', 'dobytek', 'kobyl', 'bývat', 'zbýt', 'pobýt', 'přebýt', 'zbyt', 'pobyt', 'Bydžov', 'bydž', 'býv', 'nabýt'],
+  b: ['být', 'byt', 'byl', 'bydl', 'byst', 'býk', 'býc', 'bylin', 'obyv', 'obyč', 'nábytek', 'dobytek', 'kobyl', 'bývat', 'zbýt', 'pobýt', 'přebýt', 'zbyt', 'pobyt', 'Bydžov', 'bydž', 'býv', 'nabýt'],
   l: ['slyš', 'slyc', 'mlýn', 'mlyn', 'blýsk', 'blysk', 'blyšt', 'polyk', 'polýk', 'plyn', 'plýt', 'plyt', 'vzlyk', 'lyž', 'lys', 'lýk', 'lyk', 'slyn', 'plyš', 'blýsk'],
   m: ['myš', 'myl', 'mýl', 'myt', 'mýt', 'mysl', 'mýd', 'hmyz', 'hymn', 'mykat', 'mýkat', 'myč', 'chmýř', 'myj', 'umýv', 'umyv', 'smýk', 'smyk', 'zamyk', 'odemyk', 'mýtin'],
   p: ['pyt', 'pýcha', 'pých', 'pyš', 'pysk', 'pyl', 'kopyt', 'klopýt', 'netopýr', 'slepýš', 'třpyt', 'třepyt', 'čepýř', 'pýř', 'pykat', 'pýr'],
@@ -59,7 +59,7 @@ export const NOT_VERB = new Set([
   'stůl', 'úl', 'sůl', 'kůl', 'hůl', 'kolo', 'škola', 'sklo', 'mýdlo', 'světlo', 'křídlo', 'peklo', 'zrcadlo', 'dělo', 'zlo',
   'hotel', 'pytel', 'anděl', 'orel', 'osel', 'kotel', 'uzel', 'kostel', 'ocel', 'karel', 'pavel', 'michal', 'emil',
   'sál', 'val', 'dílo', 'pól', 'čelo', 'tělo', 'hala', 'skála', 'pila', 'vila', 'víla', 'kapela', 'nula', 'cela', 'koala',
-  'málo', 'polo', 'ohnivo', 'divadlo', 'divadla', 'cíl', 'žíla', 'cihla', 'cihel', 'žížala', 'tykadlo', 'jídlo', 'kyvadlo', 'úhel', 'půl', 'úkol', 'máslo', 'letadlo', 'tunel', 'včela', 'učitel', 'učitelka', 'tabula', 'hrnek', 'sokol', 'datel', 'pastel',
+  'málo', 'polo', 'ohnivo', 'divadlo', 'divadla', 'cíl', 'penál', 'teplo', 'postel', 'umývadlo', 'mysl', 'obyvatel', 'kobyla', 'bidlo', 'žíla', 'cihla', 'cihel', 'žížala', 'tykadlo', 'jídlo', 'kyvadlo', 'úhel', 'půl', 'úkol', 'máslo', 'letadlo', 'tunel', 'včela', 'učitel', 'učitelka', 'tabula', 'hrnek', 'sokol', 'datel', 'pastel',
   'slavík', 'zámek', 'kabela', 'kapela', 'žárovka', 'tužka', 'pohár', 'oltář', 'ostrov', 'kmotřenec', 'šála', 'aula',
   'kuchyňka', 'stodola', 'kopule', 'kulka', 'bota', 'pila', 'skála', 'hala', 'lampa', 'mula', 'lopata', 'lopatka',
 ]);
