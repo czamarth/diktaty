@@ -95,7 +95,7 @@ export function parseMarkedSentence(marked) {
 // --- pravidla délky -----------------------------------------------------------------------------------
 function lengthLimits(grade) {
   if (grade <= 1) return { maxSentenceWords: 6, minWords: 6, maxWords: 22 };
-  if (grade === 2) return { maxSentenceWords: 9, minWords: 10, maxWords: 36 };
+  if (grade === 2) return { maxSentenceWords: 9, minWords: 9, maxWords: 36 };
   if (grade === 3) return { maxSentenceWords: 11, minWords: 12, maxWords: 48 };
   if (grade <= 5) return { maxSentenceWords: 14, minWords: 16, maxWords: 70 };
   return { maxSentenceWords: 20, minWords: 18, maxWords: 100 };

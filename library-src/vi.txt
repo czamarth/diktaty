@@ -1,0 +1,159 @@
+feature: orth.voicing_internal
+code: vi
+---
+# Pohádka
+Máma čte pohádku.
+Pohádka je krásná.
+Děti poslouchají pohádku.
+Dědeček má knížku.
+
+# Tužka
+Tužka leží na stole.
+Tužka je lehká.
+Dívka má novou tužku.
+Kluk hledá tužku.
+
+# Kresba
+Kresba je hezká.
+Kresba je u okna.
+Dívka dělá kresbu.
+Učitel ukazuje kresbu.
+
+# Zkouška
+Dnes je zkouška.
+Zkouška je lehká.
+Žák má zkoušku.
+Zkouška je v pátek.
+
+# Obchod
+Obchod je ve městě.
+V obchodě je chléb.
+Obchod je velký.
+Máma jde do obchodu.
+
+# Sladký čaj
+Čaj je sladký.
+Dort je sladký.
+Led je hladký.
+
+# Svatba
+Dnes je svatba.
+Svatba je v lese.
+Na svatbě hraje sbor.
+Hosté tleskají.
+
+# Stezka
+Stezka vede lesem.
+Stezka je úzká.
+Chodci jdou po stezce.
+
+# Nůžky
+Nůžky leží na stole.
+Nůžky jsou ostré.
+Dívka drží nůžky.
+
+# Ježci
+Ježci žijí v lese.
+Ježci hledají jídlo.
+Stezka je tichá.
+
+# Podkova
+Kůň má podkovu.
+Podkova je těžká.
+Podkova leží u stáje.
+Kovář nese podkovu.
+
+# Kozka
+Kozka je malá.
+Kozka jde po louce.
+Pastýř hladí kozku.
+
+# Loďka
+Loďka plave po řece.
+Rybář sedí v loďce.
+Loďka je lehká.
+
+# Knížka
+Knížka leží na stole.
+Knížka je tenká.
+Dívka čte knížku.
+
+# Zahrádka
+Zahrádka je za domem.
+Zahrádka je malá.
+Soused kope v zahrádce.
+
+# Hrudka
+Hrudka leží na cestě.
+Hrudka je těžká.
+Traktor jede přes hrudku.
+
+# Bradka
+Dědeček má bradku.
+Bradka je hezká.
+Pán má dlouhou bradku.
+
+# Nízký plot
+Plot je nízký.
+Stůl je nízký.
+Dům je nízký.
+
+# Těžký kámen
+Kámen je těžký.
+Batoh je těžký.
+Kámen je těžší než dřevo.
+
+# Lehké péro
+Péro je lehké.
+Dřevo je lehčí než kámen.
+Dívka nese lehké vědro.
+
+# Hezké ráno
+Ráno je hezké.
+Louka je hezká.
+Zahrada je hezká.
+
+# Slabší
+Dívka je slabší.
+Chlapec je těžší.
+Pes je lehčí.
+
+# Nižší a hlubší
+Plot je nižší.
+Rybník je hlubší.
+Studna je hlubší.
+
+# Dražší
+Chléb je dražší.
+Med je dražší.
+Dort je lehčí.
+
+# Prosba
+Kluk má prosbu.
+Prosba je malá.
+Dívka má prosbu.
+
+# Ztráta
+Ztráta je velká.
+Rolník má ztrátu.
+Ztráta je těžká.
+
+# Sbor
+Sbor hraje v sále.
+Sbor je velký.
+Sbor čeká.
+
+# Otázka
+Žák má otázku.
+Otázka je lehká.
+Učitel zná otázku.
+
+# Zpěv
+Venku je zpěv.
+Zpěv je hezký.
+Zpěv je tichý.
+
+# Vrabci
+Vrabci sedí na plotě.
+Vrabci hledají chléb.
+Chodci jdou lesem.

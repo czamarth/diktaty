@@ -1,0 +1,166 @@
+feature: orth.voicing_final
+code: vf
+---
+# Dub
+Dub roste u plotu.
+Sníh leží pod dubem.
+Na louce je led.
+Rolník nese chléb.
+
+# Zub
+Lev má dlouhý zub.
+Medvěd má dlouhý zub.
+Medvěd hledá med.
+Med je sladký.
+
+# Hrad
+Hrad stojí na kopci.
+Kolem hradu je sad.
+Sad je velký.
+Rytíř jede k hradu.
+
+# Vůz a nůž
+Vůz táhne kůň.
+Nůž leží na stole.
+Kříž stojí u lesa.
+Rolník nese nůž.
+
+# Mráz
+Venku je mráz.
+Mráz je velký.
+Na okně je led.
+Sníh padá na dvůr.
+
+# Chléb
+Pekař dává chléb.
+Chléb je horký.
+Máma krájí chléb.
+Chléb je sladký.
+
+# Pstruh
+V potoce plave pstruh.
+Rybář hledá pstruha.
+Pstruh je chytrý.
+Břeh je tichý.
+
+# Břeh
+Řeka má dlouhý břeh.
+Břeh je hezký.
+Na břehu sedí rybář.
+Rybář má chléb.
+
+# Lev
+Lev žije v zoo.
+Lev má hlad.
+Kuchař nese maso.
+Lev je velký.
+
+# Dav
+Dav jde k hradu.
+Dav křičí.
+Dav se směje.
+
+# Hrob
+Hrob je u lesa.
+Hrob je tichý.
+Na hrobě stojí kříž.
+
+# Sad
+Sad je za domem.
+V sadu roste dub.
+Pod dubem leží plod.
+
+# Led
+Na rybníku je led.
+Led je tenký.
+Kluci jdou na led.
+Led praská.
+
+# Med
+Včela dává med.
+Med je dobrý.
+Dědeček má rád med.
+
+# Had
+Had leze po trávě.
+Had má dlouhý ocas.
+Had je tichý.
+
+# Obraz
+Obraz je u okna.
+Obraz je dlouhý.
+Dívka má obraz.
+Obraz je hezký.
+
+# Pláž
+Pláž je u moře.
+Pláž je dlouhá.
+Kluci jdou na pláž.
+
+# Klub
+Klub je ve městě.
+Klub je tichý.
+V klubu je pán.
+Klub čeká.
+
+# Sud
+Sud stojí u domu.
+Sud je těžký.
+Rolník nese sud.
+
+# Kov
+Kov je těžký.
+Kov je horký.
+Tesař hledá kov.
+
+# Rez
+Rez je na plotě.
+Rez je na kovu.
+Rez je hnědá.
+
+# Jakub
+Jakub jede na kole.
+Jakub nese chléb.
+Jakub má hlad.
+
+# Plod
+Plod roste na stromě.
+Plod je sladký.
+Plod padá na zem.
+Pes hledá plod.
+
+# Kříž
+Kříž stojí na kopci.
+Kříž je starý.
+Pod křížem leží sníh.
+
+# Dluh
+Dluh je velký.
+Rolník má dluh.
+Dluh je těžký.
+
+# Padá sníh
+Venku padá sníh.
+Sníh je lehký.
+Sníh je mokrý.
+
+# Nůž
+Nůž je dlouhý.
+Kuchař má nůž.
+Nůž leží u okna.
+
+# Hlad
+Pes má hlad.
+Kocour má hlad.
+Hlad je velký.
+Máma nese maso.
+
+# Vůz
+Vůz jede lesem.
+Vůz je těžký.
+Rolník táhne vůz.
+
+# Chléb a med
+Máma bere chléb.
+Táta bere med.
+Chléb a med jsou dobré.

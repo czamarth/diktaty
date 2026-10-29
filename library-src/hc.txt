@@ -1,0 +1,175 @@
+feature: orth.hard_consonants_basic
+code: hc
+---
+# Rys v horách
+Hory jsou velké.
+V horách žije rys.
+Rys je chytrý.
+Rys má dlouhé nohy.
+
+# Ryba v rybníku
+Ryba plave v rybníku.
+Ryba je chytrá.
+Rybář chytá rybu.
+Kluk hledá rybu.
+
+# Ruce a nohy
+Kluk má dvě ruky.
+Kluk má dvě nohy.
+Pes má čtyři nohy.
+Pes dýchá rychle.
+
+# Chyba
+Žák dělá chybu.
+Chyba je malá.
+Učitel ukazuje chybu.
+Žák se směje.
+
+# Kytara
+Kytara je u okna.
+Táta hraje na kytaru.
+Kytara je stará.
+Dívka má kytku.
+
+# Dým
+Dým jde z kamen.
+Dým je horký.
+Kluci kašlou.
+Pes štěká na louce.
+
+# Rýže
+Rýže je v hrnci.
+Máma vaří rýži.
+Rýže je dobrá.
+
+# Hýbání
+Dívka hýbe rukou.
+Chlapec hýbe nohou.
+Děda se nehýbe.
+Děda dýchá.
+
+# Tykev
+Tykev roste na zahradě.
+Tykev je velká.
+Rolník hledá tykev.
+
+# Rytíř
+Rytíř jede lesem.
+Rytíř má dlouhý meč.
+Rytíř je chytrý.
+Rytíř hledá hrad.
+
+# Mouchy
+Mouchy bzučí nad stolem.
+Moucha sedí na chlebu.
+Kluk chytá mouchy.
+Kocour chytá mouchu.
+
+# Velká kuchyň
+Kuchyň je velká.
+Kuchař má dlouhý nůž.
+Nůž je ostrý.
+Kuchař dýchá rychle.
+
+# Brambory
+Brambory rostou na zahradě.
+Rolník kope brambory.
+Brambory jsou těžké.
+Žáci nesou brambory.
+
+# Rohy
+Kráva má rohy.
+Kůň nemá rohy.
+Jelen má dlouhé rohy.
+
+# Hluboký rybník
+Rybník je hluboký.
+Rybník je tichý.
+Ryba plave v hluboké vodě.
+
+# Tichý les
+Les je starý.
+Hory jsou tiché.
+Dým stoupá nad lesem.
+
+# Kyj
+Rytíř má kyj.
+Kyj je těžký.
+Kyj leží u dveří.
+Kluk hýbe kyjem.
+
+# Rys
+Rys žije v lese.
+Rys je velký.
+Rys běží lesem.
+Rys má dlouhý ocas.
+
+# Starý děda
+Starý děda hledá hůl.
+Děda je chytrý.
+Hůl je dlouhá.
+Děda dýchá pomalu.
+
+# Hezký den
+Den je hezký.
+Hory jsou hezké.
+Žáci jdou na hory.
+Pes šplhá na kopec.
+
+# Sladký koláč
+Koláč je sladký.
+Rýže je sladká.
+Káva je horká.
+Čaj je horký.
+
+# Kytka
+Kytka je u okna.
+Máma má kytku.
+Kytka voní.
+Kytka je krásná.
+
+# Krátký prut
+Cesta je krátká.
+Tyč je krátká.
+Rybář má krátký prut.
+
+# Dobrý kuchař
+Kuchař je dobrý.
+Kuchař peče chléb.
+Kuchař kývá hlavou.
+Chléb je dobrý.
+
+# Chytrý pes
+Pes je chytrý.
+Pes dýchá pomalu.
+Kluk hladí chytrého psa.
+
+# Tyčka
+Tyčka je tenká.
+Dívka drží tyčku.
+Tyčka je dlouhá.
+Tyčka leží na stole.
+
+# Rychle
+Vlak jede rychle.
+Rychle jede autobus.
+Rychle běží pes.
+Vlak stojí u lesa.
+
+# Kýchání
+Kluk kýchá.
+Dívka kýchá.
+Pes kýchá tiše.
+Děda kývá hlavou.
+
+# Dvory
+Dvory jsou tiché.
+Hory jsou tmavé.
+Rolník hledá brambory.
+Noc je tichá.
+
+# Kyselé jablko
+Jablko je kyselé.
+Chlapec kýchá.
+Dívka dýchá pomalu.
+Jablko leží na stole.
