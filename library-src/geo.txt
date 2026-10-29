@@ -1,0 +1,200 @@
+feature: orth.proper_names_geographic
+code: geo
+---
+# Zeměpisná jména 1
+Karel jde do {Blanska}.
+{Krkonoše} jsou pohoří v {Čechách}.
+Tereza pracuje v {Berouně}.
+Pavel běží k lesu.
+Pavel drží vědro.
+
+# Zeměpisná jména 2
+Marta letí do {Polska}.
+{Říp} je hora v {Čechách}.
+{Blansko} je město na {Moravě}.
+Pavel sedí u řeky.
+
+# Zeměpisná jména 3
+Lenka žije v {Praze}.
+Řeka {Odra} teče v {Polsku}.
+Řeka {Morava} teče na {Moravě}.
+Adam sedí u řeky.
+
+# Zeměpisná jména 4
+Řeka {Ohře} teče v {Čechách}.
+Roman spěchá do {Prostějova}.
+Vojta je v {Kroměříži}.
+Roman jede do města.
+Ota maluje obraz.
+
+# Zeměpisná jména 5
+Olga cestuje do {Německa}.
+Vojta cestuje do {Slovenska}.
+Pavel spěchá do {Brna}.
+Ota běží domů.
+Jan hraje na louce.
+
+# Zeměpisná jména 6
+Nela žije v {Praze}.
+{Česko} je země v {Evropě}.
+Hana jde z {Mostu} do {Prostějova}.
+Pavel hladí kočku.
+
+# Zeměpisná jména 7
+{Prostějov} je krásné město na {Moravě}.
+Tereza jde na {Říp}.
+{Německo} je země v {Evropě}.
+Marek volá psa.
+
+# Zeměpisná jména 8
+{Znojmo} leží na {Moravě}.
+Hana cestuje do {Blanska}.
+Lenka letí do {Španělska}.
+Marek zná cestu.
+Alan běží k lesu.
+
+# Zeměpisná jména 9
+Petr cestuje z {Plzně} do {Jičína}.
+{Pardubice} je velké město v {Čechách}.
+Radek cestuje z {Znojma} do {Pardubic}.
+
+# Zeměpisná jména 10
+Lara cestuje do {Sokolova}.
+Olga žije v {Kolíně}.
+{Sněžka} je hora v {Krkonoších}.
+Anna nese mléko.
+Petr nese mléko.
+
+# Zeměpisná jména 11
+Petr jede do {Tábora}.
+{Španělsko} je země v {Evropě}.
+{Rakousko} je země v {Evropě}.
+Adam sedí u okna.
+
+# Zeměpisná jména 12
+Ota jede na {Sněžku}.
+Hana jde do {Hodonína}.
+Alena jede do {Berouna}.
+Roman čeká na mámu.
+Lenka jede do města.
+
+# Zeměpisná jména 13
+Pavel studuje v {Písku}.
+Alena je v {Jičíně}.
+Olga spěchá z {Prostějova} do {Plzně}.
+Jan hladí kočku.
+Nela zná cestu.
+
+# Zeměpisná jména 14
+Karel jde z {Prahy} do {Kolína}.
+Alena jde z {Prostějova} do {Zlína}.
+Olga pracuje v {Hodoníně}.
+Ota hraje na louce.
+
+# Zeměpisná jména 15
+Jan je v {Lounech}.
+Adam jede do {Rakouska}.
+Ota studuje v {Hodoníně}.
+Petr sleduje ptáka.
+Vojta nese kabát.
+
+# Zeměpisná jména 16
+Karel letí do {Německa}.
+Petr jde na {Sněžku}.
+Olga jde na {Krkonoše}.
+Nela vede koně.
+Radek nese vědro.
+
+# Zeměpisná jména 17
+Adam jede na {Sněžku}.
+Pavel jede z {Sokolova} do {Tábora}.
+{Polsko} je země v {Evropě}.
+Vojta kope zahradu.
+
+# Zeměpisná jména 18
+Anna stoupá na {Jeseníky}.
+{Kroměříž} leží na {Moravě}.
+Radek stoupá na {Krkonoše}.
+Marta vede koně.
+Ema sedí u okna.
+
+# Zeměpisná jména 19
+Karel studuje v {Blansku}.
+Jan pracuje v {Táboře}.
+Karel cestuje z {Hodonína} do {Plzně}.
+Tereza nese koš.
+Olga jede na kole.
+
+# Zeměpisná jména 20
+Vojta jede do {Slovenska}.
+Radek stoupá na {Šumavu}.
+Řeka {Dyje} teče na {Moravě}.
+Marek hledá ježka.
+Ema drží psa.
+
+# Zeměpisná jména 21
+Dana žije v {Kladně}.
+Eva jede z {Olomouce} do {Loun}.
+Nela cestuje z {Brna} do {Plzně}.
+Nela seká dřevo.
+
+# Zeměpisná jména 22
+Vojta letí do {Rakouska}.
+Lenka je v {Olomouci}.
+Eva spěchá z {Písku} do {Třebíče}.
+Eva nese koš.
+Radek krájí chléb.
+
+# Zeměpisná jména 23
+Lara spěchá z {Zlína} do {Prostějova}.
+Pavel letí do {Polska}.
+Lenka letí do {Polska}.
+Ema volá psa.
+Jan běží domů.
+
+# Zeměpisná jména 24
+Lara stoupá na {Krkonoše}.
+{Olomouc} je krásné město na {Moravě}.
+Radek zůstane v {Přerově}.
+Dana jde za psem.
+
+# Zeměpisná jména 25
+Jan spěchá do {Berouna}.
+Marta spěchá z {Kolína} do {Přerova}.
+Radek spěchá z {Pardubic} do {Blanska}.
+Lenka sedí u řeky.
+
+# Zeměpisná jména 26
+{Jeseníky} jsou pohoří na {Moravě}.
+Eva letí do {Polska}.
+Řeka {Dunaj} teče v {Rakousku}.
+Ivo nese tašku.
+Vojta volá psa.
+
+# Zeměpisná jména 27
+Lenka stoupá na {Krkonoše}.
+Adam letí do {Polska}.
+{Slovensko} je země v {Evropě}.
+Roman zná řeku.
+Karel kope jámu.
+
+# Zeměpisná jména 28
+Adam pracuje v {Chebu}.
+Vojta stoupá na {Sněžku}.
+Adam stoupá na {Říp}.
+Marta zná řeku.
+Olga nese tašku.
+
+# Zeměpisná jména 29
+Anna pracuje v {Znojmě}.
+Dana stoupá na {Krkonoše}.
+Nela zůstane v {Třebíči}.
+Jan jde do lesa.
+Tereza běží domů.
+
+# Zeměpisná jména 30
+Alena studuje v {Hodoníně}.
+Ota zůstane v {Kolíně}.
+Jan žije v {Pardubicích}.
+Radek běží k lesu.
+Lenka nese vědro.
