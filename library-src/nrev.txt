@@ -1,0 +1,188 @@
+feature: orth.noun_endings_review
+code: nrev
+---
+# Koncovky podstatných jmen 1
+Čerstvé {okurky} jsou na stole.
+Roman sleduje {mosty}.
+{Rolníci} jdou domů.
+Těžké {poháry} leží u dveří.
+
+# Koncovky podstatných jmen 2
+{Ptáci} sedí na střeše.
+{Sousedky} čekají u dveří.
+Lenka zná {slony}.
+Vojta peče {tátovi} koláč.
+
+# Koncovky podstatných jmen 3
+Alena hledá {vozy}.
+Alena kupuje {vlkovi} kabát.
+Tereza zná {duby}.
+Anna zná {kluky}.
+Ota kope jámu.
+
+# Koncovky podstatných jmen 4
+Hezké {jahody} jsou na stole.
+Velké {hrady} stojí na kopci.
+Vojta zná {krávy}.
+Těžké {svetry} leží u plotu.
+
+# Koncovky podstatných jmen 5
+Marta hledá {stromy}.
+Alena kupuje {kabáty}.
+Hana hladí {kachny}.
+Karel kupuje {polévky}.
+Jan nese kabát.
+
+# Koncovky podstatných jmen 6
+Anna peče {holubovi} koláč.
+Dana kupuje {stěny}.
+Marek peče {medvědovi} koláč.
+Nela dává {rolníkovi} chléb.
+
+# Koncovky podstatných jmen 7
+{Orli} letí nad lesem.
+Olga nese {poháry}.
+Ota hledá {lopaty}.
+Tiché {mlýny} jsou u řeky.
+
+# Koncovky podstatných jmen 8
+{Krávy} jdou domů.
+Lehké {mlýny} stojí na kopci.
+Karel nese {knihy}.
+Hana sleduje {kosy}.
+
+# Koncovky podstatných jmen 9
+Petr maluje {mosty}.
+Nové {batohy} stojí u domu.
+Anna podává {kamarádovi} vědro.
+Adam honí {psy}.
+
+# Koncovky podstatných jmen 10
+Vojta sleduje {domy}.
+{Sokoli} letí k řece.
+{Ženy} jsou na louce.
+Hana sleduje {pavouky}.
+
+# Koncovky podstatných jmen 11
+Nové {domy} stojí na kopci.
+{Psi} jdou k řece.
+{Krávy} čekají u dveří.
+Krátké {duby} rostou v sadu.
+
+# Koncovky podstatných jmen 12
+Eva maluje {sady}.
+Marek volá {kluky}.
+{Ryby} čekají u dveří.
+Zelené {chleby} leží u dveří.
+
+# Koncovky podstatných jmen 13
+Adam hledá {kozy}.
+Ema čte {klukovi} knihu.
+Malé {duby} rostou u řeky.
+{Hrady} jsou u řeky.
+
+# Koncovky podstatných jmen 14
+Jan hladí {kočky}.
+Anna ukazuje {psovi} cestu.
+Marta maluje {ploty}.
+Tiché {stromy} rostou na kopci.
+
+# Koncovky podstatných jmen 15
+{Sokoli} sedí na střeše.
+Alena kupuje {domy}.
+Marek drží {stoly}.
+Marta maluje {stromy}.
+Pavel běží po louce.
+
+# Koncovky podstatných jmen 16
+Marek vede {bratrovi} psa.
+Dana kupuje {čluny}.
+Dana čte {lvovi} knihu.
+Nové {hřiby} rostou na kopci.
+
+# Koncovky podstatných jmen 17
+Petr volá {kluky}.
+Adam nese {vozy}.
+Tiché {tašky} jsou u okna.
+Dana podává {holubovi} vědro.
+
+# Koncovky podstatných jmen 18
+{Vlci} běží k lesu.
+Eva peče {kosovi} koláč.
+{Žáci} čekají na vlak.
+{Hřiby} rostou u řeky.
+
+# Koncovky podstatných jmen 19
+Ema vede {bratrovi} psa.
+Marta hladí {kozy}.
+Hana podává {kosovi} vědro.
+Marek nese {plody}.
+
+# Koncovky podstatných jmen 20
+Ota opravuje {hrady}.
+{Psi} běží k lesu.
+{Dívky} jdou k řece.
+{Rolníci} čekají u dveří.
+
+# Koncovky podstatných jmen 21
+Nela opravuje {sady}.
+Karel drží {jahody}.
+Pavel sleduje {holuby}.
+Ota volá {hochy}.
+Petr zná les.
+
+# Koncovky podstatných jmen 22
+Lenka čte {hochovi} knihu.
+Olga sleduje {hřiby}.
+{Sousedky} jdou domů.
+{Mosty} jsou u řeky.
+
+# Koncovky podstatných jmen 23
+{Kozy} jsou na louce.
+{Poháry} stojí u domu.
+{Ptáci} sedí na plotě.
+Radek hledá ježka.
+
+# Koncovky podstatných jmen 24
+Anna volá {kamarády}.
+Jan opravuje {rybníky}.
+Čerstvé {vozy} leží u plotu.
+Radek jede do města.
+
+# Koncovky podstatných jmen 25
+Lehké {sekery} leží u dveří.
+Ota opravuje {sady}.
+{Sloni} žijí v lese.
+Marta hladí {ryby}.
+
+# Koncovky podstatných jmen 26
+Adam dává {kosovi} chléb.
+Dana drží {tašky}.
+Alena honí {medvědy}.
+Lara drží {pluhy}.
+Oto jede do města.
+
+# Koncovky podstatných jmen 27
+{Ptáci} letí k řece.
+Hana volá {žáky}.
+{Kočky} jdou k řece.
+Pavel nese {stěny}.
+
+# Koncovky podstatných jmen 28
+Ota opravuje {ploty}.
+{Tety} jsou na louce.
+{Vrabci} letí k řece.
+Adam čte {vlkovi} knihu.
+
+# Koncovky podstatných jmen 29
+Lehké {stoly} stojí u domu.
+Nela opravuje {rybníky}.
+{Sokoli} letí nad lesem.
+Adam vede koně.
+
+# Koncovky podstatných jmen 30
+Olga nese {plody}.
+Ema opravuje {rybníky}.
+{Řidiči} jdou domů.
+Radek sedí na stole.
+Pavel jede za tátou.
