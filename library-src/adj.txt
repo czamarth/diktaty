@@ -1,0 +1,182 @@
+feature: orth.adjective_hard_endings
+code: adj
+---
+# Mohutný dub
+{Mohutný} dub je za městem.
+Alena zná {čistý} kabát.
+Koláč je {krásný}.
+Dub je {černý}.
+
+# Chytrý ježek
+{Chytrý} ježek sedí u plotu.
+{Malý} pastýř běží k potoku.
+Rybář je {pěkný}.
+Ježek je {veselý}.
+
+# Malý les
+{Malý} les je na kopci.
+Lenka drží {zelený} strom.
+Hrad je {pěkný}.
+Les je {krásný}.
+
+# Starý kluk
+{Starý} kluk běží domů.
+{Hloupý} kůň čeká u dveří.
+Kocour je {malý}.
+Kluk je {šťastný}.
+
+# Čistý kabát
+{Čistý} kabát leží na stole.
+Marta hledá {zelený} svetr.
+Hrad je {mohutný}.
+Kabát je {červený}.
+
+# Hladový ježek
+{Hladový} ježek běží lesem.
+{Zdravý} tesař čeká na kopci.
+Kovář je {věrný}.
+Ježek je {hodný}.
+
+# Hnědý koláč
+{Hnědý} koláč stojí na stole.
+Marta drží {těžký} plot.
+Stůl je {černý}.
+Koláč je {pěkný}.
+
+# Starý rybář
+{Starý} rybář čeká na kopci.
+{Hodný} kluk čeká u dveří.
+Medvěd je {smutný}.
+Rybář je {chytrý}.
+
+# Pěkný hrad
+{Pěkný} hrad je za lesem.
+Roman nese {těžký} stůl.
+Batoh je {hnědý}.
+Hrad je {starý}.
+
+# Smutný kuchař
+{Smutný} kuchař jde domů.
+{Hloupý} pták čeká u dveří.
+Slon je {malý}.
+Kuchař je {pěkný}.
+
+# Těžký most
+{Těžký} most je za městem.
+Marta maluje {malý} dub.
+Plot je {krásný}.
+Most je {černý}.
+
+# Šťastný kluk
+{Šťastný} kluk jde k potoku.
+{Malý} vlk čeká u dveří.
+Kůň je {hladový}.
+Kluk je {věrný}.
+
+# Zlatý pohár
+{Zlatý} pohár stojí na stole.
+Jan opravuje {nový} koláč.
+Klobouk je {starý}.
+Pohár je {černý}.
+
+# Hodný kocour
+{Hodný} kocour jde k potoku.
+{Šťastný} slon jde k potoku.
+Rolník je {pěkný}.
+Kocour je {starý}.
+
+# Batoh a hrad
+{Pěkný} hrad je blízko louky.
+Eva bere {malý} batoh.
+Koš je {těžký}.
+Hrad je {krásný}.
+
+# Starý kůň
+{Starý} kůň stojí na louce.
+{Chytrý} vrabec jde k potoku.
+Soused je {smutný}.
+Kůň je {hodný}.
+
+# Krásný stůl
+{Krásný} stůl leží u plotu.
+Olga ukazuje {studený} koláč.
+Plot je {mohutný}.
+Stůl je {hnědý}.
+
+# Chytrý pes a ježek
+{Chytrý} pes čeká na kopci.
+{Hladový} rybář jde domů.
+Ježek je {starý}.
+Pes je {zdravý}.
+
+# Krásný vůz
+{Krásný} vůz leží u plotu.
+Jan maluje {tmavý} klobouk.
+Kámen je {hrubý}.
+Vůz je {nový}.
+
+# Věrný kluk
+{Věrný} kluk čeká na kopci.
+{Smutný} vrabec běží lesem.
+Rybář je {hladový}.
+Kluk je {chytrý}.
+
+# Tmavý sad
+{Tmavý} sad je za domem.
+Tereza nese {hrubý} kámen.
+Dům je {mohutný}.
+Sad je {krásný}.
+
+# Věrný kohout
+{Věrný} kohout stojí na louce.
+{Hladový} slon běží lesem.
+Tesař je {šťastný}.
+Kohout je {smutný}.
+
+# Nový kabát
+{Nový} kabát leží u dveří.
+Hana drží {hnědý} koš.
+Koláč je {teplý}.
+Kabát je {čistý}.
+
+# Hodný lev
+{Hodný} lev hledá kost.
+{Zdravý} vrabec čeká na kopci.
+Ježek je {hloupý}.
+Lev je {hladový}.
+
+# Hnědý dub
+{Hnědý} dub je na kopci.
+Radek maluje {černý} kámen.
+Batoh je {nový}.
+Dub je {mohutný}.
+
+# Chytrý pták
+{Chytrý} pták sedí u plotu.
+{Hodný} pastýř běží lesem.
+Kovář je {zdravý}.
+Pták je {veselý}.
+
+# Těžký koš
+{Těžký} koš je na stole.
+Anna ukazuje {hnědý} plot.
+Batoh je {zelený}.
+Koš je {černý}.
+
+# Šťastný tesař
+{Šťastný} tesař jde domů.
+{Hloupý} kluk běží lesem.
+Medvěd je {věrný}.
+Tesař je {zdravý}.
+
+# Čistý stůl
+{Čistý} stůl leží u dveří.
+Dana hledá {teplý} kabát.
+Batoh je {černý}.
+Stůl je {nový}.
+
+# Zdravý pes
+{Zdravý} pes jde domů.
+{Hodný} slon hledá kost.
+Kovář je {šťastný}.
+Pes je {hladový}.
