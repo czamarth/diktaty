@@ -1,0 +1,182 @@
+feature: punct.vocative
+code: osl
+---
+# Oslovení Zuzano
+{Zuzano,} podej koláč!
+Dnes{, Pavle,} jedeme do města.
+Kde je pes{, Anno}?
+Pomoz sestře{, kluku}!
+
+# Oslovení Karle
+Louka{, Vojto,} je zelená.
+{Terezo,} hledej sekeru!
+Kde je pes{, mámo}?
+Zavolej psa{, Karle}!
+
+# Oslovení Marku
+Počkej na louce{, Marku}!
+{Tomáši,} podej koláč!
+Co tu děláš{, Terezo}?
+Les{, Vojto,} je tichý.
+
+# Oslovení Laro
+Kdo zná cestu{, pane}?
+{Tati,} drž psa!
+Ukaž mapu{, Aneto}!
+Louka{, Laro,} je zelená.
+
+# Oslovení Holko
+Kam běžíš{, Petře}?
+{Jane,} hledej sekeru!
+Dnes{, holko,} jdeme do lesa.
+Pomoz mámě{, Adame}!
+
+# Oslovení Kluku
+Nes vědro{, dědo}!
+{Holko,} čti novou knihu!
+Dnes{, kluku,} jedeme do města.
+Kam jdeš{, pastýři}?
+
+# Oslovení Petře
+Počkej u plotu{, Terezo}!
+{Bratře,} dej kost!
+Ráno{, Zuzano,} je mlha.
+Kdo čeká u dveří{, Petře}?
+
+# Oslovení Olgo
+{Terezo,} pomoz mámě!
+Podej vědro{, Olgo}!
+Co nese máma{, Hano}?
+Venku{, holko,} je tma.
+
+# Oslovení Radku
+{Oto,} jdi do lesa!
+Běž do lesa{, strýčku}!
+Kde stojíš{, Radku}?
+Dnes{, bratře,} jedeme do města.
+
+# Oslovení Jane
+Drž tašku{, Pavle}!
+{Emo,} ukaž tašku!
+Co voní{, kováři}?
+Dnes{, Jane,} jedeme do města.
+
+# Oslovení Vojto
+{Kluku,} počkej u dveří!
+Večer{, Vojto,} bude klid.
+Kdo zná cestu{, Olgo}?
+Počkej u dveří{, kováři}!
+
+# Oslovení Emo
+Les{, Jirko,} je tichý.
+{Emo,} dej čaj!
+Kam jdeš{, Karle}?
+Ukaž sešit{, Nelo}!
+
+# Oslovení Aneto
+Co nese máma{, Aneto}?
+{Marku,} běž ke škole!
+Běž domů{, strýčku}!
+Louka{, sestro,} je zelená.
+
+# Oslovení Pastýři
+{Jane,} hledej kolo!
+Hledej tašku{, pastýři}!
+Doma{, Adame,} je teplo.
+Kdo nese koš{, pane}?
+
+# Oslovení Soňo
+Co tu děláš{, Olgo}?
+Pomoz mámě{, Jakube}!
+{Radku,} nes dřevo!
+Dnes{, Soňo,} jedeme do města.
+
+# Oslovení Strýčku
+Dnes{, pane,} je sobota.
+Kde stojíš{, pastýři}?
+Čti pohádku{, strýčku}!
+{Tati,} zavolej dívky!
+
+# Oslovení Olgo a Marto
+{Radku,} zavolej tátu!
+Co voní{, Olgo}?
+Dnes{, Marto,} jdeme do lesa.
+Běž domů{, Marku}!
+
+# Oslovení Petře a Laro
+Co čteš{, Petře}?
+{Laro,} hledej kolo!
+Hledej kolo{, Jakube}!
+Les{, Anno,} je tichý.
+
+# Oslovení Rybáři
+Doma{, Oto,} je teplo.
+Pomoz sestře{, rybáři}!
+{Lenko,} ukaž sešit!
+Co tu děláš{, bratře}?
+
+# Oslovení Sestro
+{Sestro,} jdi k potoku!
+Kam jdeš{, Nelo}?
+Nes vědro{, tati}!
+Venku{, rybáři,} je tma.
+
+# Oslovení Kováři
+{Oto,} jdi ven!
+Les{, kováři,} je tichý.
+Podej koláč{, teto}!
+Co voní{, mámo}?
+
+# Oslovení Alane
+Co voní{, pane}?
+Louka{, Anno,} je zelená.
+{Marku,} hledej kost!
+Běž domů{, Alane}!
+
+# Oslovení Hano
+Co voní{, Radku}?
+Dnes{, Alane,} je sobota.
+Jdi do lesa{, Hano}!
+{Oto,} pomoz sestře!
+
+# Oslovení Marto
+Co čteš{, Honzo}?
+Ráno{, Jirko,} je mlha.
+{Karle,} ukaž sešit!
+Běž ven{, Marto}!
+
+# Oslovení Karle a Martine
+{Martine,} zavolej kluky!
+Co voní{, Karle}?
+Podej vědro{, strýčku}!
+Les{, dědo,} je tichý.
+
+# Oslovení Emo a tati
+Kde je pes{, Evo}?
+Les{, Emo,} je tichý.
+{Petře,} jdi k potoku!
+Jdi k potoku{, tati}!
+
+# Oslovení Sousede
+Zavolej dívky{, holko}!
+Ráno{, sousede,} je mlha.
+Co voní{, Dano}?
+{Nelo,} počkej u dveří!
+
+# Oslovení Bratře
+Co čteš{, Aneto}?
+Dnes{, Romane,} je sobota.
+{Jitko,} hledej kost!
+Dej kost{, bratře}!
+
+# Oslovení Dano
+Dnes{, pastýři,} jdeme do lesa.
+Kdo nese koš{, Pavle}?
+{Dano,} pomoz sestře!
+Nes tašku{, Emo}!
+
+# Oslovení Adame
+Řeka{, Adame,} je hluboká.
+Co voní{, Aleno}?
+Zavolej kluky{, Zuzano}!
+{Kováři,} ukaž knihu!

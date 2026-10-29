@@ -9,7 +9,7 @@ export const FIRST_NAMES = new Set([
   'pavel', 'petr', 'petra', 'radek', 'tomáš', 'tereza', 'vojta', 'zuzana', 'ivo', 'iva', 'jára', 'alan', 'adéla',
   'amálie', 'daniel', 'denis', 'dominik', 'elena', 'erik', 'jitka', 'kamila', 'klára', 'ladislav', 'libor', 'lukáš',
   'miloš', 'monika', 'nela', 'nikola', 'oto', 'robert', 'roman', 'sára', 'sofie', 'šárka', 'štěpán', 'teodor', 'viktor',
-  'vlasta', 'zdeněk', 'bára', 'tonda', 'ondra', 'matěj', 'rozálie', 'káča', 'kája', 'jiří', 'jirka', 'hanka', 'lada', 'nora', 'rosa', 'lara', 'mara', 'marta', 'soňa', 'vojtěch',
+  'evo', 'anno', 'dano', 'olgo', 'lenko', 'terezo', 'hano', 'aleno', 'marto', 'nelo', 'emo', 'laro', 'soňo', 'aneto', 'jitko', 'zuzano', 'jane', 'petře', 'karle', 'marku', 'radku', 'adame', 'pavle', 'oto', 'romane', 'vojto', 'alane', 'honzo', 'jirko', 'jakube', 'tomáši', 'martine', 'vlasta', 'zdeněk', 'bára', 'tonda', 'ondra', 'matěj', 'rozálie', 'káča', 'kája', 'jiří', 'jirka', 'hanka', 'lada', 'nora', 'rosa', 'lara', 'mara', 'marta', 'soňa', 'vojtěch',
 ]);
 
 // --- Zeměpisná jména: vždy vyžadují označení (i na začátku věty, kde velké písmeno nic neprozradí) -------------
