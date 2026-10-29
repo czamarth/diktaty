@@ -1,0 +1,207 @@
+feature: syntax.agreement_unexpressed
+code: nev
+---
+# Nevyjádřený podmět 1
+{Petr a Jan běželi|plur} po louce.
+Později {upekli|nev} chléb.
+Včera {stáli|nev} u okna.
+Ráno {nesli|nev} kabát.
+
+# Nevyjádřený podmět 2
+{Eva a Dana ukázaly|plur} cestu.
+Pak {hledaly|nev} tašku.
+Později {otevřely|nev} okno.
+Včera {podaly|nev} chléb.
+Olga vaří polévku.
+
+# Nevyjádřený podmět 3
+{Hana a Alena chodily|plur} po louce.
+Včera {vedly|nev} koně.
+Cestou {četly|nev} mapu.
+Zatím {podaly|nev} koláč.
+Alan peče koláč.
+
+# Nevyjádřený podmět 4
+{Dívky běžely|plur} ven.
+Včera {seděly|nev} u stolu.
+Nakonec {stály|nev} u plotu.
+Dnes {otevřely|nev} dveře.
+Olga hledá dřevo.
+
+# Nevyjádřený podmět 5
+{Eva a Dana čekaly|plur} na louce.
+Cestou {hrály|nev} na dvoře.
+Brzy {chodily|nev} po lese.
+Nakonec {vařily|nev} rýži.
+
+# Nevyjádřený podmět 6
+{Petr a Eva podali|plur} mléko.
+Večer {hladili|nev} psa.
+Nakonec {chodili|nev} po lese.
+Ráno {kupovali|nev} mléko.
+Ivo jede na kole.
+
+# Nevyjádřený podmět 7
+{Sousedé chodili|plur} po lese.
+Odpoledne {hráli|nev} na dvoře.
+Nakonec {četli|nev} větu.
+Zatím {znali|nev} cestu.
+Ivo sedí na stole.
+
+# Nevyjádřený podmět 8
+{Eva a Dana držely|plur} lopatu.
+Potom {kopaly|nev} jámu.
+Cestou {vařily|nev} polévku.
+Potom {hledaly|nev} tašku.
+Oto drží lopatu.
+
+# Nevyjádřený podmět 9
+{Dívky seděly|plur} na plotě.
+Zatím {vedly|nev} koně.
+Pak {ukázaly|nev} mapu.
+Pak {čekaly|nev} u dveří.
+Ema hraje na louce.
+
+# Nevyjádřený podmět 10
+{Holky upekly|plur} chléb.
+Potom {seděly|nev} u okna.
+Nakonec {vařily|nev} polévku.
+Potom {držely|nev} lano.
+Vojta jde za psem.
+
+# Nevyjádřený podmět 11
+{Anna a Olga otevřely|plur} okno.
+Ráno {hledaly|nev} kost.
+Nakonec {honily|nev} kozu.
+Odpoledne {běžely|nev} ven.
+Radek nese tašku.
+
+# Nevyjádřený podmět 12
+{Petr a Eva vařili|plur} polévku.
+Později {seděli|nev} na plotě.
+Zatím {volali|nev} mámu.
+Cestou {drželi|nev} psa.
+Lenka jde k potoku.
+
+# Nevyjádřený podmět 13
+{Nela a Marta plavaly|plur} v rybníku.
+Brzy {otevřely|nev} dveře.
+Včera {nesly|nev} tašku.
+Ráno {seděly|nev} u stolu.
+
+# Nevyjádřený podmět 14
+{Sousedky jely|plur} domů.
+Odpoledne {stály|nev} na louce.
+Večer {vařily|nev} polévku.
+Odpoledne {ukázaly|nev} cestu.
+Oto jde za psem.
+
+# Nevyjádřený podmět 15
+{Anna a Olga ukázaly|plur} knihu.
+Dnes {honily|nev} kozu.
+Potom {pekly|nev} chléb.
+Nakonec {hrály|nev} na louce.
+Anna zná řeku.
+
+# Nevyjádřený podmět 16
+{Kluci hladili|plur} kočku.
+Později {podali|nev} chléb.
+Dnes {znali|nev} řeku.
+Brzy {honili|nev} psa.
+Dana nese mléko.
+
+# Nevyjádřený podmět 17
+{Učitelé četli|plur} mapu.
+Večer {kopali|nev} jámu.
+Ráno {seděli|nev} u stolu.
+Zatím {malovali|nev} obraz.
+Petr jde k potoku.
+
+# Nevyjádřený podmět 18
+{Kuchaři šeli|plur} k potoku.
+Cestou {podali|nev} chléb.
+Později {otevřeli|nev} okno.
+Cestou {malovali|nev} obraz.
+Vojta drží lopatu.
+
+# Nevyjádřený podmět 19
+{Dívky chodily|plur} po lese.
+Ráno {kopaly|nev} zahradu.
+Včera {nesly|nev} dřevo.
+Ráno {čekaly|nev} u plotu.
+Alena sleduje ptáka.
+
+# Nevyjádřený podmět 20
+{Žáci vařili|plur} polévku.
+Brzy {čekali|nev} u plotu.
+Později {pekli|nev} chléb.
+Pak {znali|nev} les.
+Anna hledá kolo.
+
+# Nevyjádřený podmět 21
+{Nela a Marta upekly|plur} koláč.
+Zatím {volaly|nev} mámu.
+Nakonec {jely|nev} za tátou.
+Cestou {vedly|nev} koně.
+Lenka sedí na stole.
+
+# Nevyjádřený podmět 22
+{Roman a Lenka volali|plur} tátu.
+Brzy {jeli|nev} do města.
+Včera {nesli|nev} tašku.
+Zatím {chodili|nev} po lese.
+
+# Nevyjádřený podmět 23
+{Holky honily|plur} kozu.
+Dnes {jely|nev} za tátou.
+Odpoledne {upekly|nev} chléb.
+Cestou {ukázaly|nev} knihu.
+Ema jde do lesa.
+
+# Nevyjádřený podmět 24
+{Kuchaři hledali|plur} kabát.
+Včera {hladili|nev} kočku.
+Dnes {kupovali|nev} koláč.
+Potom {četli|nev} pohádku.
+Alena zná les.
+
+# Nevyjádřený podmět 25
+{Sestry četly|plur} pohádku.
+Pak {čekaly|nev} na louce.
+Večer {jely|nev} domů.
+Večer {nesly|nev} tašku.
+Marta maluje obraz.
+
+# Nevyjádřený podmět 26
+{Roman a Lenka hledali|plur} sekeru.
+Pak {malovali|nev} obraz.
+Potom {ukázali|nev} mapu.
+Dnes {jeli|nev} za tátou.
+Alena jde k potoku.
+
+# Nevyjádřený podmět 27
+{Karel a Marek šeli|plur} k potoku.
+Odpoledne {stáli|nev} u dveří.
+Pak {hledali|nev} kabát.
+Později {plavali|nev} v řece.
+
+# Nevyjádřený podmět 28
+{Rolníci kupovali|plur} koláč.
+Odpoledne {čekali|nev} u plotu.
+Později {znali|nev} řeku.
+Odpoledne {plavali|nev} v jezeru.
+Petr nese kabát.
+
+# Nevyjádřený podmět 29
+{Pekaři znali|plur} řeku.
+Potom {volali|nev} tátu.
+Brzy {plavali|nev} v řece.
+Večer {kupovali|nev} mléko.
+Marek hledá tašku.
+
+# Nevyjádřený podmět 30
+{Kuchaři honili|plur} kozu.
+Brzy {kopali|nev} zahradu.
+Pak {plavali|nev} v rybníku.
+Večer {vedli|nev} kozu.
+Roman nese kabát.

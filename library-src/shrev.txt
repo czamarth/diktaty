@@ -1,0 +1,210 @@
+feature: syntax.agreement_review
+code: shrev
+---
+# Shoda podmětu s přísudkem 1
+{Petr a Jan upekli|shrev} chléb.
+Odpoledne {honili|shrev} kozu.
+Cestou {běželi|shrev} k lesu.
+Cestou {plavali|shrev} v jezeru.
+
+# Shoda podmětu s přísudkem 2
+{Dívky ukázaly|shrev} mapu.
+Večer {šly|shrev} do lesa.
+Později {jely|shrev} do města.
+Cestou {otevřely|shrev} okno.
+Dana zalévá záhon.
+
+# Shoda podmětu s přísudkem 3
+{Roman a Klára honili|shrev} kozu.
+Zatím {běželi|shrev} k lesu.
+Odpoledne {hledali|shrev} kost.
+{Radek upekl|shrev} perník.
+Klára maluje obraz.
+
+# Shoda podmětu s přísudkem 4
+{Holky podaly|shrev} perník.
+Potom {vedly|shrev} kozu.
+Nakonec {ukázaly|shrev} knihu.
+Cestou {seděly|shrev} u stolu.
+Anna seká dřevo.
+
+# Shoda podmětu s přísudkem 5
+{Roman a Soňa četli|shrev} knihu.
+Pak {jeli|shrev} na kole.
+Brzy {seděli|shrev} u řeky.
+Cestou {šeli|shrev} domů.
+
+# Shoda podmětu s přísudkem 6
+{Kováři upekli|shrev} perník.
+{Hana seděla|shrev} u řeky.
+{Sestra vedla|shrev} kozu.
+Brzy {šeli|shrev} k lesu.
+Karel jde za psem.
+
+# Shoda podmětu s přísudkem 7
+{Sestry hladily|shrev} psa.
+Včera {vařily|shrev} rýži.
+Večer {seděly|shrev} u okna.
+{Ota hledal|shrev} lopatu.
+Lenka jede na kole.
+
+# Shoda podmětu s přísudkem 8
+{Nela a Marta vařily|shrev} rýži.
+Odpoledne {nesly|shrev} koš.
+{Hana malovala|shrev} plot.
+{Kluk plaval|shrev} v řece.
+Marek čeká na vlak.
+
+# Shoda podmětu s přísudkem 9
+{Kuchařky honily|shrev} psa.
+Později {hrály|shrev} na louce.
+{Jan kopal|shrev} jámu.
+Včera {šly|shrev} domů.
+Lenka krájí chléb.
+
+# Shoda podmětu s přísudkem 10
+{Holky šly|shrev} k potoku.
+Zatím {upekly|shrev} chléb.
+Později {četly|shrev} větu.
+Ráno {podaly|shrev} koláč.
+Olga peče koláč.
+
+# Shoda podmětu s přísudkem 11
+{Žáci honili|shrev} psa.
+Cestou {malovali|shrev} dům.
+Ráno {vařili|shrev} rýži.
+{Pavel běžel|shrev} domů.
+Lenka nese koš.
+
+# Shoda podmětu s přísudkem 12
+{Kováři hráli|shrev} na dvoře.
+Cestou {jeli|shrev} na kole.
+{Radek stál|shrev} na louce.
+Ráno {volali|shrev} tátu.
+Marek peče koláč.
+
+# Shoda podmětu s přísudkem 13
+{Kuchařky držely|shrev} psa.
+Později {kupovaly|shrev} mléko.
+Později {vařily|shrev} rýži.
+Nakonec {otevřely|shrev} dveře.
+Tereza vaří polévku.
+
+# Shoda podmětu s přísudkem 14
+{Sestry běžely|shrev} k lesu.
+Potom {hladily|shrev} koně.
+{Sousedka kupovala|shrev} koláč.
+Včera {honily|shrev} psa.
+Dana hraje na louce.
+
+# Shoda podmětu s přísudkem 15
+{Učitelky malovaly|shrev} plot.
+{Marek vařil|shrev} rýži.
+Nakonec {seděly|shrev} na plotě.
+Dnes {otevřely|shrev} okno.
+Marek nese vědro.
+
+# Shoda podmětu s přísudkem 16
+{Dívky hrály|shrev} před domem.
+Cestou {kopaly|shrev} jámu.
+Brzy {jely|shrev} domů.
+{Soused četl|shrev} pohádku.
+Dana jede na kole.
+
+# Shoda podmětu s přísudkem 17
+{Pavel a Ota malovali|shrev} obraz.
+{Petr znal|shrev} les.
+{Pavel ukázal|shrev} cestu.
+Včera {plavali|shrev} v rybníku.
+Lenka jde za psem.
+
+# Shoda podmětu s přísudkem 18
+{Holky plavaly|shrev} v jezeru.
+Odpoledne {pekly|shrev} chléb.
+Později {ukázaly|shrev} knihu.
+{Jan seděl|shrev} u okna.
+Dana zná les.
+
+# Shoda podmětu s přísudkem 19
+{Hana a Alena jely|shrev} domů.
+Odpoledne {ukázaly|shrev} mapu.
+Potom {stály|shrev} u dveří.
+{Petr hladil|shrev} kočku.
+Pavel jde k potoku.
+
+# Shoda podmětu s přísudkem 20
+{Sousedky jely|shrev} za tátou.
+{Sousedka plavala|shrev} v řece.
+Brzy {znaly|shrev} cestu.
+{Sestra hledala|shrev} kost.
+Lenka sleduje ptáka.
+
+# Shoda podmětu s přísudkem 21
+{Eva a Dana nesly|shrev} dřevo.
+Brzy {četly|shrev} knihu.
+{Kluk volal|shrev} psa.
+Odpoledne {běžely|shrev} po louce.
+Dana jde na louku.
+
+# Shoda podmětu s přísudkem 22
+{Petr a Jan četli|shrev} pohádku.
+{Eva malovala|shrev} obraz.
+Brzy {podali|shrev} chléb.
+Ráno {stáli|shrev} u dveří.
+Oto hledá tašku.
+
+# Shoda podmětu s přísudkem 23
+{Sousedé vedli|shrev} psa.
+Zatím {podali|shrev} koláč.
+Dnes {čekali|shrev} u dveří.
+Odpoledne {četli|shrev} mapu.
+Jan jde za psem.
+
+# Shoda podmětu s přísudkem 24
+{Sestry pekly|shrev} chléb.
+{Karel plaval|shrev} v jezeru.
+Dnes {upekly|shrev} chléb.
+Později {podaly|shrev} koláč.
+Oto nese mléko.
+
+# Shoda podmětu s přísudkem 25
+{Rybáři malovali|shrev} obraz.
+Večer {podali|shrev} koláč.
+{Radek hrál|shrev} na louce.
+Nakonec {otevřeli|shrev} dveře.
+Oto vede koně.
+
+# Shoda podmětu s přísudkem 26
+{Roman a Lenka otevřeli|shrev} okno.
+Odpoledne {pekli|shrev} chléb.
+{Petr šel|shrev} do lesa.
+{Kluk kupoval|shrev} chléb.
+Karel sedí na stole.
+
+# Shoda podmětu s přísudkem 27
+{Kováři vedli|shrev} kozu.
+{Ota vařil|shrev} rýži.
+{Pavel pekl|shrev} koláč.
+{Kuchař upekl|shrev} chléb.
+Roman jde k potoku.
+
+# Shoda podmětu s přísudkem 28
+{Kuchaři otevřeli|shrev} okno.
+{Hana čekala|shrev} na louce.
+Zatím {nesli|shrev} dřevo.
+Večer {běželi|shrev} po louce.
+Lenka sedí u okna.
+
+# Shoda podmětu s přísudkem 29
+{Tesaři hladili|shrev} kočku.
+Večer {stáli|shrev} u dveří.
+{Dívka hrála|shrev} na dvoře.
+Včera {honili|shrev} psa.
+Lenka běží po louce.
+
+# Shoda podmětu s přísudkem 30
+{Rolníci vedli|shrev} kozu.
+Pak {pekli|shrev} koláč.
+{Karel znal|shrev} les.
+{Dívka hladila|shrev} koně.
+Oto nese tašku.
