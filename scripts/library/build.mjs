@@ -140,7 +140,11 @@ export function buildDictation({ block, index, meta, taxonomy }) {
   const targetIsLetter = LETTER_LISTED.has(target);
   sentences.forEach((s, si) => {
     const r = analyzeSentence(s);
-    for (const e of r.errors) bad(`věta ${si + 1}: ${e.message}`);
+    for (const e of r.errors) {
+      // předpona vy-/vý- je ve cíli „opakování předpon“ dovolena, pokud je slovo ručně označeno
+      if (e.code === 'prefix_vy' && manual.some((mk) => mk.sentence_index === si && mk.start <= e.start && e.end <= mk.end && mk.feature === 'orth.prefixes_review')) continue;
+      bad(`věta ${si + 1}: ${e.message}`);
+    }
     for (const n of r.needs) needs.push({ ...n, sentence_index: si });
     for (const a of r.auto) {
       let feature = a.feature;

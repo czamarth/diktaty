@@ -1,0 +1,199 @@
+feature: orth.prefixes_review
+code: prerev
+---
+# Opakování předpon 1
+Tesař {smaže|t} větu.
+Adam chce {přečíst|t} větu.
+Pekař {zbourá|t} dům.
+Marek může {vydat|t} knihu.
+
+# Opakování předpon 2
+Žák začne {smazat|t} nápis.
+Lara {rozběhne|t} se k potoku.
+Pavel chce {vyběhnout|t} z domu.
+Kovář chce {předběhnout|t} psa.
+
+# Opakování předpon 3
+Hana {vykope|t} jámu.
+Dana {schová|t} kabát.
+Vojta {přivede|t} psa.
+Žák {vzdá|t} závod.
+Lenka hledá dřevo.
+
+# Opakování předpon 4
+Rolník {vydá|t} mapu.
+Marta {vzdá|t} boj.
+Jan {přeběhne|t} louku.
+Hana chce {přečíst|t} pohádku.
+Dana hledá dřevo.
+
+# Opakování předpon 5
+Marta {přijede|t} do města.
+Žák má {zhasnout|t} oheň.
+Soused {přenese|t} kámen.
+Adam {zbourá|t} plot.
+
+# Opakování předpon 6
+Marta může {vzdát|t} závod.
+Pekař {zhasne|t} lampu.
+Marek {zlepší|t} písmo.
+Pekař {schová|t} kost.
+Ivo vede koně.
+
+# Opakování předpon 7
+Tesař začne {vyběhnout|t} ven.
+Vojta {zbourá|t} dům.
+Soused {smaže|t} nápis.
+Učitel {přidá|t} dřevo.
+Anna drží psa.
+
+# Opakování předpon 8
+Nela začne {rozložit|t} mapu.
+Ema {přeskočí|t} potok.
+Jan může {vybrat|t} kámen.
+Pekař chce {vynést|t} vědro.
+
+# Opakování předpon 9
+Roman {schová|t} kost.
+Soused {odnese|t} vědro.
+Olga má {zbourat|t} plot.
+Jan začne {vzdát|t} závod.
+
+# Opakování předpon 10
+Lara chce {přijet|t} do města.
+Pavel chce {rozložit|t} mapu.
+Eva začne {vzdát|t} boj.
+Rolník chce {vydat|t} mapu.
+
+# Opakování předpon 11
+Marta {odnese|t} koš.
+Adam {zbourá|t} dům.
+Marek {vybere|t} jablka.
+Jan {vyjede|t} ze dvora.
+Dana drží psa.
+
+# Opakování předpon 12
+Kovář může {přečíst|t} větu.
+Tereza může {vydat|t} knihu.
+Ema {rozběhne|t} se k lesu.
+Marek má {zhasnout|t} lampu.
+
+# Opakování předpon 13
+Ema {vyloží|t} dřevo.
+Lara začne {zhasnout|t} lampu.
+Hana {přivede|t} psa.
+Soused {přečte|t} větu.
+Lenka kope jámu.
+
+# Opakování předpon 14
+Kuchař má {přeskočit|t} plot.
+Kuchař {odnese|t} vědro.
+Olga {schová|t} kost.
+Eva může {přejít|t} cestu.
+
+# Opakování předpon 15
+Eva může {odejít|t} do lesa.
+Marta {přečte|t} pohádku.
+Lenka {vykope|t} záhon.
+Lara {přinese|t} chléb.
+
+# Opakování předpon 16
+Vojta má {odběhnout|t} k potoku.
+Adam má {rozložit|t} mapu.
+Alena začne {přeběhnout|t} louku.
+Roman {přeběhne|t} cestu.
+
+# Opakování předpon 17
+Učitel může {přeběhnout|t} louku.
+Pavel začne {přijet|t} k lesu.
+Ema má {přeskočit|t} plot.
+Alena {zlepší|t} písmo.
+
+# Opakování předpon 18
+Kuchař {zhasne|t} lampu.
+Kovář {rozloží|t} dřevo.
+Žák má {podběhnout|t} most.
+Adam {přidá|t} cukr.
+Dana seká dřevo.
+
+# Opakování předpon 19
+Hana {podběhne|t} plot.
+Marek {přidá|t} sůl.
+Eva {odběhne|t} k potoku.
+Petr {zlepší|t} zahradu.
+Anna nese kabát.
+
+# Opakování předpon 20
+Pekař {vydá|t} knihu.
+Eva {obejde|t} plot.
+Kovář {vybere|t} jablka.
+Kovář {obejde|t} rybník.
+Ivo sleduje ptáka.
+
+# Opakování předpon 21
+Nela {schová|t} šátek.
+Lenka {smaže|t} písmo.
+Lenka {přidá|t} cukr.
+Anna {přivede|t} psa.
+Tereza kope jámu.
+
+# Opakování předpon 22
+Roman {vyběhne|t} z domu.
+Pastýř {odejde|t} domů.
+Karel {přinese|t} chléb.
+Radek {vyloží|t} dřevo.
+Eva seká dřevo.
+
+# Opakování předpon 23
+Jan {smaže|t} písmo.
+Rolník {rozloží|t} seno.
+Tesař {odejde|t} k potoku.
+Žák {vytáhne|t} kámen.
+Karel sedí u řeky.
+
+# Opakování předpon 24
+Ota {předběhne|t} tátu.
+Pavel {odejde|t} domů.
+Ota {zvedne|t} vědro.
+Dana {obejde|t} dům.
+Eva zalévá záhon.
+
+# Opakování předpon 25
+Dana {přenese|t} dřevo.
+Ota {rozběhne|t} se k potoku.
+Ota {obejde|t} plot.
+Kuchař {odnese|t} koš.
+
+# Opakování předpon 26
+Roman {obejde|t} dům.
+Tereza {přeskočí|t} potok.
+Učitel {přenese|t} kámen.
+Ota {přenese|t} koš.
+Pavel maluje obraz.
+
+# Opakování předpon 27
+Anna {vytáhne|t} lano.
+Lara {vykope|t} záhon.
+Pastýř {přinese|t} mléko.
+Roman {přijede|t} do města.
+Adam sleduje ptáka.
+
+# Opakování předpon 28
+Hana {rozběhne|t} se k potoku.
+Vojta {přejde|t} potok.
+Olga {zlepší|t} cestu.
+Pastýř {odnese|t} koš.
+
+# Opakování předpon 29
+Radek {přejde|t} louku.
+Rolník {sebere|t} jablka.
+Nela {vyjede|t} ze dvora.
+Učitel {přejde|t} cestu.
+Lenka hraje na louce.
+
+# Opakování předpon 30
+Učitel {přidá|t} sůl.
+Karel {odjede|t} domů.
+Rybář {přijede|t} do města.
+Pastýř {zlepší|t} zahradu.
+Dana sleduje ptáka.
