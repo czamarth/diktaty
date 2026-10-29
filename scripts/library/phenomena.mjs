@@ -195,7 +195,8 @@ export function analyzeSentence(sentence) {
   for (const m of sentence.matchAll(TOKEN)) {
     const start = cpIndex(sentence, m.index);
     const end = start + Array.from(m[0]).length;
-    const sentenceFirst = index === 0;
+    const prevChar = m.index > 0 ? sentence[m.index - 1] : '';
+    const sentenceFirst = index === 0 || prevChar === '„'; // začátek přímé řeči
     index++;
     tokens.push({ text: m[0], start, end });
     const r = analyzeWord(m[0], { sentenceFirst });

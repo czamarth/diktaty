@@ -1,0 +1,182 @@
+feature: orth.pronoun_me_mne
+code: me
+---
+# Já a máma
+Máma pomáhá {mně} kopat zahradu.
+Kočka hovoří o {mně}.
+Kuchař sedí vedle {mě}.
+Teta pomáhá {mně} nést koš.
+
+# Já a kočka
+Kočka hladí {mě} po hlavě.
+Sestra ukazuje {mně} mapu.
+Dědeček nezačne bez {mě}.
+Pekař ukazuje {mně} knihu.
+
+# Já a sousedka
+Sousedka peče {mně} koláč.
+Táta sleduje {mě} celé ráno.
+Učitelka čte {mně} knihu.
+Pastýř zná {mě} dobře.
+
+# Já a dědeček
+Dědeček podává {mně} koláč.
+Kočka podává {mně} mléko.
+Učitelka honí {mě} po zahradě.
+Soused sleduje {mě} z okna.
+
+# Já a kuchař
+Kuchař ukazuje {mně} mapu.
+Pastýř kupuje {mně} chléb.
+Dědeček stojí u {mě}.
+Kovář sleduje {mě} od plotu.
+
+# Já a pekař
+Pekař pomáhá {mně} nést koš.
+Učitel čte o {mně}.
+Sousedka má dárek pro {mě}.
+Teta dává {mně} čaj.
+
+# Já a teta
+Teta čeká na {mě}.
+Dědeček peče {mně} chléb.
+Učitelka drží {mě} pevně.
+Pekař stojí u {mě}.
+
+# Já a pes
+Pes honí {mě} po dvoře.
+Soused zná {mě} dobře.
+Kamarád podává {mně} koláč.
+Táta čte o {mně}.
+
+# Já a pes (9)
+Pes hledá {mě} v lese.
+Děda sedí při {mně}.
+Sestra pomáhá {mně} kopat zahradu.
+Sousedka pomáhá {mně} kopat zahradu.
+
+# Já a máma (10)
+Máma čeká na {mě}.
+Pekař volá {mě} od dveří.
+Teta ukazuje {mně} mapu.
+Děda hovoří o {mně}.
+
+# Já a táta
+Táta zná {mě} dobře.
+Strýc stojí u {mě}.
+Sestra hovoří o {mně}.
+Kočka nese {mně} vědro.
+
+# Já a učitel
+Učitel hladí {mě} po hlavě.
+Pes hovoří o {mně}.
+Sousedka kupuje {mně} kolo.
+Děda vede {mě} k potoku.
+
+# Já a soused
+Soused vede {mě} do lesa.
+Táta je daleko od {mě}.
+Dědeček zná {mě} od malička.
+Sousedka kupuje {mně} tašku.
+
+# Já a strýc
+Strýc nezačne bez {mě}.
+Kovář jde ke {mně}.
+Pes vede {mě} domů.
+Kočka nese {mně} tašku.
+
+# Já a teta (15)
+Teta zná {mě} dobře.
+Kuchař hovoří o {mně}.
+Pastýř stojí u {mě}.
+Dědeček peče {mně} koláč.
+
+# Já a sousedka (16)
+Sousedka dává {mně} chléb.
+Pastýř čeká na {mě}.
+Děda má dárek pro {mě}.
+Sestra čte o {mně}.
+
+# Já a sestra
+Sestra stojí u {mě}.
+Máma nese {mně} tašku.
+Pekař hladí {mě} po hlavě.
+Sousedka honí {mě} po zahradě.
+
+# Já a učitel (18)
+Učitel podává {mně} mléko.
+Sestra běží ke {mně}.
+Učitelka podává {mně} chléb.
+Kovář sleduje {mě} celé ráno.
+
+# Já a kočka (19)
+Kočka ukazuje {mně} knihu.
+Táta sedí vedle {mě}.
+Učitelka čte {mně} větu.
+Učitel hovoří o {mně}.
+
+# Já a děda
+Děda nese {mně} tašku.
+Sestra jde ke {mně}.
+Pekař je daleko od {mě}.
+Kamarád podává {mně} mléko.
+
+# Já a bratr
+Bratr stojí proti {mně}.
+Rybář pracuje pro {mě}.
+Kamarád drží {mě} za ruku.
+Pastýř ukazuje {mně} mapu.
+
+# Já a strýc (22)
+Strýc hovoří o {mně}.
+Učitelka nezačne bez {mě}.
+Bratr kupuje {mně} kolo.
+Kuchař sleduje {mě} od plotu.
+
+# Já a pes (23)
+Pes kupuje {mně} kabát.
+Kovář sedí při {mně}.
+Pastýř drží {mě} pevně.
+Bratr má dárek pro {mě}.
+
+# Já a pekař (24)
+Pekař drží {mě} pevně.
+Kovář nese {mně} vědro.
+Strýc stojí proti {mně}.
+Učitel stojí u {mě}.
+
+# Já a soused (25)
+Soused vede {mě} domů.
+Pes nezačne bez {mě}.
+Táta peče {mně} chléb.
+Kočka sleduje {mě} z okna.
+
+# Já a pastýř
+Pastýř běží ke {mně}.
+Pes kupuje {mně} tašku.
+Kovář zná {mě} od malička.
+Soused nezačne bez {mě}.
+
+# Já a kuchař (27)
+Kuchař čeká na {mě}.
+Teta dává {mně} mléko.
+Učitelka volá {mě} ke stolu.
+Bratr je daleko od {mě}.
+
+# Já a kovář
+Kovář stojí proti {mně}.
+Učitel honí {mě} po dvoře.
+Máma dává {mně} koláč.
+Soused čeká na {mě}.
+
+# Já a bratr (29)
+Bratr hledá {mě} všude.
+Dědeček dává {mně} mléko.
+Učitel sedí při {mně}.
+Kuchař má dárek pro {mě}.
+
+# Já a máma (30)
+Máma vede {mě} do lesa.
+Táta sedí při {mně}.
+Bratr čte {mně} knihu.
+Kamarád čte {mně} knihu.

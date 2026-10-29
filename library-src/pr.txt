@@ -1,0 +1,154 @@
+feature: punct.direct_speech
+code: pr
+---
+# Přímá řeč 1
+{„Počkej u dveří,“} volá kovář{, „dům je u lesa.“}
+{„Kde je táta?“} zjišťuje máma.
+Eva zdůrazňuje{: „Pojď k potoku!“}
+
+# Přímá řeč 2
+{„Běž k lesu,“} ujišťuje teta.
+Děda zdůrazňuje{: „Drž lano!“}
+Rybář přidává{: „Venku sněží.“}
+Adam peče koláč.
+
+# Přímá řeč 3
+{„Večer bude klid,“} šeptá kamarád.
+Pastýř ptá se{: „Co voní?“}
+{„Nes dřevo,“} zdůrazňuje Karel.
+
+# Přímá řeč 4
+{„Nes koš,“} poznamenává Jan{, „ráno je mlha.“}
+Děda opakuje{: „Louka je zelená.“}
+{„Kdo nese koš?“} zjišťuje Eva.
+
+# Přímá řeč 5
+Karel pokračuje{: „Nes koš.“}
+{„Kde je pes?“} ptá se sestra.
+{„Pes štěká,“} upozorňuje kovář.
+
+# Přímá řeč 6
+{„Pes štěká,“} navrhuje Karel.
+{„Počkej u dveří,“} zdůrazňuje máma{, „dnes je sobota.“}
+Dana doporučuje{: „Drž lano.“}
+
+# Přímá řeč 7
+Teta ptá se{: „Co hledáš?“}
+{„Čti knihu!“} ujišťuje Anna.
+{„Kdo zná cestu?“} chce vědět kluk.
+
+# Přímá řeč 8
+{„Počkej u dveří,“} přidává rybář{, „doma je teplo.“}
+{„Hledej tašku,“} oznamuje pekař.
+{„Kam běžíš?“} ptá se soused.
+
+# Přímá řeč 9
+{„Kdo čeká u dveří?“} zjišťuje dívka.
+{„Co hledáš?“} zjišťuje kovář.
+{„Podej chléb,“} volá sestra{, „venku sněží.“}
+
+# Přímá řeč 10
+Učitel pokračuje{: „Nes koš.“}
+{„Louka je zelená,“} říká kuchař.
+Dana křičí{: „Voda je studená.“}
+
+# Přímá řeč 11
+Anna upozorňuje{: „Pojď domů.“}
+{„Zalej záhon,“} navrhuje teta.
+{„Nes koš,“} doporučuje máma{, „pes štěká.“}
+
+# Přímá řeč 12
+Anna ptá se{: „Kde je táta?“}
+Teta doporučuje{: „Hledej tašku!“}
+{„Počkej u dveří,“} navrhuje táta{, „voda je studená.“}
+
+# Přímá řeč 13
+Soused poznamenává{: „Čti knihu.“}
+Rybář ujišťuje{: „Běž k lesu!“}
+{„Kdo zná cestu?“} chce vědět táta.
+
+# Přímá řeč 14
+Dívka opakuje{: „Podej chléb.“}
+Kuchař přidává{: „Louka je zelená.“}
+{„Běž k lesu,“} upozorňuje soused.
+
+# Přímá řeč 15
+{„Pes štěká,“} upozorňuje kamarád.
+Učitel ujišťuje{: „Doma je teplo.“}
+Soused volá{: „Ráno je mlha.“}
+
+# Přímá řeč 16
+Kovář oznamuje{: „Doma je teplo.“}
+{„Kde je pes?“} chce vědět učitel.
+{„Ukaž cestu,“} oznamuje soused{, „kolo je u plotu.“}
+
+# Přímá řeč 17
+{„Zalej záhon,“} dodává sestra{, „kolo je u plotu.“}
+Učitel přidává{: „Cesta je dlouhá.“}
+{„Les je tichý,“} oznamuje táta.
+
+# Přímá řeč 18
+{„Doma je teplo,“} upozorňuje máma.
+{„Čti knihu,“} ujišťuje Karel{, „dům je u lesa.“}
+Dana pokračuje{: „Čti knihu!“}
+
+# Přímá řeč 19
+{„Ukaž cestu,“} oznamuje Anna{, „dům je u lesa.“}
+Táta ujišťuje{: „Ráno je mlha.“}
+{„Nes dřevo!“} oznamuje rybář.
+
+# Přímá řeč 20
+{„Zalej záhon!“} přidává kovář.
+{„Ukaž cestu,“} opakuje pastýř{, „kolo je u plotu.“}
+{„Podej chléb!“} šeptá rybář.
+
+# Přímá řeč 21
+{„Louka je zelená,“} doporučuje táta.
+Pekař šeptá{: „Jdi ven.“}
+Kluk ptá se{: „Kam běžíš?“}
+
+# Přímá řeč 22
+Petr šeptá{: „Les je tichý.“}
+{„Večer bude klid,“} poznamenává máma.
+Sestra opakuje{: „Jdi ven!“}
+
+# Přímá řeč 23
+{„Pojď domů,“} pokračuje teta{, „les je tichý.“}
+Kuchař navrhuje{: „Ráno je mlha.“}
+{„Kdo nese koš?“} ptá se děda.
+
+# Přímá řeč 24
+{„Zavolej tátu!“} navrhuje Petr.
+{„Zalej záhon,“} dodává bratr{, „dům je u lesa.“}
+{„Co čteš?“} zjišťuje Eva.
+
+# Přímá řeč 25
+{„Pojď domů,“} přidává Karel{, „voda je studená.“}
+Kuchař zjišťuje{: „Co voní?“}
+Děda poznamenává{: „Nes dřevo.“}
+
+# Přímá řeč 26
+{„Řeka je hluboká,“} doporučuje sestra.
+{„Pojď k potoku,“} volá dívka{, „hora je daleko.“}
+Petr dodává{: „Řeka je hluboká.“}
+
+# Přímá řeč 27
+Kamarád křičí{: „Koláč voní.“}
+{„Pojď k potoku,“} šeptá Dana{, „řeka je hluboká.“}
+{„Pojď k potoku!“} volá Eva.
+
+# Přímá řeč 28
+Kuchař dodává{: „Hledej tašku.“}
+{„Jdi ven,“} opakuje Eva.
+Učitel volá{: „Podej chléb!“}
+Alan sleduje ptáka.
+
+# Přímá řeč 29
+Bratr zdůrazňuje{: „Cesta je dlouhá.“}
+{„Běž k lesu,“} pokračuje Petr{, „les je tichý.“}
+Pekař chce vědět{: „Co čteš?“}
+
+# Přímá řeč 30
+Dívka navrhuje{: „Slunce hřeje.“}
+Kamarád zdůrazňuje{: „Kočka mňouká.“}
+{„Hledej tašku,“} doporučuje pekař{, „kočka mňouká.“}

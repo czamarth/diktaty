@@ -181,7 +181,7 @@ export function buildDictation({ block, index, meta, taxonomy }) {
       const covered = manual.some((m) => m.sentence_index === si && m.start <= i && i < m.end && m.feature.startsWith('punct.'));
       if (!covered) bad(`věta ${si + 1}: znak „${c}“ není pokryt značkou interpunkčního jevu (punct.*)`);
     });
-    if (!/[.!?]$/.test(s)) bad(`věta ${si + 1} nekončí tečkou, ? ani !`);
+    if (!/[.!?…][„“”"’)]*$/u.test(s)) bad(`věta ${si + 1} nekončí tečkou, ? ani !`);
   });
 
   // Role a uzavřenost množiny jevů
