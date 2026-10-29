@@ -47,6 +47,7 @@ Viz [`docs/LIBRARY.md`](docs/LIBRARY.md): formát balíčku, `npm run validate -
 
 ```
 data/dictations.seed.json   první sada 10 textů (kandidáti)      data/profiles.json   taxonomie jevů, výchozí politika profilu
+data/library/               38 balíčků × 30 vygenerovaných diktátů (ukázky)   library-src/   zdroje těchto textů
 data/source/                původní návrh NotebookLM a validace   web/                 aplikace (vanilla JS, bez závislostí)
 server/                     lokální server, TTS služba, fetch_model.py
 scripts/                    validate-data.mjs, generate_audio.py, offline_e2e.sh
@@ -64,6 +65,9 @@ npm test                          # JS: schéma, výběr, přehrávač, katalog 
 npm run test:py                   # Python: TTS služba, server, fetch_model (s nainstalovaným piper-tts navíc 2 testy proti skutečnému Piperu)
 node tests/e2e/e2e.mjs            # prohlížeč (Playwright + Chromium musí být dostupné); hlas = testovací harness
 npm run validate                  # strukturální kontrola dat
+npm run build:library             # library-src/*.txt → data/library/*.json (přísné kontroly jevů)
+npm run lint:library              # opakování, podobnost, uzavřenost jevů nad celou knihovnou
+npm run install:library           # nakopíruje balíčky do user_data/packs (aplikace je pak nabídne)
 ```
 
 Záznam skutečně provedených testů a jejich omezení: [`docs/TESTLOG.md`](docs/TESTLOG.md).

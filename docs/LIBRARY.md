@@ -68,3 +68,27 @@ Automatické schválení podle ročníku, štítku zdrojového webu nebo názvu 
 ## Co dělat při změně textu
 
 Změňte `sentences`, `text`, `tts_segments`, `word_count`, `content_sha256`, zvyšte `version`, přepočtěte offsety anotací, vraťte `teacher_approved: false` a `annotation_completeness: partial`, dokud se znovu neověří.
+
+## Vygenerovaná knihovna (`data/library/`, 38 balíčků × 30 diktátů)
+
+Pro **každý z 38 jevů** v `data/profiles.json` je jeden balíček `lib-<kód>` s 30 diktáty, v nichž je tento jev jediným cílovým. Všechny položky jsou `review_status: "sample"`, `teacher_approved: false`, `annotation_completeness: "partial"` – tedy **ukázky bez lidské kontroly**.
+
+### Jak vzniká
+`library-src/<kód>.txt` (zdroj) → `node scripts/build-library.mjs` → `data/library/<kód>.json` → `node scripts/lint-library.mjs`.
+Část zdrojů je psaná ručně (1.–4. ročník a vyjmenovaná slova: `sb vq ul pg sc hc vf vi lb ll lm vyc lp ls lv lz lr pan hrad zena`), zbytek poskládaly generátory `scripts/library/gen-*.mjs` z ručně sestavených slovníků a dvojic vět. Obojí prochází stejnými kontrolami. Výplňové věty (`fillers.mjs`) doplňují krátké texty na minimální délku a **tematicky nemusí navazovat**.
+
+### Co generátor vynucuje (a lze to spustit: `npm run build:library`, `npm run lint:library`, `npm test`)
+- **Uzavřenost jevů:** každý jev v textu (automaticky rozpoznaný nebo ručně označený) musí být cílový, nebo mít typický ročník nižší než cíl (případně stejný a „podle ročníku“); vedlejších jevů vyžadujících potvrzení dospělým je nejvýše 3. Tj. text neobsahuje okruh, který by žák v dané úrovni „ještě neznal“.
+- **Skrytá rozhodnutí:** i/y po obojetných souhláskách (včetně ověření podle seznamu vyjmenovaných slov), koncové -i/-y/-ý/-í podle vzoru, minulý čas -l/-la/-lo/-li/-ly, předpony s-/z-/vz-/vy-, mě/mně, velká písmena, čárky a další interpunkce – pokud je autor neoznačí, build selže; pokud patří do vyššího ročníku, build selže.
+- **1. ročník:** žádné i/y, ú/ů, ě, znělé souhlásky na konci ani nesouhlasné skupiny; navíc se u 1. třídy počítá seznam potřebných grafémů.
+- **Neopakování:** žádná věta ani název se neopakuje v celé knihovně (včetně seedu); žádné obsahové slovo není ve více než 8 textech jednoho balíčku (v 1. ročníku 12); texty si nesmí být příliš podobné; ve větě se nesmí opakovat stejné obsahové slovo (výjimka: balíček protikladů `od`).
+- **Zkouška výběrovým mechanismem aplikace** (`tests/js/library.test.mjs`): profil znající jevy do cílového ročníku přijme všech 30 textů; bez cílového jevu nebo bez kteréhokoli vedlejšího jevu text neprojde.
+
+### Co to NEZNAMENÁ (zaručeno není)
+- Že je čeština správná a přirozená (balíčky sestavené ze šablon – `vv vs vlo slo od geo nev shrev pas plur me pr` – obsahují i věcně podivné věty typu „Rybář, který nese kost, je náš soused.“), že věty dávají smysl nebo že jsou pedagogicky vhodné. Texty jsou záměrně jednoduché a často šablonovité; střední délka je **12–23 slov** (1. až 9. ročník), což je výrazně kratší než běžný diktát.
+- Že v textech nejsou jevy, které detektor nezná. Detektory jsou heuristiky nad slovy (viz `scripts/library/phenomena.mjs`), žádná morfologická analýza. Zejména předpony s-/z-/vz- (jen vybraná slova), shoda a koncovky mimo vzory v `lexicon.mjs` se chytají jen částečně.
+- Že anotace jsou úplné (`partial`) ani že `examples` ve `target_features` jsou nejlepší ukázky.
+- Že jsou zvuk, výslovnost nebo licence hlasu v pořádku (viz `docs/TESTLOG.md`, `docs/LICENSES.md`).
+
+### Použití v aplikaci
+`npm run install:library` zkopíruje balíčky do `user_data/packs/` (odtud je lokální server nabízí jako importované). Po instalaci nabízí stránka Knihovna 1150 položek (10 ze seedu + 1140); ročníkové profily z `profiles.json` jsou stále **provizorní**.

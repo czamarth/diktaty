@@ -39,6 +39,7 @@ for (const f of await readdir(path.join(root, 'library-src'))) {
   if (!f.endsWith('.txt') || f === 'plur.txt') continue;
   for (const line of (await readFile(path.join(root, 'library-src', f), 'utf8')).split('\n')) taken.add(norm(line.replace(/[{}]|\|\w+/g, '')));
 }
+const hasDupWord = (x) => { const seen = new Set(); for (const w of (x.replace(/[{}]|\|\w+/g, '').toLowerCase().match(/\p{L}{4,}/gu) ?? [])) { if (seen.has(w)) return true; seen.add(w); } return false; };
 const fresh = (x) => !taken.has(norm(x.replace(/[{}]/g, '')));
 const uses = new Map();
 const bump = (k) => uses.set(k, (uses.get(k) ?? 0) + 1);
@@ -70,7 +71,7 @@ for (let i = 0; i < 30; i++) {
       const useTime = rnd() < 0.6;
       const body = `{${useTime ? sub : cap(sub)} ${verb}} ${obj}.`;
       const sentence = useTime ? `${t} ${body}` : body;
-      if (!fresh(sentence)) continue;
+      if (!fresh(sentence) || hasDupWord(sentence)) continue;
       made = { sentence, subj, base, obj, t: useTime ? t : null };
     }
     if (made) { sentences.push(made.sentence); seenSubj.add(made.subj); bump(`s:${made.subj}`); bump(`v:${made.base}`); bump(`o:${made.obj}`); if (made.t) bump(`t:${made.t}`); taken.add(norm(made.sentence.replace(/[{}]/g, ''))); }

@@ -1,0 +1,152 @@
+feature: punct.embedded_subordinate_clause
+code: vlo
+---
+# Vložená vedlejší věta 1
+Rybář{, který} nese kost{,} je náš soused.
+Učitelka{, která} pere kabát{,} pomáhá mámě.
+Rolník{, který} drží lopatu{,} pomáhá mámě.
+
+# Vložená vedlejší věta 2
+Kluk{, který} nese koš{,} pomáhá mámě.
+Kluk{, který} kope zahradu{,} zná řeku.
+Hříbě{, které} hledá cestu{,} má hlad.
+
+# Vložená vedlejší věta 3
+Kovář{, který} nese vědro{,} zná řeku.
+Kuchařka{, která} hraje na dvoře{,} vaří rýži.
+Štěně{, které} stojí u okna{,} sleduje řeku.
+
+# Vložená vedlejší věta 4
+Dítě{, které} jede na kole{,} běží domů.
+Kluk{, který} otevírá okno{,} krájí maso.
+Pes{, který} běží k potoku{,} hledá cestu.
+
+# Vložená vedlejší věta 5
+Koza{, která} leží u plotu{,} běží k řece.
+Hříbě{, které} sedí u řeky{,} hledá cestu.
+Dědeček{, který} kope jámu{,} volá mámu.
+
+# Vložená vedlejší věta 6
+Teta{, která} nese koš{,} volá mámu.
+Dívka{, která} pracuje v dílně{,} maluje obraz.
+Dívka{, která} volá mámu{,} nese dřevo.
+
+# Vložená vedlejší věta 7
+Teta{, která} seká trávu{,} čte pohádku.
+Dítě{, které} peče chléb{,} spěchá domů.
+Soused{, který} zalévá záhon{,} zná les.
+
+# Vložená vedlejší věta 8
+Kotě{, které} leží u dveří{,} má hlad.
+Sestra{, která} jede na kole{,} otevírá dveře.
+Rybář{, který} pracuje v dílně{,} hladí psa.
+
+# Vložená vedlejší věta 9
+Rybář{, který} řeže prkno{,} maluje obraz.
+Učitelka{, která} nese vědro{,} je moje sestra.
+Kuchař{, který} pracuje v dílně{,} je můj bratr.
+
+# Vložená vedlejší věta 10
+Rolník{, který} maluje obraz{,} zná les.
+Kuchař{, který} kope jámu{,} opravuje střechu.
+Učitel{, který} pere kabát{,} je náš soused.
+
+# Vložená vedlejší věta 11
+Kočka{, která} běží po louce{,} jde k lesu.
+Učitel{, který} peče chléb{,} běží k lesu.
+Prase{, které} běží po louce{,} má hlad.
+
+# Vložená vedlejší věta 12
+Kráva{, která} běží k potoku{,} čeká u plotu.
+Štěně{, které} leží u dveří{,} spěchá domů.
+Učitelka{, která} vede psa{,} sleduje cestu.
+
+# Vložená vedlejší věta 13
+Hříbě{, které} leží u dveří{,} spěchá domů.
+Tesař{, který} čeká na vlak{,} je můj kamarád.
+Pastýř{, který} jde k potoku{,} zná řeku.
+
+# Vložená vedlejší věta 14
+Pekař{, který} leží u dveří{,} je můj bratr.
+Hříbě{, které} sedí u řeky{,} má hlad.
+Rolník{, který} hraje na dvoře{,} pracuje na zahradě.
+
+# Vložená vedlejší věta 15
+Kráva{, která} čeká na vlak{,} sleduje řeku.
+Koza{, která} běží po louce{,} sleduje řeku.
+Kočka{, která} sedí u řeky{,} sleduje les.
+
+# Vložená vedlejší věta 16
+Prase{, které} sedí u řeky{,} běží domů.
+Kráva{, která} stojí u okna{,} jde k lesu.
+Kráva{, která} čeká na vlak{,} běží domů.
+
+# Vložená vedlejší věta 17
+Tesař{, který} vede psa{,} čeká na vlak.
+Kráva{, která} sedí u řeky{,} spěchá domů.
+Dítě{, které} hledá kost{,} čeká u plotu.
+
+# Vložená vedlejší věta 18
+Dívka{, která} zalévá záhon{,} má hlad.
+Sestra{, která} kope zahradu{,} má hlad.
+Dítě{, které} pracuje v dílně{,} spěchá domů.
+
+# Vložená vedlejší věta 19
+Kluk{, který} peče chléb{,} volá mámu.
+Kuchařka{, která} čeká na vlak{,} čte pohádku.
+Pes{, který} jde k potoku{,} sleduje les.
+
+# Vložená vedlejší věta 20
+Pes{, který} běží po louce{,} hledá kost.
+Štěně{, které} čeká u plotu{,} jde k řece.
+Pes{, který} jde k potoku{,} čeká u plotu.
+
+# Vložená vedlejší věta 21
+Sousedka{, která} řeže prkno{,} je moje kamarádka.
+Sestra{, která} stojí u okna{,} pomáhá mámě.
+Pes{, který} sedí u řeky{,} hledá kost.
+
+# Vložená vedlejší věta 22
+Kuchařka{, která} stojí u lesa{,} je moje sestra.
+Kocour{, který} jde k potoku{,} jde k řece.
+Dívka{, která} vede psa{,} otevírá dveře.
+
+# Vložená vedlejší věta 23
+Učitelka{, která} pase ovce{,} pracuje na zahradě.
+Dívka{, která} pracuje v dílně{,} zná řeku.
+Tesař{, který} otevírá okno{,} kupuje chléb.
+
+# Vložená vedlejší věta 24
+Rybář{, který} hraje na dvoře{,} je můj dědeček.
+Rolník{, který} stojí u okna{,} zalévá záhon.
+Kuchařka{, která} sedí u řeky{,} sleduje cestu.
+
+# Vložená vedlejší věta 25
+Sestra{, která} běží k řece{,} sleduje cestu.
+Koza{, která} stojí u okna{,} jde k řece.
+Dívka{, která} řeže prkno{,} prodává mléko.
+
+# Vložená vedlejší věta 26
+Sestra{, která} hledá tašku{,} zná cestu.
+Kovář{, který} nese koš{,} kope jámu.
+Tele{, které} stojí u okna{,} hledá cestu.
+
+# Vložená vedlejší věta 27
+Dívka{, která} kope jámu{,} má hlad.
+Rolník{, který} otevírá okno{,} kope jámu.
+Dědeček{, který} vaří polévku{,} maluje obraz.
+
+# Vložená vedlejší věta 28
+Dívka{, která} jede na kole{,} pomáhá mámě.
+Sestra{, která} čte pohádku{,} má hlad.
+Sousedka{, která} spěchá do lesa{,} kope jámu.
+
+# Vložená vedlejší věta 29
+Sousedka{, která} nese vědro{,} je moje kamarádka.
+Rybář{, který} spěchá do lesa{,} peče koláč.
+Kuchařka{, která} vaří polévku{,} zná les.
+
+# Vložená vedlejší věta 30
+Štěně{, které} jde k potoku{,} hledá kost.
+Učitelka{, která} kope jámu{,} má hlad.
+Dědeček{, který} maluje obraz{,} nese dřevo.

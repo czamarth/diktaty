@@ -4,11 +4,16 @@
   "private": true,
   "type": "module",
   "description": "Lokální aplikace pro české diktáty s offline předčítáním (Piper). Bez závislostí z npm; Node slouží jen k testům a validaci dat.",
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "validate": "node scripts/validate-data.mjs",
     "test": "node --test \"tests/js/*.test.mjs\"",
     "test:py": "python3 -m unittest discover -s tests/py -v",
-    "start": "python3 server/diktaty_server.py"
+    "start": "python3 server/diktaty_server.py",
+    "build:library": "node scripts/build-library.mjs",
+    "lint:library": "node scripts/lint-library.mjs",
+    "install:library": "node scripts/install-library.mjs"
   }
 }

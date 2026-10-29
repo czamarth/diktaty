@@ -91,74 +91,76 @@ V sobotu {Lenka a Tereza malovaly} dům.
 
 # Množné číslo 17
 {Rolníci otevřeli} okno.
-Cestou domů {tesaři šeli} domů.
-{Nela a Marta chodily} po louce.
+V sobotu {Jan a Dana pracovali} v dílně.
+{Učitelky seděly} u řeky.
 
 # Množné číslo 18
-Dříve {Nela a Marta hladily} koně.
-V pátek {kováři pekli} koláč.
+V pátek {Eva a Dana pekly} koláč.
 Před obědem {Anna a Olga stály} u okna.
+{Petr a Jan stáli} u plotu.
+V úterý {tesaři hledali} kost.
 
 # Množné číslo 19
-{Rybáři šeli} domů.
-{Hana a Alena šly} k lesu.
-Na jaře {kuchařky honily} psa.
+Po škole {Jan a Dana pracovali} v dílně.
+Před obědem {učitelky volaly} psa.
+{Petr a Eva jeli} za tátou.
 
 # Množné číslo 20
-V pátek {Nela a Marta pracovaly} v dílně.
-{Kuchaři kopali} jámu.
-{Petr a Jan malovali} dům.
-
-# Množné číslo 21
-Ráno {rolníci leželi} u plotu.
-Před školou {Roman a Lenka kopali} zahradu.
-Před školou {kuchařky upekly} koláč.
-{Holky nesly} koš.
-
-# Množné číslo 22
-{Dívky plavaly} v jezeru.
-{Jan a Dana pracovali} v dílně.
-V létě {učitelé znali} les.
-Ráno {kuchařky honily} kozu.
-
-# Množné číslo 23
-Ráno {kuchaři vařili} rýži.
-V létě {Lenka a Tereza kupovaly} chléb.
-{Pavel a Ota stáli} u okna.
-
-# Množné číslo 24
-{Učitelky seděly} u stolu.
-Dříve {učitelé seděli} u okna.
-Včera {Eva a Dana pracovaly} v dílně.
-
-# Množné číslo 25
-Na jaře {učitelky běžely} ven.
-Na jaře {řidiči běželi} k lesu.
-Ráno {Petr a Eva běželi} domů.
-
-# Množné číslo 26
-Dříve {hoši chodili} po louce.
-Včera {Eva a Dana hledaly} kolo.
-V sobotu {dívky ukázaly} knihu.
-
-# Množné číslo 27
-{Jan a Dana ukázali} knihu.
-V létě {holky hledaly} tašku.
-Včera {Radek a Adam nesli} tašku.
-
-# Množné číslo 28
-Ve čtvrtek {tesaři plavali} v řece.
-{Dívky hledaly} kolo.
-{Kočky ležely} na louce.
+{Vlci plavali} v jezeru.
+{Dívky ležely} na stole.
+{Kováři hladili} kočku.
 Petr běží po louce.
 
-# Množné číslo 29
-{Sousedé podali} mléko.
-V noci {kočky čekaly} na louce.
-{Učitelé vařili} rýži.
+# Množné číslo 21
+{Eva a Dana chodily} po lese.
+Po škole {hoši pracovali} v dílně.
+Dříve {kočky čekaly} na vlak.
+
+# Množné číslo 22
+{Nela a Marta šly} do lesa.
+{Lenka a Tereza podaly} mléko.
+{Učitelé čekali} u dveří.
+
+# Množné číslo 23
+Dříve {Petr a Eva jeli} za tátou.
+{Dívky kopaly} jámu.
+Po škole {žáci kupovali} mléko.
+{Holky četly} pohádku.
+
+# Množné číslo 24
+{Holky podaly} mléko.
+{Tesaři malovali} dům.
+Na jaře {rolníci šeli} k lesu.
 Roman sedí na stole.
 
+# Množné číslo 25
+{Kuchařky hledaly} kost.
+V létě {ptáci stáli} na louce.
+{Řidiči chodili} ke škole.
+{Nela a Marta volaly} tátu.
+
+# Množné číslo 26
+Ráno {vlci běželi} po louce.
+{Dívky volaly} mámu.
+Včera {kočky ležely} na stole.
+Anna jede za tátou.
+
+# Množné číslo 27
+{Kočky běžely} po louce.
+Včera {kuchařky plavaly} v rybníku.
+Ve čtvrtek {kluci kopali} jámu.
+
+# Množné číslo 28
+Včera {Radek a Adam hladili} koně.
+Ráno {učitelé šeli} k lesu.
+Ve čtvrtek {kuchařky volaly} psa.
+
+# Množné číslo 29
+{Řidiči otevřeli} okno.
+Po obědě {Nela a Marta znaly} cestu.
+Cestou domů {kluci hladili} koně.
+
 # Množné číslo 30
-V úterý {Roman a Lenka seděli} na plotě.
-Před obědem {kočky plavaly} v jezeru.
-V úterý {žáci hladili} koně.
+Před školou {Hana a Alena znaly} cestu.
+{Petr a Jan četli} větu.
+{Kočky seděly} u stolu.

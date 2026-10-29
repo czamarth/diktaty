@@ -112,3 +112,21 @@ Stažení: otisk `.onnx` ověřen proti serveru (`ano`), SHA-256 `09d08aa2…76d
 
 Generování (`generate_audio.py`, síť DOSTUPNÁ, `offline_confirmed: false`): 72 nahrávek za 69,3 s, 0 problémů. RTF: průměr skriptu 0,323; první syntéza po startu (D01 celý text, vč. načtení modelu) **2,294**; bez první medián 0,290, max 0,386. Zvuk celkem 217 s (jirka 319 s). Při `length_scale` 1.0 mluví kasandra výrazně rychleji než jirka (délka věty medián 0,68×, rozsah 0,60–0,82×). Zda je „normální“ tempo vhodné pro diktát, je otázka poslechu; možná bude potřeba jiná výchozí hodnota (např. blíž autorovu 1,2) — **nerozhodnuto**.
 Technická kontrola souborů: žádný není tichý (RMS 6 300–8 300 z 32 767); špička je u všech souborů obou hlasů 32 767, protože Piper normalizuje, takže nic o ořezu neříká. **Poslech: NEPROVEDEN** (ani pro kasandru). **Offline běh: NEPROVEDEN** (dřívější příprava platila pro jirku). **Pedagogické schválení: NEPROVEDENO.**
+
+## 8. Rozšíření knihovny na 1140 textů (2026-10-29)
+
+Zadání: pro každý z 38 okruhů (cílových jevů) 30 nových textů, které se příliš neopakují, přísně dodržují „testování znalostí“ a neobsahují okruhy, které žák ještě nezná. Postup, pravidla a **omezení** jsou v `docs/LIBRARY.md` (část „Vygenerovaná knihovna“); zde jen skutečně provedené kontroly.
+
+**Automatické kontroly — PROŠLO**
+- `node scripts/build-library.mjs`: 38 zdrojů → 38 balíčků, **1140 diktátů**, 0 problémů.
+- `node scripts/validate-data.mjs data/library/*.json` (validátor aplikace): 38 × „strukturálně v pořádku“, 1140 položek `ok`.
+- `node scripts/lint-library.mjs`: **0 chyb**, 175 varování (podobnost textů ≥ 50 %, slova ve 7–8 textech, podobné věty). Zpráva: `docs/LIBRARY_REPORT.md`.
+- `npm test`: **77/77** (68 původních + 9 nových v `tests/js/library.test.mjs`): struktura balíčků; jedinečnost ID/vět/kontrolních součtů; žádná položka není „schválená“; **výběr aplikací** – profil znající jevy do ročníku cíle přijme všech 30 textů, bez cílového jevu nebo bez kteréhokoli vedlejšího jevu text neprojde; detektory skrytých jevů; generátor odmítne text se skrytým jevem.
+- `npm run test:py`: 51/51 (beze změny). E2E v prohlížeči (`tests/e2e/e2e.mjs`) po této změně **nespuštěno**.
+- Ručně v headless Chromiu: po `install:library` do dočasné složky a spuštění serveru načte stránka Knihovna **1150 položek** (10 seed + 1140), „1150 z 1150 bez chyb“, „Pedagogické schválení: 0 položek“, bez chyb v konzoli. Doba načtení všech balíčků cca 8 s na pomalém stroji (Pentium 2127U).
+
+**Co je a není ověřeno**
+- Ověřeno: formát, uzavřenost jevů *vůči anotacím a detektorům*, neopakování vět, shoda s profilem při výběru.
+- **Neověřeno:** správnost a přirozenost češtiny, smysluplnost vět (část vět je mechanicky doplněná výplň), pedagogická vhodnost, kompletnost detekce skrytých jevů (detektory jsou heuristiky), délka (medián 12–23 slov, tedy kratší než běžný diktát), zvuk (žádný z textů nebyl vygenerován ani poslechnut).
+- **Redakční kontrola člověkem, poslech i pedagogické schválení: NEPROVEDENY** u všech 1140 textů (`review_status: sample`, `teacher_approved: false`).
+- Pozn.: během práce odhalily kontroly řadu chyb mého prvního návrhu (např. „babička“ obsahuje `bi`, „zemi/školy/malý“ jsou koncovky podle vzoru, „visí“ je vyjmenované slovo); všechny byly opraveny před sestavením. Další podobné chyby mohou zůstat v místech, která detektory nepokrývají.

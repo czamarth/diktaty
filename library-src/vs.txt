@@ -1,0 +1,184 @@
+feature: punct.parenthesis
+code: vs
+---
+# Vsuvka 1
+Máma{, možná,} peče koláč.
+Vlak{, vlastně,} cestuje pomalu.
+Eva{, snad,} čeká u dveří.
+Adam běží k lesu.
+
+# Vsuvka 2
+Petr{, jak známo,} jede na kole.
+Slunce{, zkrátka,} hřeje.
+Kovář{, snad,} kuje podkovu.
+Alan čeká u dveří.
+
+# Vsuvka 3
+Karel{, jistě,} nese dřevo.
+Zvon{, jak známo,} zvoní na věži.
+Pekař{, bohužel,} peče chléb.
+Pavel nese vědro.
+
+# Vsuvka 4
+Marek{, snad,} hladí kočku.
+Dana{, ovšem,} pere kabát.
+Cesta{, ovšem,} vede k potoku.
+Alan zalévá záhon.
+
+# Vsuvka 5
+Zvon{, bohužel,} zvoní na věži.
+Dívka{, zkrátka,} čte knihu.
+Hana{, ovšem,} maluje obraz.
+Lenka zalévá záhon.
+
+# Vsuvka 6
+Anna{, bohužel,} zná cestu.
+Auto{, snad,} stojí u domu.
+Eva{, jistě,} čeká u dveří.
+Ivo jde do lesa.
+
+# Vsuvka 7
+Řeka{, zkrátka,} teče lesem.
+Kluk{, ostatně,} hledá tašku.
+Kovář{, jak známo,} kuje podkovu.
+Dana zná řeku.
+
+# Vsuvka 8
+Soused{, ovšem,} opravuje plot.
+Lenka{, pravda,} otevře okno.
+Kohout{, ovšem,} kokrhá ráno.
+Tereza volá psa.
+Ota vede koně.
+
+# Vsuvka 9
+Pavel{, vlastně,} zvedne kámen.
+Soused{, pravda,} opravuje plot.
+Řeka{, ostatně,} teče lesem.
+Alan čeká na mámu.
+
+# Vsuvka 10
+Zvon{, možná,} zvoní na věži.
+Adam{, snad,} volá psa.
+Rybář{, pravda,} chytá rybu.
+Anna pere šátek.
+
+# Vsuvka 11
+Řeka{, jistě,} teče lesem.
+Petr{, ovšem,} jede na kole.
+Máma{, například,} peče koláč.
+Pavel vede koně.
+
+# Vsuvka 12
+Louka{, zkrátka,} voní.
+Kovář{, jistě,} kuje podkovu.
+Adam{, možná,} volá psa.
+Lenka peče koláč.
+Alan seká dřevo.
+
+# Vsuvka 13
+Děda{, bohužel,} sedí u okna.
+Kuchař{, samozřejmě,} vaří polévku.
+Eva{, konečně,} čeká u dveří.
+Adam volá psa.
+
+# Vsuvka 14
+Kočka{, zkrátka,} sedí na plotě.
+Karel{, jak známo,} nese dřevo.
+Anna{, možná,} zná cestu.
+Eva drží psa.
+
+# Vsuvka 15
+Auto{, zřejmě,} stojí u domu.
+Kočka{, samozřejmě,} sedí na plotě.
+Jan{, konečně,} běží k lesu.
+Radek čeká u dveří.
+
+# Vsuvka 16
+Sestra{, jistě,} nese koš.
+Táta{, bohužel,} jede do města.
+Vlak{, konečně,} jede pomalu.
+Eva hladí kočku.
+
+# Vsuvka 17
+Bratr{, ostatně,} kope zahradu.
+Cesta{, pravda,} vede k potoku.
+Tesař{, ovšem,} řeže prkno.
+Dana jede do města.
+
+# Vsuvka 18
+Kolo{, konečně,} leží u plotu.
+Kočka{, možná,} sedí na plotě.
+Hana{, ostatně,} maluje obraz.
+Radek hledá tašku.
+
+# Vsuvka 19
+Adam{, jak se zdá,} volá psa.
+Bratr{, bohužel,} kope zahradu.
+Anna{, samozřejmě,} zná cestu.
+Karel volá psa.
+
+# Vsuvka 20
+Máma{, samozřejmě,} peče koláč.
+Cesta{, zřejmě,} vede k potoku.
+Lenka{, jistě,} otevře okno.
+Pavel jede do města.
+
+# Vsuvka 21
+Kolo{, zřejmě,} leží u plotu.
+Děda{, pravda,} sedí u okna.
+Rolník{, možná,} orá pole.
+Adam nese kabát.
+
+# Vsuvka 22
+Pavel{, možná,} zvedne kámen.
+Tesař{, samozřejmě,} řeže prkno.
+Pes{, možná,} nechce jít domů.
+Lenka maluje obraz.
+
+# Vsuvka 23
+Les{, bohužel,} je tichý.
+Pes{, ostatně,} nechce jít domů.
+Dívka{, pravda,} čte knihu.
+Nela zalévá záhon.
+
+# Vsuvka 24
+Marek{, jak známo,} hladí kočku.
+Lenka{, jak se zdá,} otevře okno.
+Pekař{, ostatně,} peče chléb.
+Alena běží po louce.
+
+# Vsuvka 25
+Táta{, zkrátka,} jede do města.
+Les{, jistě,} je tichý.
+Rybář{, zkrátka,} chytá rybu.
+Lenka pere šátek.
+
+# Vsuvka 26
+Bratr{, konečně,} kope zahradu.
+Marek{, konečně,} hladí kočku.
+Kuchař{, bohužel,} vaří polévku.
+Lenka běží domů.
+Adam pere šátek.
+
+# Vsuvka 27
+Kuchař{, ostatně,} vaří polévku.
+Kluk{, pravda,} hledá tašku.
+Pastýř{, ostatně,} vede ovce.
+Jan jede za tátou.
+
+# Vsuvka 28
+Les{, konečně,} je tichý.
+Táta{, vlastně,} jede do města.
+Rolník{, vlastně,} orá pole.
+Marta nese tašku.
+
+# Vsuvka 29
+Olga{, například,} hraje na louce.
+Pekař{, zkrátka,} peče chléb.
+Pes{, vlastně,} nechce jít domů.
+Marta zalévá záhon.
+
+# Vsuvka 30
+Kluk{, jak se zdá,} hledá tašku.
+Rybář{, vlastně,} chytá rybu.
+Jan{, jak se zdá,} běží k lesu.

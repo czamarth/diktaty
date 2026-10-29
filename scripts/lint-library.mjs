@@ -7,6 +7,7 @@
 //   E  dva texty jsou si příliš podobné (sdílené obsahové slovo ≥ 65 %), W od 50 %
 //   E  obsahové slovo se vyskytuje ve více než 8 textech jednoho balíčku (W od 6)
 //   W  podobné věty v různých textech (sdílí ≥ 75 % slov)
+//   E  stejné obsahové slovo (≥ 4 písmena) dvakrát v jedné větě
 //   E  jev v textu není dovolen pro cílový ročník (nezávislé zopakování pravidla nad hotovým JSON)
 //   E  chybí cílový jev nebo počet diktátů v balíčku není 30
 
@@ -61,6 +62,15 @@ for (const p of packs) {
       if (seenSent.has(k) && seenSent.get(k) !== d.id) E(`stejná věta „${s}“ v ${d.id} a ${seenSent.get(k)}`);
       seenSent.set(k, d.id);
     });
+  }
+}
+
+// Opakované obsahové slovo v jedné větě (typicky vada šablony: „…, který spěchá domů, spěchá domů.“)
+for (const p of packs.filter((x) => x.library && x.id !== 'lib-od')) for (const d of p.dictations) for (const s of d.sentences) { // lib-od: u protikladů je opakování podstatného jména záměrné
+  const seen = new Set();
+  for (const w of words(s).map((x) => x.toLowerCase()).filter((x) => x.length >= 4 && !STOP.has(x))) {
+    if (seen.has(w)) { E(`${d.id}: slovo „${w}“ se opakuje ve větě „${s}“`); break; }
+    seen.add(w);
   }
 }
 

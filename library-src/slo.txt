@@ -1,0 +1,152 @@
+feature: punct.multiple_subordinate_clauses
+code: slo
+---
+# Souvětí s více vedlejšími větami 1
+Když voda klesá v rybníku{,} najdeme tašku{, protože} fouká vítr.
+Když louka je mokrá{,} zavoláme psa{, protože} zvonek cinká.
+Petr čeká{, až} kouř stoupá z komína a koláč voní.
+
+# Souvětí s více vedlejšími větami 2
+Olga čeká{, až} okno je otevřené a vlk vyje v lese.
+Soused volá{, že} nakrájíme chléb{, protože} kráva bučí.
+Rybář čeká{, až} les je tichý a káva je horká.
+
+# Souvětí s více vedlejšími větami 3
+Olga čeká{, až} dům je tichý a lampa je stará.
+Eva říká{, že} natrháme jablka{, protože} osel hýká.
+Jakmile řeka je hluboká{,} zavoláme psa{, protože} je mráz.
+
+# Souvětí s více vedlejšími větami 4
+Když pes štěká{,} uvaříme polévku{, protože} potok bublá.
+Když kluk běží po louce{,} sedíme u okna{, protože} slunce hřeje.
+Pavel čeká{, až} je pozdě a voda klesá v rybníku.
+
+# Souvětí s více vedlejšími větami 5
+Marek čeká{, až} sněží a kohout kokrhá.
+Karel čeká{, až} taška je těžká a žába kváká v potoce.
+Když hora je daleko{,} počkáme u dveří{, protože} kráva bučí.
+
+# Souvětí s více vedlejšími větami 6
+Jakmile ptáci létají nad lesem{,} jedeme do města{, protože} déšť padá.
+Rolník čeká{, až} dům je tichý a děda sedí u okna.
+Jakmile kniha je tlustá{,} ohřejeme polévku{, protože} je tma.
+
+# Souvětí s více vedlejšími větami 7
+Dokud ryba plave pod mostem{,} zalijeme záhon{, protože} potok bublá.
+Když les je tichý{,} zavřeme dveře{, protože} je tma.
+Marek šeptá{, že} natrháme hrušky{, protože} stoupá mlha.
+
+# Souvětí s více vedlejšími větami 8
+Dana čeká{, až} kráva bučí na louce a pole je suché.
+Dana křičí{, že} otevřeme dveře{, protože} zvon zvoní.
+Jakmile most je dlouhý{,} sníme koláč{, protože} stoupá mlha.
+
+# Souvětí s více vedlejšími větami 9
+Dívka čeká{, až} husa plave v rybníku a jabloň kvete v zahradě.
+Pavel doufá{, že} jdeme do lesa{, protože} je horko.
+Když koza hledá trávu{,} zůstaneme doma{, protože} oheň praská.
+
+# Souvětí s více vedlejšími větami 10
+Sestra doufá{, že} najdeme tašku{, protože} je horko.
+Sestra volá{, že} zalijeme trávu{, protože} stoupá mlha.
+Dokud děda sedí u okna{,} zalijeme záhon{, protože} kouř stoupá.
+
+# Souvětí s více vedlejšími větami 11
+Pastýř křičí{, že} uvaříme čaj{, protože} stoupá mlha.
+Adam dodává{, že} pomáháme mámě{, protože} stoupá mlha.
+Rolník říká{, že} odneseme koš{, protože} je zima.
+
+# Souvětí s více vedlejšími větami 12
+Dokud sníh klouže ze střechy{,} hledáme tašku{, protože} pes štěká.
+Když kráva bučí na louce{,} zavoláme tátu{, protože} vlak jede.
+Eva říká{, že} jedeme do města{, protože} je pozdě.
+
+# Souvětí s více vedlejšími větami 13
+Když pole je suché{,} sníme koláč{, protože} osel hýká.
+Hana křičí{, že} pojedeme domů{, protože} sněží.
+Jakmile voda klesá v rybníku{,} čekáme na vlak{, protože} prší.
+
+# Souvětí s více vedlejšími větami 14
+Děda křičí{, že} jdeme domů{, protože} sněží.
+Soused volá{, že} spočítáme jablka{, protože} slunce hřeje.
+Pastýř křičí{, že} čteme knihu{, protože} sníh klouže.
+
+# Souvětí s více vedlejšími větami 15
+Když prší{,} sníme koláč{, protože} kráva bučí.
+Máma říká{, že} otevřeme dveře{, protože} je horko.
+Dokud potok bublá v lese{,} pojedeme domů{, protože} je pozdě.
+
+# Souvětí s více vedlejšími větami 16
+Učitel volá{, že} upečeme koláč{, protože} je horko.
+Dokud učitel ukazuje mapu{,} zahrajeme hru{, protože} osel hýká.
+Jakmile vlk vyje v lese{,} zhasneme lampu{, protože} je pozdě.
+
+# Souvětí s více vedlejšími větami 17
+Jakmile káva je horká{,} čteme knihu{, protože} pes štěká na louce.
+Jakmile les je tichý{,} natrháme jablka{, protože} déšť padá.
+Dana dodává{, že} zavoláme tátu{, protože} déšť padá.
+
+# Souvětí s více vedlejšími větami 18
+Když taška je těžká{,} zamkneme dům{, protože} je mráz.
+Když máma peče chléb{,} poběžíme ke škole{, protože} potok bublá.
+Když kráva pase na louce{,} hledáme tašku{, protože} je zima.
+
+# Souvětí s více vedlejšími větami 19
+Jakmile kočka mňouká u dveří{,} zavoláme tátu{, protože} voda teče.
+Dokud taška je těžká{,} upečeme koláč{, protože} zvonek cinká.
+Tesař křičí{, že} jedeme do města{, protože} potok bublá.
+
+# Souvětí s více vedlejšími větami 20
+Máma křičí{, že} čekáme na vlak{, protože} stoupá mlha.
+Dokud jabloň kvete v zahradě{,} zalijeme záhon{, protože} oheň praská.
+Dokud děda sedí u okna{,} odneseme koš{, protože} bouchají dveře.
+
+# Souvětí s více vedlejšími větami 21
+Adam křičí{, že} zhasneme lampu{, protože} je mráz.
+Jakmile pole je suché{,} zalijeme trávu{, protože} je zima.
+Máma křičí{, že} spočítáme jablka{, protože} list padá.
+
+# Souvětí s více vedlejšími větami 22
+Dokud dům je tichý{,} otevřeme okno{, protože} je tma.
+Učitel křičí{, že} poběžíme ke škole{, protože} kůň řehtá.
+Dokud taška je těžká{,} jedeme do města{, protože} bouchají dveře.
+
+# Souvětí s více vedlejšími větami 23
+Rybář doufá{, že} přeskočíme potok{, protože} zvonek cinká.
+Karel říká{, že} spočítáme jablka{, protože} je pozdě.
+Pavel říká{, že} čteme knihu{, protože} zvonek cinká.
+
+# Souvětí s více vedlejšími větami 24
+Kovář říká{, že} čteme knihu{, protože} osel hýká.
+Marek říká{, že} pomáháme mámě{, protože} potok bublá.
+Tesař doufá{, že} sníme koláč{, protože} sníh klouže.
+
+# Souvětí s více vedlejšími větami 25
+Děda doufá{, že} natrháme jablka{, protože} déšť padá.
+Eva doufá{, že} spočítáme jablka{, protože} kokrhá kohout.
+Hana dodává{, že} otevřeme dveře{, protože} kokrhá kohout.
+
+# Souvětí s více vedlejšími větami 26
+Anna dodává{, že} otevřeme okno{, protože} kokrhá kohout.
+Olga šeptá{, že} zahrajeme hru{, protože} zvonek cinká.
+Adam doufá{, že} natrháme hrušky{, protože} pes štěká.
+
+# Souvětí s více vedlejšími větami 27
+Táta dodává{, že} natrháme jablka{, protože} voda stoupá.
+Děda říká{, že} zůstaneme venku{, protože} déšť padá.
+Jan šeptá{, že} sedíme u okna{, protože} zvon zvoní.
+
+# Souvětí s více vedlejšími větami 28
+Dívka šeptá{, že} natrháme hrušky{, protože} déšť padá.
+Jan šeptá{, že} sedíme u okna{, protože} je pozdě.
+Tesař říká{, že} otevřeme okno{, protože} sníh klouže.
+
+# Souvětí s více vedlejšími větami 29
+Kovář doufá{, že} zhasneme lampu{, protože} voda stoupá.
+Dana doufá{, že} zavřeme dveře{, protože} fouká vítr.
+Soused volá{, že} přečteme větu{, protože} pes štěká.
+
+# Souvětí s více vedlejšími větami 30
+Marek volá{, že} pomáháme mámě{, protože} voda teče.
+Rybář volá{, že} ohřejeme polévku{, protože} kokrhá kohout.
+Rybář volá{, že} zůstaneme venku{, protože} fouká vítr.

@@ -2,181 +2,181 @@ feature: syntax.past_singular
 code: pas
 ---
 # Minulý čas 1
-{Kuchař držel} lopatu.
-Před obědem {prase stálo} na louce.
-V noci {tesař šel} domů.
-Na jaře {Hana podala} chléb.
+Po škole {rybář vedl} koně.
+Ve středu {Marek četl} mapu.
+{Dítě běželo} k lesu.
+V noci {Anna pekla} koláč.
 
 # Minulý čas 2
-V noci {štěně chodilo} po louce.
-Včera {husa stála} u okna.
-{Jan stál} u plotu.
-{Dívka seděla} u stolu.
+Ve středu {sestra podala} chléb.
+Ve středu {učitel hrál} před domem.
+Před školou {Olga plavala} v řece.
+V úterý {tele jelo} domů.
 
 # Minulý čas 3
-Večer {Hana hledala} tašku.
-V sobotu {Radek maloval} obraz.
-{Máma běžela} ven.
-{Marek četl} větu.
+V noci {Olga kupovala} mléko.
+Odpoledne {štěně chodilo} po lese.
+{Husa stála} u okna.
+Dříve {Pavel pracoval} v dílně.
 
 # Minulý čas 4
-V létě {Anna otevřela} dveře.
-Odpoledne {Marta četla} mapu.
-Před školou {táta hladil} kočku.
-Cestou domů {dítě jelo} domů.
+Včera {máma četla} mapu.
+Ve středu {soused plaval} v rybníku.
+{Teta podala} koláč.
+Dříve {prase běželo} ven.
 
 # Minulý čas 5
-Včera {pekař plaval} v rybníku.
-V pátek {kovář stál} u dveří.
-V pátek {Olga chodila} ke škole.
-Na jaře {Anna honila} psa.
+Ráno {Karel nesl} vědro.
+Před školou {prase stálo} u dveří.
+Odpoledne {Hana čekala} na louce.
+Odpoledne {Alena držela} lano.
 
 # Minulý čas 6
-Odpoledne {pekař plaval} v rybníku.
-{Dítě leželo} u plotu.
-{Sestra kopala} zahradu.
-Na jaře {teta kupovala} chléb.
+Cestou domů {Alena malovala} obraz.
+V pátek {Marta ležela} u dveří.
+Ve čtvrtek {tesař nesl} koš.
+Dříve {hříbě jelo} do města.
 
 # Minulý čas 7
-{Kotě čekalo} u dveří.
-{Kovář šel} domů.
-{Petr podal} chléb.
-{Máma šla} k lesu.
+Dříve {kuchař šel} k lesu.
+{Štěně plavalo} v řece.
+{Pekař ukázal} mapu.
+Cestou domů {teta čekala} na vlak.
 
 # Minulý čas 8
-{Kluk ležel} u plotu.
-{Máma seděla} na plotě.
-Ráno {prase plavalo} v řece.
-{Rybář hrál} před domem.
+Před školou {kuchařka pracovala} na zahradě.
+Po obědě {Jan podal} koláč.
+{Anna volala} mámu.
+{Tele plavalo} v jezeru.
 
 # Minulý čas 9
-{Anna plavala} v rybníku.
-Večer {kluk četl} větu.
-Ráno {učitel upekl} koláč.
-{Tele jelo} za tátou.
+{Nela držela} lano.
+Před obědem {Pavel kopal} zahradu.
+Před obědem {soused vedl} psa.
+{Štěně stálo} u okna.
 
 # Minulý čas 10
-Večer {učitelka ukázala} knihu.
-V pátek {sestra plavala} v řece.
-Na jaře {tele čekalo} u dveří.
-V létě {Adam hladil} koně.
+Před obědem {sousedka seděla} u řeky.
+Cestou domů {Radek vedl} koně.
+Po obědě {Alena nesla} dřevo.
+Před školou {Vojta ukázal} mapu.
 
 # Minulý čas 11
-V pátek {dítě stálo} u plotu.
-V sobotu {táta šel} k lesu.
-Před obědem {kovář maloval} dům.
-{Kuchařka znala} cestu.
+Včera {tesař vařil} polévku.
+Večer {máma nesla} vědro.
+Ve čtvrtek {pekař ležel} na stole.
+V létě {kotě čekalo} u plotu.
 
 # Minulý čas 12
-Včera {Jan kupoval} mléko.
-Ve čtvrtek {Dana ukázala} mapu.
-Cestou domů {hříbě sedělo} u okna.
-V noci {tesař pracoval} v dílně.
+V noci {Petr šel} domů.
+{Dívka stála} u dveří.
+Odpoledne {Nela volala} psa.
+Ve čtvrtek {dítě leželo} na louce.
 
 # Minulý čas 13
-Ve čtvrtek {Adam upekl} koláč.
-Po obědě {teta běžela} domů.
-Před obědem {pekař otevřel} okno.
-Večer {štěně leželo} u plotu.
+{Radek šel} k potoku.
+Ve čtvrtek {Tereza stála} u dveří.
+{Štěně běželo} domů.
+Po škole {Marta četla} knihu.
 
 # Minulý čas 14
-Dříve {kotě čekalo} na vlak.
-Před obědem {tesař četl} knihu.
-{Kuchařka čekala} u dveří.
-Odpoledne {teta znala} cestu.
+{Dědeček pracoval} v dílně.
+Ráno {Marta nesla} dřevo.
+V pátek {tele běželo} po louce.
+V pátek {Dana šla} k lesu.
 
 # Minulý čas 15
-{Karel četl} pohádku.
-{Dana hledala} lopatu.
-V létě {Pavel pekl} koláč.
-V noci {štěně sedělo} na plotě.
+Včera {učitelka ukázala} knihu.
+{Tereza kupovala} koláč.
+V sobotu {kotě plavalo} v řece.
+Večer {Jan kopal} zahradu.
 
 # Minulý čas 16
-Před školou {štěně běželo} domů.
-Ráno {Radek maloval} dům.
-{Máma hledala} sekeru.
-{Pavel hrál} před domem.
+V sobotu {Hana držela} psa.
+{Rybář vedl} psa.
+Po obědě {dívka pekla} koláč.
+{Kotě běželo} ven.
 
 # Minulý čas 17
-Dříve {kuchař kupoval} chléb.
-Ve středu {sousedka upekla} koláč.
-{Hříbě hrálo} na dvoře.
-Po obědě {táta šel} do lesa.
+{Tesař seděl} na plotě.
+{Olga pekla} koláč.
+{Dítě čekalo} u dveří.
+Na jaře {sousedka hledala} kolo.
 
 # Minulý čas 18
-Cestou domů {učitel pracoval} na zahradě.
-{Kluk jel} do města.
-Před školou {Hana kupovala} chléb.
-V úterý {hříbě běželo} po louce.
+{Učitel upekl} chléb.
+Na jaře {hříbě hrálo} na louce.
+{Anna ležela} u plotu.
+Ráno {Petr podal} chléb.
 
 # Minulý čas 19
-Po škole {prase chodilo} po lese.
-{Pavel maloval} obraz.
-Odpoledne {kluk čekal} u dveří.
-Ve středu {Anna znala} cestu.
+Před obědem {Tereza vedla} kozu.
+{Vojta pekl} chléb.
+{Anna seděla} u řeky.
+{Tele chodilo} ke škole.
 
 # Minulý čas 20
-{Radek otevřel} okno.
-{Alena ukázala} knihu.
-{Tele leželo} na stole.
-{Dana pracovala} v dílně.
+V pátek {dítě čekalo} u dveří.
+V sobotu {Radek držel} psa.
+Po obědě {teta volala} mámu.
+{Marta znala} les.
 
 # Minulý čas 21
-Ve středu {Eva pracovala} na zahradě.
-{Teta hladila} kočku.
-V úterý {Vojta kupoval} koláč.
-V létě {Petr jel} za tátou.
+V noci {Eva držela} lano.
+Cestou domů {teta znala} cestu.
+V sobotu {soused hrál} před domem.
+Včera {Roman volal} mámu.
 
 # Minulý čas 22
-{Marta chodila} po louce.
-Cestou domů {Vojta upekl} koláč.
-{Tele chodilo} ke škole.
-Ve čtvrtek {kuchařka malovala} dům.
+Večer {Vojta maloval} obraz.
+{Tereza malovala} obraz.
+V létě {Jan kopal} jámu.
+Na jaře {Nela pracovala} v dílně.
 
 # Minulý čas 23
-{Pastýř hladil} koně.
-{Karel ležel} na stole.
-Ve středu {hříbě hrálo} před domem.
-Dříve {Hana vedla} psa.
+{Roman hrál} na louce.
+Na jaře {kuchařka honila} kozu.
+{Ota šel} domů.
+V létě {hříbě jelo} za tátou.
 
 # Minulý čas 24
-Před školou {Marek pekl} chléb.
-{Lenka pracovala} na zahradě.
-Ve čtvrtek {Eva držela} tašku.
-Ráno {pekař hladil} kočku.
+{Pastýř hrál} před domem.
+V létě {kotě leželo} na stole.
+{Lenka upekla} chléb.
+{Dívka chodila} ke škole.
 
 # Minulý čas 25
-{Karel držel} lano.
-{Sestra jela} za tátou.
-Dříve {Alena běžela} ven.
-Včera {dítě sedělo} u řeky.
+Ráno {prase jelo} na kole.
+{Pekař otevřel} dveře.
+{Kočka chodila} po louce.
+{Tesař pracoval} na zahradě.
 
 # Minulý čas 26
-{Nela otevřela} dveře.
-Po obědě {Dana ukázala} knihu.
-Po obědě {kovář nesl} koš.
-Radek kope zahradu.
+V úterý {Eva kupovala} chléb.
+{Hana kopala} zahradu.
+Po škole {Marek kupoval} mléko.
+Po škole {prase sedělo} u řeky.
 
 # Minulý čas 27
-{Marta vedla} koně.
-Po škole {soused ukázal} cestu.
-V sobotu {kotě hrálo} na dvoře.
-{Sousedka kopala} jámu.
+{Jan volal} psa.
+V úterý {Olga vařila} polévku.
+{Eva hledala} kost.
+{Kluk honil} kozu.
 
 # Minulý čas 28
-Po škole {táta podal} mléko.
-Po škole {Olga otevřela} dveře.
-V sobotu {kuchař držel} lano.
-{Učitelka vedla} kozu.
+{Pekař honil} kozu.
+{Dana znala} cestu.
+{Hříbě jelo} za tátou.
+Večer {učitelka ukázala} mapu.
 
 # Minulý čas 29
-V úterý {dívka vedla} koně.
-V úterý {pastýř držel} lopatu.
-Včera {sousedka hledala} kolo.
+V úterý {Radek hladil} kočku.
+{Hana podala} mléko.
+{Sestra malovala} dům.
+Adam zná řeku.
 
 # Minulý čas 30
-Včera {sestra kopala} zahradu.
-{Pavel vedl} kozu.
-{Kuchař podal} mléko.
-Jan hledá dřevo.
-Roman čeká u dveří.
+Včera {Adam seděl} na plotě.
+{Pes chodil} po lese.
+{Lenka malovala} plot.
+Radek zná les.

@@ -1,0 +1,152 @@
+feature: punct.subordinate_clause_boundary
+code: vv
+---
+# Vedlejší věta 1
+Pastýř pase ovce{, protože} list padá.
+Anna čeká{, až} čmelák bzučí nad květem.
+Eva čeká{, až} tužka je krátká.
+
+# Vedlejší věta 2
+Oheň praská v kamnech{, protože} někdo jde.
+Jakmile vlk vyje v lese{,} spočítáme jablka.
+Čmelák bzučí nad květem{, protože} někdo jde.
+
+# Vedlejší věta 3
+Lenka doufá{, že} pekař peče chléb.
+Učitel čte pohádku{, protože} je zima.
+Zatímco plot je starý{,} hledáme tašku.
+
+# Vedlejší věta 4
+Bratr hladí psa{, protože} vlak jede.
+Dokud zvonek cinká u dveří{,} zavoláme mámu.
+Kos sedí na střeše{, protože} zvon zvoní.
+
+# Vedlejší věta 5
+Kluk hledá kost{, protože} vlk vyje v lese.
+Jan čeká{, až} dívka čte knihu.
+Máma pere kabát{, protože} je tma.
+
+# Vedlejší věta 6
+Máma říká{, že} sníh klouže ze střechy.
+Osel hýká na dvoře{, protože} kokrhá kohout.
+Bratr hladí psa{, protože} stoupá mlha.
+
+# Vedlejší věta 7
+Sestra křičí{, že} děda sedí u okna.
+Učitel čeká{, až} voda teče z hory.
+Táta zhasne lampu{, protože} kokrhá kohout.
+
+# Vedlejší věta 8
+Děda křičí{, že} voda je studená.
+Kráva bučí na louce{, protože} bouchají dveře.
+Dívka čeká{, až} kočka sedí u okna.
+
+# Vedlejší věta 9
+Jakmile lampa je stará{,} upečeme chléb.
+Dívka čeká{, až} taška je těžká.
+Marek čeká{, až} kluk běží po louce.
+
+# Vedlejší věta 10
+Anna říká{, že} kluk běží po louce.
+Tesař řeže prkno{, protože} je zima.
+Marek doufá{, že} ryba plave pod mostem.
+
+# Vedlejší věta 11
+Dokud plot je starý{,} uvaříme polévku.
+Hana čeká{, až} most je dlouhý.
+Jakmile voda je studená{,} upečeme chléb.
+
+# Vedlejší věta 12
+Jan šeptá{, že} řeka je hluboká.
+Pastýř říká{, že} cesta je dlouhá.
+Kuchař čeká{, až} cesta je dlouhá.
+
+# Vedlejší věta 13
+Adam křičí{, že} sova letí nad lesem.
+Zatímco koláč voní{,} otevřeme okno.
+Zatímco máma peče chléb{,} jdeme ke škole.
+
+# Vedlejší věta 14
+Dokud pes leží u plotu{,} půjdeme k lesu.
+Když hora je daleko{,} zalijeme trávu.
+Jan čeká{, až} fouká vítr.
+
+# Vedlejší věta 15
+Kluk volá{, že} zvon zvoní.
+Oheň praská v kamnech{, protože} je zima.
+Pastýř pase ovce{, protože} voda teče.
+
+# Vedlejší věta 16
+Jakmile mléko je studené{,} sedíme u okna.
+Petr křičí{, že} kouř stoupá z komína.
+Pekař říká{, že} pes leží u plotu.
+
+# Vedlejší věta 17
+Dokud husa plave v rybníku{,} jdeme ke škole.
+Dokud taška je těžká{,} uvaříme čaj.
+Když vlk vyje v lese{,} zavoláme mámu.
+
+# Vedlejší věta 18
+Když les je tichý{,} ohřejeme polévku.
+Pastýř doufá{, že} máma peče chléb.
+Ježek šplhá na pařez{, protože} déšť padá.
+
+# Vedlejší věta 19
+Dokud káva je horká{,} upečeme koláč.
+Adam šeptá{, že} kluk běží po louce.
+Dokud mapa je nová{,} upečeme chléb.
+
+# Vedlejší věta 20
+Dívka nese kabát{, protože} voda teče.
+Pekař peče chléb{, protože} fouká vítr.
+Ryba plave pod mostem{, protože} bouchají dveře.
+
+# Vedlejší věta 21
+Lenka šeptá{, že} oheň praská v kamnech.
+Dokud sova letí nad lesem{,} nakrájíme chléb.
+Pavel dodává{, že} je pozdě.
+
+# Vedlejší věta 22
+Kluk hledá kost{, protože} kokrhá kohout.
+Zatímco žába kváká v potoce{,} přečteme pohádku.
+Marek volá{, že} tráva roste na louce.
+
+# Vedlejší věta 23
+Bratr šeptá{, že} ryba plave pod mostem.
+Máma volá{, že} oheň praská v kamnech.
+Soused doufá{, že} list padá ze stromu.
+
+# Vedlejší věta 24
+Kuchař vaří polévku{, protože} je mráz.
+Pes štěká{, protože} je ticho.
+Soused jede do města{, protože} zvonek cinká.
+
+# Vedlejší věta 25
+Kluk běží domů{, protože} kouř stoupá.
+Učitel čte pohádku{, protože} zvon zvoní.
+Dokud kniha je tlustá{,} přečteme pohádku.
+
+# Vedlejší věta 26
+Soused doufá{, že} tráva je zelená.
+Jakmile sníh klouže ze střechy{,} zavoláme psa.
+Pes štěká{, protože} kouř stoupá.
+
+# Vedlejší věta 27
+Když okno je zavřené{,} otevřeme dveře.
+Zatímco dům je tichý{,} otevřeme okno.
+Jakmile polévka je horká{,} čekáme na vlak.
+
+# Vedlejší věta 28
+Kočka sedí u okna{, protože} kouř stoupá.
+Veverka šplhá na strom{, protože} potok bublá.
+Jakmile táta jede do města{,} upečeme koláč.
+
+# Vedlejší věta 29
+Jakmile fouká vítr{,} přeskočíme potok.
+Pastýř vede ovce{, protože} stoupá mlha.
+Osel hýká na dvoře{, protože} vlak jede.
+
+# Vedlejší věta 30
+Bratr hladí psa{, protože} sněží.
+Děti čekají u dveří{, protože} voda teče.
+Dokud taška je těžká{,} hledáme tašku.

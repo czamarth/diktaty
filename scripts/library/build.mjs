@@ -99,7 +99,7 @@ function lengthLimits(grade) {
   if (grade === 3) return { maxSentenceWords: 11, minWords: 10, maxWords: 48 };
   if (grade === 4) return { maxSentenceWords: 14, minWords: 12, maxWords: 70 };
   if (grade === 5) return { maxSentenceWords: 14, minWords: 14, maxWords: 70 };
-  return { maxSentenceWords: 20, minWords: grade <= 7 ? 15 : 16, maxWords: 100 };
+  return { maxSentenceWords: 20, minWords: grade <= 6 ? 14 : grade === 7 ? 15 : 16, maxWords: 100 };
 }
 
 const overlaps = (a, b) => a.sentence_index === b.sentence_index && a.start < b.end && b.start < a.end;
