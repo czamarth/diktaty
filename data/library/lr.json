@@ -1358,26 +1358,26 @@
     "id": "L-lr-21",
     "title": "Dílna s lisem",
     "recommended_grade": 4,
-    "sentences": ["Tesař má v dílně starý lis.","Lis stojí vedle pilníku.","Pilník leží na stole.","Tesař dělá nábytek."],
+    "sentences": ["Tesař má v dílně starý lis.","Lis stojí vedle pilníku.","Pilník leží na stole.","Tesař měří prkno."],
     "target_features": [
       {"id":"orth.listed_words_review","label":"Dříve probrané lexikální i/y (opakování)","examples":["lis","Lis","pilníku","Pilník"]}
     ],
     "incidental_features": [
-      {"id":"orth.palatal_groups_basic","label":"Slabiky dě, tě, ně, bě, pě, vě, mě; di, ti, ni","examples":["dílně","pilníku","Pilník","dělá"]},
+      {"id":"orth.palatal_groups_basic","label":"Slabiky dě, tě, ně, bě, pě, vě, mě; di, ti, ni","examples":["dílně","pilníku","Pilník","měří"]},
       {"id":"orth.hard_consonants_basic","label":"Tvrdé souhlásky a y/ý po nich (h, ch, k, r, d, t, n)","examples":["starý"]},
       {"id":"orth.sentence_boundaries","label":"Hranice vět: velké písmeno na začátku a tečka na konci","examples":["Tesař",".","Lis","Pilník"]},
       {"id":"orth.vowel_quantity","label":"Délka samohlásek","examples":["má","dílně","starý","stojí"]},
-      {"id":"orth.soft_consonants_basic","label":"Měkké souhlásky a i/í po nich (ř, ž, š, č, j …)","examples":["stojí","leží"]}
+      {"id":"orth.soft_consonants_basic","label":"Měkké souhlásky a i/í po nich (ř, ž, š, č, j …)","examples":["stojí","leží","měří"]}
     ],
     "required_known_forms": [],
     "support": [],
     "learner_profile_note": "Cílový jev: Dříve probrané lexikální i/y (opakování). Text vyžaduje potvrzené: Dříve probrané lexikální i/y (opakování); Slabiky dě, tě, ně, bě, pě, vě, mě; di, ti, ni; Tvrdé souhlásky a y/ý po nich (h, ch, k, r, d, t, n); Hranice vět: velké písmeno na začátku a tečka na konci; Délka samohlásek; Měkké souhlásky a i/í po nich (ř, ž, š, č, j …). Slova musí dítě významově znát.",
     "teacher_note": "Text vznikl v knihovně library-src (asistent) a prošel jen automatickou kontrolou (scripts/lint-library.mjs). Lidská redakční kontrola, poslech ani pedagogické schválení neproběhly.",
     "version": 1,
-    "text": "Tesař má v dílně starý lis. Lis stojí vedle pilníku. Pilník leží na stole. Tesař dělá nábytek.",
+    "text": "Tesař má v dílně starý lis. Lis stojí vedle pilníku. Pilník leží na stole. Tesař měří prkno.",
     "sentence_count": 4,
     "word_count": 17,
-    "content_sha256": "6478dc273a507ea8510d8e92d43e30fa2050a41139e8e6658eb69a8b90438416",
+    "content_sha256": "66f2bbb42174409d53e0fb0aecf82451fc9a105332914b7b4d85a4f337b672e7",
     "origin": "assistant_generated_lint_checked",
     "review_status": "sample",
     "teacher_approved": false,
@@ -1412,17 +1412,16 @@
       {"sentence_index":2,"start":7,"end":11,"span":"leží","feature_id":"orth.vowel_quantity","role":"incidental","review_status":"editorial_proposal"},
       {"sentence_index":2,"start":20,"end":21,"span":".","feature_id":"orth.sentence_boundaries","role":"incidental","review_status":"editorial_proposal"},
       {"sentence_index":3,"start":0,"end":5,"span":"Tesař","feature_id":"orth.sentence_boundaries","role":"incidental","review_status":"editorial_proposal"},
-      {"sentence_index":3,"start":6,"end":10,"span":"dělá","feature_id":"orth.palatal_groups_basic","role":"incidental","review_status":"editorial_proposal"},
-      {"sentence_index":3,"start":6,"end":10,"span":"dělá","feature_id":"orth.vowel_quantity","role":"incidental","review_status":"editorial_proposal"},
-      {"sentence_index":3,"start":11,"end":18,"span":"nábytek","feature_id":"orth.listed_words_review","role":"target","review_status":"editorial_proposal"},
-      {"sentence_index":3,"start":11,"end":18,"span":"nábytek","feature_id":"orth.vowel_quantity","role":"incidental","review_status":"editorial_proposal"},
-      {"sentence_index":3,"start":18,"end":19,"span":".","feature_id":"orth.sentence_boundaries","role":"incidental","review_status":"editorial_proposal"}
+      {"sentence_index":3,"start":6,"end":10,"span":"měří","feature_id":"orth.palatal_groups_basic","role":"incidental","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":6,"end":10,"span":"měří","feature_id":"orth.soft_consonants_basic","role":"incidental","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":6,"end":10,"span":"měří","feature_id":"orth.vowel_quantity","role":"incidental","review_status":"editorial_proposal"},
+      {"sentence_index":3,"start":16,"end":17,"span":".","feature_id":"orth.sentence_boundaries","role":"incidental","review_status":"editorial_proposal"}
     ],
     "tts_segments": [
       {"id":"L-lr-21-S01","sentence_index":0,"text":"Tesař má v dílně starý lis."},
       {"id":"L-lr-21-S02","sentence_index":1,"text":"Lis stojí vedle pilníku."},
       {"id":"L-lr-21-S03","sentence_index":2,"text":"Pilník leží na stole."},
-      {"id":"L-lr-21-S04","sentence_index":3,"text":"Tesař dělá nábytek."}
+      {"id":"L-lr-21-S04","sentence_index":3,"text":"Tesař měří prkno."}
     ]
   },
   {

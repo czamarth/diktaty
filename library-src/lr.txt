@@ -125,7 +125,7 @@ V lese je klid.
 Tesař má v dílně starý lis.
 Lis stojí vedle pilníku.
 Pilník leží na stole.
-Tesař dělá nábytek.
+Tesař měří prkno.
 
 # Vítěz závodu
 Vítěz dostane velký pohár.
